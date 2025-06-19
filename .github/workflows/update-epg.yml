@@ -1,0 +1,49 @@
+name: 每日更新EPG数据
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天UTC时间0点运行 (对应北京时间8点)
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+        
+      - name: 设置Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: 下载EPG数据和JSON信息
+        env:
+          EPG_URL: ${{ secrets.EPG_URL }}
+          JSON_URL: ${{ secrets.JSON_URL }}
+        run: python update_epg.py
+        
+      - name: 检查更改
+        id: check_changes
+        run: |
+          git status --porcelain
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: 提交更改
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add pl.xml.gz pl.json README.md
+          git commit -m "自动更新EPG数据和信息 $(date +'%Y-%m-%d')"
+          git push 
