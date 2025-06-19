@@ -4,8 +4,8 @@ import json
 from datetime import datetime, timedelta
 
 def download_epg():
-    # 从环境变量获取URL，如果未设置则使用默认值（可以设为其他不敏感的值）
-    url = os.environ.get("EPG_URL", "默认值或空字符串")
+
+    url = os.environ.get("EPG_URL", "")
     output_file = "pl.xml.gz"
     
     try:
@@ -29,7 +29,7 @@ def download_epg():
         return False
 
 def get_json_info():
-    # 从环境变量获取JSON URL，如果未设置则使用默认值
+
     json_url = os.environ.get("JSON_URL", "")
     json_output_file = "pl.json"
     
