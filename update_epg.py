@@ -100,7 +100,11 @@ def update_readme(channels):
 ### 直接下载
 您可以直接从仓库下载最新的EPG数据文件：
 ```
-https://raw.githubusercontent.com/litiande03/EPG/refs/heads/master/pl.xml.gz
+https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
+```
+或
+```
+https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 ```
 
 ### 在IPTV播放器中使用
