@@ -5,14 +5,18 @@
 ### 直接下载
 您可以直接从仓库下载最新的EPG数据文件：
 ```
-https://raw.githubusercontent.com/litiande03/EPG/refs/heads/master/pl.xml.gz
+https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
+```
+或
+```
+https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 ```
 
 ### 在IPTV播放器中使用
 在大多数IPTV播放器中，您可以直接设置EPG源为上述URL。
 
 ## 更新信息
-- **最后更新时间**: 2025-06-20 02:08:28 (北京时间)
+- **最后更新时间**: 2025-06-20 02:15:43 (北京时间)
 - **频道总数**: 555
 
 ## 频道列表
