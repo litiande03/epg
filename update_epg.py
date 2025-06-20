@@ -93,7 +93,7 @@ def update_readme(channels):
         # 获取北京时间
         beijing_time = get_beijing_time()
         
-        readme_content = f"""# EPG数据自动更新
+        readme_content = f"""# EPG-电子节目单
 
 ## 使用方法
 
