@@ -2,12 +2,17 @@ name: 每日更新EPG数据
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 每天UTC时间0点运行 (对应北京时间8点)
+    - cron: '15 4 * * *'  # 每天UTC时间0点和12点运行 (对应北京时间8点和20点)
   workflow_dispatch:  # 允许手动触发
+  push:
+    branches:
+      - master  # 当推送到master分支时也触发
 
 jobs:
   update-epg:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 明确设置写入内容的权限
     
     steps:
       - name: 检出代码
