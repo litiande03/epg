@@ -3,7 +3,7 @@
     "id": "1",
     "name": "广东卫视",
     "source": "dx-epg",
-    "programme_count": 240,
+    "programme_count": 270,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-22"
@@ -80,7 +80,7 @@
     "id": "8",
     "name": "广东影视",
     "source": "dx-epg",
-    "programme_count": 327,
+    "programme_count": 318,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -102,7 +102,7 @@
     "id": "10",
     "name": "嘉佳卡通",
     "source": "dx-epg",
-    "programme_count": 1106,
+    "programme_count": 1198,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -113,7 +113,7 @@
     "id": "11",
     "name": "南方购物-精选",
     "source": "dx-epg",
-    "programme_count": 332,
+    "programme_count": 373,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-22"
@@ -135,7 +135,7 @@
     "id": "13",
     "name": "南方购物",
     "source": "dx-epg",
-    "programme_count": 332,
+    "programme_count": 373,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-22"
@@ -146,7 +146,7 @@
     "id": "14",
     "name": "岭南戏曲",
     "source": "dx-epg",
-    "programme_count": 346,
+    "programme_count": 311,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -168,7 +168,7 @@
     "id": "16",
     "name": "广州综合",
     "source": "dx-epg",
-    "programme_count": 257,
+    "programme_count": 254,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-22"
@@ -212,7 +212,7 @@
     "id": "20",
     "name": "深圳卫视",
     "source": "dx-epg",
-    "programme_count": 425,
+    "programme_count": 423,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -223,10 +223,10 @@
     "id": "21",
     "name": "深圳都市",
     "source": "dx-epg",
-    "programme_count": 349,
+    "programme_count": 364,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -234,10 +234,10 @@
     "id": "22",
     "name": "深圳体育",
     "source": "dx-epg",
-    "programme_count": 339,
+    "programme_count": 381,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -245,10 +245,10 @@
     "id": "23",
     "name": "深圳电视剧",
     "source": "dx-epg",
-    "programme_count": 270,
+    "programme_count": 278,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -256,10 +256,10 @@
     "id": "24",
     "name": "深圳财经",
     "source": "dx-epg",
-    "programme_count": 322,
+    "programme_count": 343,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -267,10 +267,10 @@
     "id": "25",
     "name": "深圳少儿",
     "source": "dx-epg",
-    "programme_count": 226,
+    "programme_count": 227,
     "date_range": {
       "start": "2025-06-20",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -278,7 +278,7 @@
     "id": "26",
     "name": "深圳宝安",
     "source": "dx-epg",
-    "programme_count": 217,
+    "programme_count": 222,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -377,7 +377,7 @@
     "id": "35",
     "name": "惠州综合",
     "source": "dx-epg",
-    "programme_count": 369,
+    "programme_count": 376,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -388,7 +388,7 @@
     "id": "36",
     "name": "惠州都市生活",
     "source": "dx-epg",
-    "programme_count": 420,
+    "programme_count": 449,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -443,7 +443,7 @@
     "id": "41",
     "name": "香山文化",
     "source": "dx-epg",
-    "programme_count": 249,
+    "programme_count": 250,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-22"
@@ -729,10 +729,10 @@
     "id": "68",
     "name": "睛彩竞技",
     "source": "dx-epg",
-    "programme_count": 63,
+    "programme_count": 73,
     "date_range": {
       "start": "2025-06-20",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -740,10 +740,10 @@
     "id": "69",
     "name": "睛彩篮球",
     "source": "dx-epg",
-    "programme_count": 83,
+    "programme_count": 101,
     "date_range": {
       "start": "2025-06-20",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -751,10 +751,10 @@
     "id": "70",
     "name": "睛彩青少",
     "source": "dx-epg",
-    "programme_count": 105,
+    "programme_count": 127,
     "date_range": {
       "start": "2025-06-20",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -762,10 +762,10 @@
     "id": "71",
     "name": "睛彩广场舞",
     "source": "dx-epg",
-    "programme_count": 73,
+    "programme_count": 88,
     "date_range": {
       "start": "2025-06-20",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -773,10 +773,10 @@
     "id": "72",
     "name": "宜和购物",
     "source": "dx-epg",
-    "programme_count": 377,
+    "programme_count": 405,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -784,10 +784,10 @@
     "id": "73",
     "name": "中国天气",
     "source": "dx-epg",
-    "programme_count": 665,
+    "programme_count": 712,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-22"
+      "end": "2025-06-23"
     },
     "has_programmes": true
   },
@@ -795,7 +795,7 @@
     "id": "74",
     "name": "CCTV-1 综合",
     "source": "dx-epg",
-    "programme_count": 386,
+    "programme_count": 394,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -806,7 +806,7 @@
     "id": "75",
     "name": "CCTV-2 财经",
     "source": "dx-epg",
-    "programme_count": 363,
+    "programme_count": 371,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -817,7 +817,7 @@
     "id": "76",
     "name": "CCTV-3 综艺",
     "source": "dx-epg",
-    "programme_count": 227,
+    "programme_count": 230,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -828,7 +828,7 @@
     "id": "77",
     "name": "CCTV-4 中文国际",
     "source": "dx-epg",
-    "programme_count": 445,
+    "programme_count": 460,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -839,7 +839,7 @@
     "id": "78",
     "name": "CCTV-4 中文国际欧洲",
     "source": "dx-epg",
-    "programme_count": 70,
+    "programme_count": 61,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-21"
@@ -850,7 +850,7 @@
     "id": "79",
     "name": "CCTV-4 中文国际美洲",
     "source": "dx-epg",
-    "programme_count": 61,
+    "programme_count": 53,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-21"
@@ -861,7 +861,7 @@
     "id": "80",
     "name": "CCTV-5+ 体育赛事",
     "source": "dx-epg",
-    "programme_count": 191,
+    "programme_count": 194,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -872,7 +872,7 @@
     "id": "81",
     "name": "CCTV-5 体育",
     "source": "dx-epg",
-    "programme_count": 226,
+    "programme_count": 229,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -883,7 +883,7 @@
     "id": "82",
     "name": "CCTV-6 电影",
     "source": "dx-epg",
-    "programme_count": 353,
+    "programme_count": 358,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -894,7 +894,7 @@
     "id": "83",
     "name": "CCTV-7 国防 军事",
     "source": "dx-epg",
-    "programme_count": 344,
+    "programme_count": 352,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -905,7 +905,7 @@
     "id": "84",
     "name": "CCTV-8 电视剧",
     "source": "dx-epg",
-    "programme_count": 397,
+    "programme_count": 404,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -916,7 +916,7 @@
     "id": "85",
     "name": "CCTV-9 记录",
     "source": "dx-epg",
-    "programme_count": 296,
+    "programme_count": 301,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -927,7 +927,7 @@
     "id": "86",
     "name": "CCTV-10 科教",
     "source": "dx-epg",
-    "programme_count": 363,
+    "programme_count": 373,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -938,7 +938,7 @@
     "id": "87",
     "name": "CCTV-11 戏曲",
     "source": "dx-epg",
-    "programme_count": 215,
+    "programme_count": 220,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -949,7 +949,7 @@
     "id": "88",
     "name": "CCTV-12 社会与法",
     "source": "dx-epg",
-    "programme_count": 312,
+    "programme_count": 318,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -960,7 +960,7 @@
     "id": "89",
     "name": "CCTV-13 新闻",
     "source": "dx-epg",
-    "programme_count": 354,
+    "programme_count": 361,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -971,7 +971,7 @@
     "id": "90",
     "name": "CCTV-14 少儿",
     "source": "dx-epg",
-    "programme_count": 174,
+    "programme_count": 176,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -982,7 +982,7 @@
     "id": "91",
     "name": "CCTV-15 音乐",
     "source": "dx-epg",
-    "programme_count": 187,
+    "programme_count": 190,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -993,7 +993,7 @@
     "id": "92",
     "name": "CCTV-16 奥林匹克",
     "source": "dx-epg",
-    "programme_count": 65,
+    "programme_count": 59,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-23"
@@ -1004,7 +1004,7 @@
     "id": "93",
     "name": "CCTV-17 农业 农村",
     "source": "dx-epg",
-    "programme_count": 320,
+    "programme_count": 321,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1158,7 +1158,7 @@
     "id": "107",
     "name": "CGTN英语",
     "source": "dx-epg",
-    "programme_count": 109,
+    "programme_count": 99,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-22"
@@ -1169,7 +1169,7 @@
     "id": "108",
     "name": "CGTN英文记录",
     "source": "dx-epg",
-    "programme_count": 54,
+    "programme_count": 46,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-21"
@@ -1180,7 +1180,7 @@
     "id": "109",
     "name": "CGTN西班牙语",
     "source": "dx-epg",
-    "programme_count": 123,
+    "programme_count": 112,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-22"
@@ -1191,7 +1191,7 @@
     "id": "110",
     "name": "CGTN法语",
     "source": "dx-epg",
-    "programme_count": 100,
+    "programme_count": 91,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-23"
@@ -1202,7 +1202,7 @@
     "id": "111",
     "name": "CGTN阿拉伯语",
     "source": "dx-epg",
-    "programme_count": 113,
+    "programme_count": 104,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-23"
@@ -1213,7 +1213,7 @@
     "id": "112",
     "name": "CGTN俄语",
     "source": "dx-epg",
-    "programme_count": 118,
+    "programme_count": 109,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-22"
@@ -1224,10 +1224,10 @@
     "id": "113",
     "name": "湖南卫视",
     "source": "dx-epg",
-    "programme_count": 289,
+    "programme_count": 329,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1257,10 +1257,10 @@
     "id": "116",
     "name": "东方卫视",
     "source": "dx-epg",
-    "programme_count": 300,
+    "programme_count": 332,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1279,7 +1279,7 @@
     "id": "118",
     "name": "北京卫视",
     "source": "dx-epg",
-    "programme_count": 357,
+    "programme_count": 360,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1290,10 +1290,10 @@
     "id": "119",
     "name": "天津卫视",
     "source": "dx-epg",
-    "programme_count": 335,
+    "programme_count": 382,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1312,10 +1312,10 @@
     "id": "121",
     "name": "江西卫视",
     "source": "dx-epg",
-    "programme_count": 338,
+    "programme_count": 385,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1334,10 +1334,10 @@
     "id": "123",
     "name": "辽宁卫视",
     "source": "dx-epg",
-    "programme_count": 346,
+    "programme_count": 397,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1345,7 +1345,7 @@
     "id": "124",
     "name": "黑龙江卫视",
     "source": "dx-epg",
-    "programme_count": 393,
+    "programme_count": 394,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1356,10 +1356,10 @@
     "id": "125",
     "name": "贵州卫视",
     "source": "dx-epg",
-    "programme_count": 295,
+    "programme_count": 335,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-20"
+      "end": "2025-06-21"
     },
     "has_programmes": true
   },
@@ -1367,10 +1367,10 @@
     "id": "126",
     "name": "四川卫视",
     "source": "dx-epg",
-    "programme_count": 356,
+    "programme_count": 405,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1389,10 +1389,10 @@
     "id": "128",
     "name": "云南卫视",
     "source": "dx-epg",
-    "programme_count": 369,
+    "programme_count": 420,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1400,10 +1400,10 @@
     "id": "129",
     "name": "重庆卫视",
     "source": "dx-epg",
-    "programme_count": 282,
+    "programme_count": 334,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1411,10 +1411,10 @@
     "id": "130",
     "name": "河北卫视",
     "source": "dx-epg",
-    "programme_count": 335,
+    "programme_count": 379,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1422,7 +1422,7 @@
     "id": "131",
     "name": "东南卫视",
     "source": "dx-epg",
-    "programme_count": 440,
+    "programme_count": 441,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1455,7 +1455,7 @@
     "id": "134",
     "name": "陕西卫视",
     "source": "dx-epg",
-    "programme_count": 351,
+    "programme_count": 349,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1466,7 +1466,7 @@
     "id": "135",
     "name": "山西卫视",
     "source": "dx-epg",
-    "programme_count": 412,
+    "programme_count": 413,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-22"
@@ -1477,7 +1477,7 @@
     "id": "136",
     "name": "内蒙古卫视",
     "source": "dx-epg",
-    "programme_count": 403,
+    "programme_count": 411,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1488,10 +1488,10 @@
     "id": "137",
     "name": "青海卫视",
     "source": "dx-epg",
-    "programme_count": 299,
+    "programme_count": 344,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1499,10 +1499,10 @@
     "id": "138",
     "name": "海南卫视",
     "source": "dx-epg",
-    "programme_count": 382,
+    "programme_count": 436,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1510,10 +1510,10 @@
     "id": "139",
     "name": "宁夏卫视",
     "source": "dx-epg",
-    "programme_count": 282,
+    "programme_count": 323,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-20"
+      "end": "2025-06-21"
     },
     "has_programmes": true
   },
@@ -1521,7 +1521,7 @@
     "id": "140",
     "name": "西藏卫视",
     "source": "dx-epg",
-    "programme_count": 417,
+    "programme_count": 416,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1543,10 +1543,10 @@
     "id": "142",
     "name": "甘肃卫视",
     "source": "dx-epg",
-    "programme_count": 398,
+    "programme_count": 454,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1554,7 +1554,7 @@
     "id": "143",
     "name": "兵团卫视",
     "source": "dx-epg",
-    "programme_count": 403,
+    "programme_count": 402,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1565,7 +1565,7 @@
     "id": "145",
     "name": "茶",
     "source": "dx-epg",
-    "programme_count": 246,
+    "programme_count": 242,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1587,7 +1587,7 @@
     "id": "147",
     "name": "求索纪录",
     "source": "dx-epg",
-    "programme_count": 103,
+    "programme_count": 96,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-22"
@@ -1598,7 +1598,7 @@
     "id": "148",
     "name": "天元围棋",
     "source": "dx-epg",
-    "programme_count": 98,
+    "programme_count": 87,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-23"
@@ -1609,7 +1609,7 @@
     "id": "149",
     "name": "广东4K超高清",
     "source": "dx-epg",
-    "programme_count": 109,
+    "programme_count": 105,
     "date_range": {
       "start": "2025-06-17",
       "end": "2025-06-22"
@@ -1620,7 +1620,7 @@
     "id": "150",
     "name": "广东4K超高清 窄色域 30",
     "source": "dx-epg",
-    "programme_count": 109,
+    "programme_count": 105,
     "date_range": {
       "start": "2025-06-17",
       "end": "2025-06-22"
@@ -1642,10 +1642,10 @@
     "id": "152",
     "name": "广州南国都市4K",
     "source": "dx-epg",
-    "programme_count": 51,
+    "programme_count": 80,
     "date_range": {
       "start": "2025-06-20",
-      "end": "2025-06-21"
+      "end": "2025-06-22"
     },
     "has_programmes": true
   },
@@ -1653,7 +1653,7 @@
     "id": "154",
     "name": "CCTV4K-50P",
     "source": "dx-epg",
-    "programme_count": 84,
+    "programme_count": 81,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-23"
@@ -1664,7 +1664,7 @@
     "id": "155",
     "name": "北京卫视4K-25P",
     "source": "dx-epg",
-    "programme_count": 354,
+    "programme_count": 357,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1673,9 +1673,9 @@
   },
   {
     "id": "156",
-    "name": "780169343",
+    "name": "北京卫视4K-50P",
     "source": "dx-epg",
-    "programme_count": 356,
+    "programme_count": 359,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1686,7 +1686,7 @@
     "id": "157",
     "name": "卡酷动画",
     "source": "dx-epg",
-    "programme_count": 159,
+    "programme_count": 144,
     "date_range": {
       "start": "2025-06-20",
       "end": "2025-06-23"
@@ -1697,10 +1697,10 @@
     "id": "158",
     "name": "金鹰卡通",
     "source": "dx-epg",
-    "programme_count": 179,
+    "programme_count": 198,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-20"
+      "end": "2025-06-21"
     },
     "has_programmes": true
   },
@@ -1741,7 +1741,7 @@
     "id": "162",
     "name": "财富天下",
     "source": "dx-epg",
-    "programme_count": 354,
+    "programme_count": 342,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-22"
@@ -1752,7 +1752,7 @@
     "id": "163",
     "name": "厦门卫视",
     "source": "dx-epg",
-    "programme_count": 343,
+    "programme_count": 349,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
@@ -1774,10 +1774,10 @@
     "id": "165",
     "name": "三沙卫视",
     "source": "dx-epg",
-    "programme_count": 294,
+    "programme_count": 336,
     "date_range": {
       "start": "2025-06-14",
-      "end": "2025-06-20"
+      "end": "2025-06-21"
     },
     "has_programmes": true
   },
@@ -1807,7 +1807,7 @@
     "id": "168",
     "name": "CETV2",
     "source": "dx-epg",
-    "programme_count": 460,
+    "programme_count": 459,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-22"
@@ -1818,7 +1818,7 @@
     "id": "169",
     "name": "CETV4",
     "source": "dx-epg",
-    "programme_count": 461,
+    "programme_count": 462,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-22"
@@ -2951,9 +2951,9 @@
     "id": "TVB生活台",
     "name": "TVB生活台",
     "source": "tvbanywhere-epg",
-    "programme_count": 373,
+    "programme_count": 338,
     "date_range": {
-      "start": "2025-06-14",
+      "start": "2025-06-15",
       "end": "2025-06-23"
     },
     "has_programmes": true
@@ -2981,6 +2981,17 @@
     "has_programmes": true
   },
   {
+    "id": "澳門綜藝",
+    "name": "澳門綜藝",
+    "source": "tmd-epg",
+    "programme_count": 288,
+    "date_range": {
+      "start": "2025-06-14",
+      "end": "2025-06-24"
+    },
+    "has_programmes": true
+  },
+  {
     "id": "澳門體育",
     "name": "澳門體育",
     "source": "tmd-epg",
@@ -2992,10 +3003,10 @@
     "has_programmes": true
   },
   {
-    "id": "澳門綜藝",
-    "name": "澳門綜藝",
+    "id": "澳門資訊",
+    "name": "澳門資訊",
     "source": "tmd-epg",
-    "programme_count": 273,
+    "programme_count": 446,
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-24"
@@ -3010,17 +3021,6 @@
     "date_range": {
       "start": "2025-06-14",
       "end": "2025-06-23"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "澳門資訊",
-    "name": "澳門資訊",
-    "source": "tmd-epg",
-    "programme_count": 446,
-    "date_range": {
-      "start": "2025-06-14",
-      "end": "2025-06-24"
     },
     "has_programmes": true
   },
