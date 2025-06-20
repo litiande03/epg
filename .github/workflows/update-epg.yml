@@ -2,7 +2,7 @@ name: 每日更新EPG数据
 
 on:
   schedule:
-    - cron: '39 5 * * *'  # 每天UTC时间0点和12点运行 (对应北京时间8点和20点)
+    - cron: '30 6 * * *'  # 每天UTC时间0点和12点运行 (对应北京时间8点和20点)
   workflow_dispatch:  # 允许手动触发
   push:
     branches:
