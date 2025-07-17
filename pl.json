@@ -223,10 +223,10 @@
     "id": "深圳都市",
     "name": "深圳都市",
     "source": "dx-epg",
-    "programme_count": 325,
+    "programme_count": 334,
     "date_range": {
       "start": "2025-07-11",
-      "end": "2025-07-19"
+      "end": "2025-07-20"
     },
     "has_programmes": true
   },
@@ -234,10 +234,10 @@
     "id": "深圳体育",
     "name": "深圳体育",
     "source": "dx-epg",
-    "programme_count": 337,
+    "programme_count": 353,
     "date_range": {
       "start": "2025-07-11",
-      "end": "2025-07-19"
+      "end": "2025-07-20"
     },
     "has_programmes": true
   },
@@ -245,10 +245,10 @@
     "id": "深圳电视剧",
     "name": "深圳电视剧",
     "source": "dx-epg",
-    "programme_count": 257,
+    "programme_count": 260,
     "date_range": {
       "start": "2025-07-11",
-      "end": "2025-07-19"
+      "end": "2025-07-20"
     },
     "has_programmes": true
   },
@@ -267,7 +267,7 @@
     "id": "深圳少儿",
     "name": "深圳少儿",
     "source": "dx-epg",
-    "programme_count": 247,
+    "programme_count": 243,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-19"
@@ -278,7 +278,7 @@
     "id": "深圳宝安",
     "name": "深圳宝安",
     "source": "dx-epg",
-    "programme_count": 222,
+    "programme_count": 224,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -377,7 +377,7 @@
     "id": "惠州综合",
     "name": "惠州综合",
     "source": "dx-epg",
-    "programme_count": 342,
+    "programme_count": 345,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -388,7 +388,7 @@
     "id": "惠州都市生活",
     "name": "惠州都市生活",
     "source": "dx-epg",
-    "programme_count": 428,
+    "programme_count": 431,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -729,10 +729,10 @@
     "id": "睛彩竞技",
     "name": "睛彩竞技",
     "source": "dx-epg",
-    "programme_count": 60,
+    "programme_count": 73,
     "date_range": {
       "start": "2025-07-17",
-      "end": "2025-07-19"
+      "end": "2025-07-20"
     },
     "has_programmes": true
   },
@@ -740,10 +740,10 @@
     "id": "睛彩篮球",
     "name": "睛彩篮球",
     "source": "dx-epg",
-    "programme_count": 104,
+    "programme_count": 124,
     "date_range": {
       "start": "2025-07-17",
-      "end": "2025-07-19"
+      "end": "2025-07-20"
     },
     "has_programmes": true
   },
@@ -751,10 +751,10 @@
     "id": "睛彩青少",
     "name": "睛彩青少",
     "source": "dx-epg",
-    "programme_count": 108,
+    "programme_count": 128,
     "date_range": {
       "start": "2025-07-17",
-      "end": "2025-07-19"
+      "end": "2025-07-20"
     },
     "has_programmes": true
   },
@@ -762,10 +762,10 @@
     "id": "睛彩广场舞",
     "name": "睛彩广场舞",
     "source": "dx-epg",
-    "programme_count": 74,
+    "programme_count": 88,
     "date_range": {
       "start": "2025-07-17",
-      "end": "2025-07-19"
+      "end": "2025-07-20"
     },
     "has_programmes": true
   },
@@ -784,10 +784,10 @@
     "id": "中国天气",
     "name": "中国天气",
     "source": "dx-epg",
-    "programme_count": 665,
+    "programme_count": 693,
     "date_range": {
       "start": "2025-07-11",
-      "end": "2025-07-19"
+      "end": "2025-07-20"
     },
     "has_programmes": true
   },
@@ -795,7 +795,7 @@
     "id": "CCTV-1 综合",
     "name": "CCTV-1 综合",
     "source": "dx-epg",
-    "programme_count": 382,
+    "programme_count": 384,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -806,7 +806,7 @@
     "id": "CCTV-2 财经",
     "name": "CCTV-2 财经",
     "source": "dx-epg",
-    "programme_count": 382,
+    "programme_count": 383,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -817,7 +817,7 @@
     "id": "CCTV-3 综艺",
     "name": "CCTV-3 综艺",
     "source": "dx-epg",
-    "programme_count": 238,
+    "programme_count": 239,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -828,7 +828,7 @@
     "id": "CCTV-4 中文国际",
     "name": "CCTV-4 中文国际",
     "source": "dx-epg",
-    "programme_count": 432,
+    "programme_count": 433,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -839,7 +839,7 @@
     "id": "CCTV-4 中文国际欧洲",
     "name": "CCTV-4 中文国际欧洲",
     "source": "dx-epg",
-    "programme_count": 65,
+    "programme_count": 64,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-18"
@@ -850,7 +850,7 @@
     "id": "CCTV-4 中文国际美洲",
     "name": "CCTV-4 中文国际美洲",
     "source": "dx-epg",
-    "programme_count": 64,
+    "programme_count": 63,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-18"
@@ -872,7 +872,7 @@
     "id": "CCTV-5 体育",
     "name": "CCTV-5 体育",
     "source": "dx-epg",
-    "programme_count": 225,
+    "programme_count": 226,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -894,7 +894,7 @@
     "id": "CCTV-7 国防 军事",
     "name": "CCTV-7 国防 军事",
     "source": "dx-epg",
-    "programme_count": 348,
+    "programme_count": 349,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -905,7 +905,7 @@
     "id": "CCTV-8 电视剧",
     "name": "CCTV-8 电视剧",
     "source": "dx-epg",
-    "programme_count": 404,
+    "programme_count": 406,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -916,7 +916,7 @@
     "id": "CCTV-9 记录",
     "name": "CCTV-9 记录",
     "source": "dx-epg",
-    "programme_count": 283,
+    "programme_count": 284,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -927,7 +927,7 @@
     "id": "CCTV-10 科教",
     "name": "CCTV-10 科教",
     "source": "dx-epg",
-    "programme_count": 364,
+    "programme_count": 365,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -938,7 +938,7 @@
     "id": "CCTV-11 戏曲",
     "name": "CCTV-11 戏曲",
     "source": "dx-epg",
-    "programme_count": 204,
+    "programme_count": 205,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -949,7 +949,7 @@
     "id": "CCTV-12 社会与法",
     "name": "CCTV-12 社会与法",
     "source": "dx-epg",
-    "programme_count": 311,
+    "programme_count": 313,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -960,7 +960,7 @@
     "id": "CCTV-13 新闻",
     "name": "CCTV-13 新闻",
     "source": "dx-epg",
-    "programme_count": 356,
+    "programme_count": 358,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -993,7 +993,7 @@
     "id": "CCTV-16 奥林匹克",
     "name": "CCTV-16 奥林匹克",
     "source": "dx-epg",
-    "programme_count": 65,
+    "programme_count": 63,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-20"
@@ -1158,7 +1158,7 @@
     "id": "CGTN英语",
     "name": "CGTN英语",
     "source": "dx-epg",
-    "programme_count": 111,
+    "programme_count": 110,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-19"
@@ -1169,7 +1169,7 @@
     "id": "CGTN英文记录",
     "name": "CGTN英文记录",
     "source": "dx-epg",
-    "programme_count": 54,
+    "programme_count": 52,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-18"
@@ -1180,7 +1180,7 @@
     "id": "CGTN西班牙语",
     "name": "CGTN西班牙语",
     "source": "dx-epg",
-    "programme_count": 123,
+    "programme_count": 121,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-19"
@@ -1191,7 +1191,7 @@
     "id": "CGTN法语",
     "name": "CGTN法语",
     "source": "dx-epg",
-    "programme_count": 104,
+    "programme_count": 103,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-20"
@@ -1202,7 +1202,7 @@
     "id": "CGTN阿拉伯语",
     "name": "CGTN阿拉伯语",
     "source": "dx-epg",
-    "programme_count": 113,
+    "programme_count": 112,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-20"
@@ -1213,7 +1213,7 @@
     "id": "CGTN俄语",
     "name": "CGTN俄语",
     "source": "dx-epg",
-    "programme_count": 118,
+    "programme_count": 116,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-19"
@@ -1477,7 +1477,7 @@
     "id": "内蒙古卫视",
     "name": "内蒙古卫视",
     "source": "dx-epg",
-    "programme_count": 381,
+    "programme_count": 383,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -1587,7 +1587,7 @@
     "id": "求索纪录",
     "name": "求索纪录",
     "source": "dx-epg",
-    "programme_count": 103,
+    "programme_count": 102,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-19"
@@ -1598,7 +1598,7 @@
     "id": "天元围棋",
     "name": "天元围棋",
     "source": "dx-epg",
-    "programme_count": 107,
+    "programme_count": 103,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-20"
@@ -1620,7 +1620,7 @@
     "id": "广东4K超高清",
     "name": "广东4K超高清",
     "source": "dx-epg",
-    "programme_count": 108,
+    "programme_count": 105,
     "date_range": {
       "start": "2025-07-14",
       "end": "2025-07-19"
@@ -1631,7 +1631,7 @@
     "id": "广东4K超高清 窄色域 30",
     "name": "广东4K超高清 窄色域 30",
     "source": "dx-epg",
-    "programme_count": 108,
+    "programme_count": 105,
     "date_range": {
       "start": "2025-07-14",
       "end": "2025-07-19"
@@ -1653,7 +1653,7 @@
     "id": "广州南国都市4K",
     "name": "广州南国都市4K",
     "source": "dx-epg",
-    "programme_count": 85,
+    "programme_count": 84,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-19"
@@ -1675,7 +1675,7 @@
     "id": "CCTV4K-50P",
     "name": "CCTV4K-50P",
     "source": "dx-epg",
-    "programme_count": 113,
+    "programme_count": 114,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-20"
@@ -1708,7 +1708,7 @@
     "id": "卡酷动画",
     "name": "卡酷动画",
     "source": "dx-epg",
-    "programme_count": 162,
+    "programme_count": 159,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-20"
@@ -1774,7 +1774,7 @@
     "id": "厦门卫视",
     "name": "厦门卫视",
     "source": "dx-epg",
-    "programme_count": 344,
+    "programme_count": 345,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-20"
@@ -1895,7 +1895,7 @@
     "id": "爱电影",
     "name": "爱电影",
     "source": "dx-epg",
-    "programme_count": 24,
+    "programme_count": 23,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-18"
@@ -1917,7 +1917,7 @@
     "id": "爱大剧",
     "name": "爱大剧",
     "source": "dx-epg",
-    "programme_count": 55,
+    "programme_count": 54,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-18"
@@ -1928,7 +1928,7 @@
     "id": "热播剧场",
     "name": "热播剧场",
     "source": "dx-epg",
-    "programme_count": 54,
+    "programme_count": 52,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-18"
@@ -1939,7 +1939,7 @@
     "id": "爱综艺",
     "name": "爱综艺",
     "source": "dx-epg",
-    "programme_count": 37,
+    "programme_count": 36,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-18"
@@ -1961,10 +1961,1066 @@
     "id": "魅力时尚",
     "name": "魅力时尚",
     "source": "dx-epg",
-    "programme_count": 53,
+    "programme_count": 52,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-18"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER FREE",
+    "name": "SUPER FREE",
+    "source": "mytv-epg",
+    "programme_count": 274,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER獎門人",
+    "name": "SUPER獎門人",
+    "source": "mytv-epg",
+    "programme_count": 317,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER EYT",
+    "name": "SUPER EYT",
+    "source": "mytv-epg",
+    "programme_count": 171,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER識食",
+    "name": "SUPER識食",
+    "source": "mytv-epg",
+    "programme_count": 441,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER識嘆",
+    "name": "SUPER識嘆",
+    "source": "mytv-epg",
+    "programme_count": 441,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER Music",
+    "name": "SUPER Music",
+    "source": "mytv-epg",
+    "programme_count": 301,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER金曲",
+    "name": "SUPER金曲",
+    "source": "mytv-epg",
+    "programme_count": 354,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER煲劇",
+    "name": "SUPER煲劇",
+    "source": "mytv-epg",
+    "programme_count": 527,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER劇場",
+    "name": "SUPER劇場",
+    "source": "mytv-epg",
+    "programme_count": 151,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER話當年",
+    "name": "SUPER話當年",
+    "source": "mytv-epg",
+    "programme_count": 513,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER Sports",
+    "name": "SUPER Sports",
+    "source": "mytv-epg",
+    "programme_count": 121,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "myTV SUPER 18台",
+    "name": "myTV SUPER 18台",
+    "source": "mytv-epg",
+    "programme_count": 219,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "28AI智慧賽馬",
+    "name": "28AI智慧賽馬",
+    "source": "mytv-epg",
+    "programme_count": 80,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "黃金翡翠台",
+    "name": "黃金翡翠台",
+    "source": "mytv-epg",
+    "programme_count": 235,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "翡翠台",
+    "name": "翡翠台",
+    "source": "mytv-epg",
+    "programme_count": 434,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TVB Plus",
+    "name": "TVB Plus",
+    "source": "mytv-epg",
+    "programme_count": 351,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "無綫新聞台",
+    "name": "無綫新聞台",
+    "source": "mytv-epg",
+    "programme_count": 473,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "明珠台",
+    "name": "明珠台",
+    "source": "mytv-epg",
+    "programme_count": 330,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "千禧經典台",
+    "name": "千禧經典台",
+    "source": "mytv-epg",
+    "programme_count": 298,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "亞洲劇台",
+    "name": "亞洲劇台",
+    "source": "mytv-epg",
+    "programme_count": 370,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "華語劇台",
+    "name": "華語劇台",
+    "source": "mytv-epg",
+    "programme_count": 225,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "黃金華劇台",
+    "name": "黃金華劇台",
+    "source": "mytv-epg",
+    "programme_count": 321,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "娛樂新聞台",
+    "name": "娛樂新聞台",
+    "source": "mytv-epg",
+    "programme_count": 441,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "戲曲台",
+    "name": "戲曲台",
+    "source": "mytv-epg",
+    "programme_count": 873,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SUPER Kids Channel",
+    "name": "SUPER Kids Channel",
+    "source": "mytv-epg",
+    "programme_count": 760,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "ZooMoo",
+    "name": "ZooMoo",
+    "source": "mytv-epg",
+    "programme_count": 867,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Nickelodeon",
+    "name": "Nickelodeon",
+    "source": "mytv-epg",
+    "programme_count": 586,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Nick Jr",
+    "name": "Nick Jr",
+    "source": "mytv-epg",
+    "programme_count": 794,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "粵語片台",
+    "name": "粵語片台",
+    "source": "mytv-epg",
+    "programme_count": 136,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "美亞電影台",
+    "name": "美亞電影台",
+    "source": "mytv-epg",
+    "programme_count": 144,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Thrill",
+    "name": "Thrill",
+    "source": "mytv-epg",
+    "programme_count": 165,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "天映經典頻道",
+    "name": "天映經典頻道",
+    "source": "mytv-epg",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中國電影頻道",
+    "name": "中國電影頻道",
+    "source": "mytv-epg",
+    "programme_count": 153,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "ROCK Action",
+    "name": "ROCK Action",
+    "source": "mytv-epg",
+    "programme_count": 139,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "PopC",
+    "name": "PopC",
+    "source": "mytv-epg",
+    "programme_count": 163,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Action Hollywood Movies",
+    "name": "Action Hollywood Movies",
+    "source": "mytv-epg",
+    "programme_count": 120,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Rialto Classic Movies (RCM)",
+    "name": "Rialto Classic Movies (RCM)",
+    "source": "mytv-epg",
+    "programme_count": 121,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "KIX",
+    "name": "KIX",
+    "source": "mytv-epg",
+    "programme_count": 160,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TRACE Sport Stars",
+    "name": "TRACE Sport Stars",
+    "source": "mytv-epg",
+    "programme_count": 441,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Love Nature HD",
+    "name": "Love Nature HD",
+    "source": "mytv-epg",
+    "programme_count": 253,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Love Nature 4K",
+    "name": "Love Nature 4K",
+    "source": "mytv-epg",
+    "programme_count": 253,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Global Trekker",
+    "name": "Global Trekker",
+    "source": "mytv-epg",
+    "programme_count": 310,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Pet Club TV",
+    "name": "Pet Club TV",
+    "source": "mytv-epg",
+    "programme_count": 264,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Globetrotter",
+    "name": "Globetrotter",
+    "source": "mytv-epg",
+    "programme_count": 297,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Docsville",
+    "name": "Docsville",
+    "source": "mytv-epg",
+    "programme_count": 261,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Pulse Documentaries",
+    "name": "Pulse Documentaries",
+    "source": "mytv-epg",
+    "programme_count": 213,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "ROCK綜藝娛樂",
+    "name": "ROCK綜藝娛樂",
+    "source": "mytv-epg",
+    "programme_count": 250,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "AXN",
+    "name": "AXN",
+    "source": "mytv-epg",
+    "programme_count": 229,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "ROCK Extreme",
+    "name": "ROCK Extreme",
+    "source": "mytv-epg",
+    "programme_count": 194,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Animax",
+    "name": "Animax",
+    "source": "mytv-epg",
+    "programme_count": 441,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "tvN",
+    "name": "tvN",
+    "source": "mytv-epg",
+    "programme_count": 145,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "無線衛星亞洲台",
+    "name": "無線衛星亞洲台",
+    "source": "mytv-epg",
+    "programme_count": 202,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "創世電視",
+    "name": "創世電視",
+    "source": "mytv-epg",
+    "programme_count": 248,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "FashionBox",
+    "name": "FashionBox",
+    "source": "mytv-epg",
+    "programme_count": 284,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Mezzo Live HD",
+    "name": "Mezzo Live HD",
+    "source": "mytv-epg",
+    "programme_count": 179,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中央電視台綜合頻道 (港澳版)",
+    "name": "中央電視台綜合頻道 (港澳版)",
+    "source": "mytv-epg",
+    "programme_count": 306,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CGTN (中國環球電視網)記錄頻道",
+    "name": "CGTN (中國環球電視網)記錄頻道",
+    "source": "mytv-epg",
+    "programme_count": 633,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CGTN (中國環球電視網)英語頻道",
+    "name": "CGTN (中國環球電視網)英語頻道",
+    "source": "mytv-epg",
+    "programme_count": 409,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "東方衛視國際頻道",
+    "name": "東方衛視國際頻道",
+    "source": "mytv-epg",
+    "programme_count": 304,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "鳳凰衛視中文台",
+    "name": "鳳凰衛視中文台",
+    "source": "mytv-epg",
+    "programme_count": 441,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "鳳凰衛視資訊台",
+    "name": "鳳凰衛視資訊台",
+    "source": "mytv-epg",
+    "programme_count": 590,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "鳳凰衛視香港台",
+    "name": "鳳凰衛視香港台",
+    "source": "mytv-epg",
+    "programme_count": 446,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中國中央電視台中文國際頻道",
+    "name": "中國中央電視台中文國際頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中國中央電視台娛樂頻道",
+    "name": "中國中央電視台娛樂頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中國中央電視台戲曲頻道",
+    "name": "中國中央電視台戲曲頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "雲南瀾湄國際衛視",
+    "name": "雲南瀾湄國際衛視",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "安徽廣播電視台國際頻道",
+    "name": "安徽廣播電視台國際頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "北京電視台國際頻道",
+    "name": "北京電視台國際頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "廣西電視台國際頻道",
+    "name": "廣西電視台國際頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "福建海峽衛視國際頻道",
+    "name": "福建海峽衛視國際頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "湖南電視台國際頻道",
+    "name": "湖南電視台國際頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "江蘇電視台國際頻道",
+    "name": "江蘇電視台國際頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "廣東廣播電視台大灣區衛視頻道",
+    "name": "廣東廣播電視台大灣區衛視頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "浙江電視台國際頻道",
+    "name": "浙江電視台國際頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "深圳衛視國際頻道",
+    "name": "深圳衛視國際頻道",
+    "source": "mytv-epg",
+    "programme_count": 72,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "NOW 70s",
+    "name": "NOW 70s",
+    "source": "mytv-epg",
+    "programme_count": 140,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "NOW 80s",
+    "name": "NOW 80s",
+    "source": "mytv-epg",
+    "programme_count": 158,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "NOW ROCK",
+    "name": "NOW ROCK",
+    "source": "mytv-epg",
+    "programme_count": 143,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "NOW 90s00s",
+    "name": "NOW 90s00s",
+    "source": "mytv-epg",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Concerto",
+    "name": "Concerto",
+    "source": "mytv-epg",
+    "programme_count": 225,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TRACE Urban",
+    "name": "TRACE Urban",
+    "source": "mytv-epg",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "無線衛星新聞台",
+    "name": "無線衛星新聞台",
+    "source": "mytv-epg",
+    "programme_count": 225,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "亞洲新聞台",
+    "name": "亞洲新聞台",
+    "source": "mytv-epg",
+    "programme_count": 291,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "半島電視台英語頻道",
+    "name": "半島電視台英語頻道",
+    "source": "mytv-epg",
+    "programme_count": 373,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "France 24",
+    "name": "France 24",
+    "source": "mytv-epg",
+    "programme_count": 225,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "DW",
+    "name": "DW",
+    "source": "mytv-epg",
+    "programme_count": 566,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "NHK World-Japan",
+    "name": "NHK World-Japan",
+    "source": "mytv-epg",
+    "programme_count": 597,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Arirang TV",
+    "name": "Arirang TV",
+    "source": "mytv-epg",
+    "programme_count": 523,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "NewsWorld",
+    "name": "NewsWorld",
+    "source": "mytv-epg",
+    "programme_count": 437,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "myTV SUPER直播足球2台",
+    "name": "myTV SUPER直播足球2台",
+    "source": "mytv-epg",
+    "programme_count": 83,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "myTV SUPER直播足球3台",
+    "name": "myTV SUPER直播足球3台",
+    "source": "mytv-epg",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "myTV SUPER直播足球4台",
+    "name": "myTV SUPER直播足球4台",
+    "source": "mytv-epg",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "myTV SUPER直播足球5台",
+    "name": "myTV SUPER直播足球5台",
+    "source": "mytv-epg",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "myTV SUPER直播足球6台",
+    "name": "myTV SUPER直播足球6台",
+    "source": "mytv-epg",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "myTV SUPER直播足球7台",
+    "name": "myTV SUPER直播足球7台",
+    "source": "mytv-epg",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "測試頻道",
+    "name": "測試頻道",
+    "source": "mytv-epg",
+    "programme_count": 432,
+    "date_range": {
+      "start": "2025-07-11",
+      "end": "2025-07-20"
     },
     "has_programmes": true
   },
@@ -2024,10 +3080,10 @@
     "has_programmes": true
   },
   {
-    "id": "澳門體育",
-    "name": "澳門體育",
+    "id": "澳視葡文",
+    "name": "澳視葡文",
     "source": "tmd-epg",
-    "programme_count": 172,
+    "programme_count": 159,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-21"
@@ -2035,10 +3091,10 @@
     "has_programmes": true
   },
   {
-    "id": "澳視葡文",
-    "name": "澳視葡文",
+    "id": "澳門體育",
+    "name": "澳門體育",
     "source": "tmd-epg",
-    "programme_count": 159,
+    "programme_count": 172,
     "date_range": {
       "start": "2025-07-11",
       "end": "2025-07-21"
@@ -2277,17 +3333,6 @@
     "has_programmes": true
   },
   {
-    "id": "Global Trekker",
-    "name": "Global Trekker",
-    "source": "4gtv-epg",
-    "programme_count": 107,
-    "date_range": {
-      "start": "2025-07-17",
-      "end": "2025-07-20"
-    },
-    "has_programmes": true
-  },
-  {
     "id": "原住民族電視台",
     "name": "原住民族電視台",
     "source": "4gtv-epg",
@@ -2511,10 +3556,10 @@
     "id": "中天新聞台",
     "name": "中天新聞台",
     "source": "4gtv-epg",
-    "programme_count": 88,
+    "programme_count": 94,
     "date_range": {
       "start": "2025-07-16",
-      "end": "2025-07-19"
+      "end": "2025-07-20"
     },
     "has_programmes": true
   },
@@ -2706,32 +3751,10 @@
     "has_programmes": true
   },
   {
-    "id": "TRACE Urban",
-    "name": "TRACE Urban",
-    "source": "4gtv-epg",
-    "programme_count": 39,
-    "date_range": {
-      "start": "2025-07-17",
-      "end": "2025-07-20"
-    },
-    "has_programmes": true
-  },
-  {
     "id": "MTV Live HD 音樂頻道",
     "name": "MTV Live HD 音樂頻道",
     "source": "4gtv-epg",
     "programme_count": 71,
-    "date_range": {
-      "start": "2025-07-17",
-      "end": "2025-07-20"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Mezzo Live HD",
-    "name": "Mezzo Live HD",
-    "source": "4gtv-epg",
-    "programme_count": 59,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-20"
@@ -2765,17 +3788,6 @@
     "name": "INULTRA",
     "source": "4gtv-epg",
     "programme_count": 121,
-    "date_range": {
-      "start": "2025-07-17",
-      "end": "2025-07-20"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "TRACE Sport Stars",
-    "name": "TRACE Sport Stars",
-    "source": "4gtv-epg",
-    "programme_count": 147,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-20"
@@ -2820,17 +3832,6 @@
     "name": "GINX Esports TV",
     "source": "4gtv-epg",
     "programme_count": 81,
-    "date_range": {
-      "start": "2025-07-17",
-      "end": "2025-07-20"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Pet Club TV",
-    "name": "Pet Club TV",
-    "source": "4gtv-epg",
-    "programme_count": 83,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-20"
@@ -3073,17 +4074,6 @@
     "name": "金光布袋戲",
     "source": "4gtv-epg",
     "programme_count": 51,
-    "date_range": {
-      "start": "2025-07-17",
-      "end": "2025-07-20"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "ROCK Action",
-    "name": "ROCK Action",
-    "source": "4gtv-epg",
-    "programme_count": 40,
     "date_range": {
       "start": "2025-07-17",
       "end": "2025-07-20"
