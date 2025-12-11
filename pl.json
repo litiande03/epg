@@ -1,10 +1,3445 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Cannot GET /channels.json</pre>
-</body>
-</html>
+[
+  {
+    "id": "广东卫视",
+    "name": "广东卫视",
+    "source": "dx-epg",
+    "programme_count": 249,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广东珠江",
+    "name": "广东珠江",
+    "source": "dx-epg",
+    "programme_count": 132,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广东新闻",
+    "name": "广东新闻",
+    "source": "dx-epg",
+    "programme_count": 340,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广东民生",
+    "name": "广东民生",
+    "source": "dx-epg",
+    "programme_count": 162,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广东体育",
+    "name": "广东体育",
+    "source": "dx-epg",
+    "programme_count": 526,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "经济科教",
+    "name": "经济科教",
+    "source": "dx-epg",
+    "programme_count": 280,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "大湾区卫视",
+    "name": "大湾区卫视",
+    "source": "dx-epg",
+    "programme_count": 244,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广东影视",
+    "name": "广东影视",
+    "source": "dx-epg",
+    "programme_count": 343,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广东少儿",
+    "name": "广东少儿",
+    "source": "dx-epg",
+    "programme_count": 124,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "嘉佳卡通",
+    "name": "嘉佳卡通",
+    "source": "dx-epg",
+    "programme_count": 1228,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "南方购物-精选",
+    "name": "南方购物-精选",
+    "source": "dx-epg",
+    "programme_count": 305,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-11"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广东移动",
+    "name": "广东移动",
+    "source": "dx-epg",
+    "programme_count": 593,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "南方购物",
+    "name": "南方购物",
+    "source": "dx-epg",
+    "programme_count": 305,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-11"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "岭南戏曲",
+    "name": "岭南戏曲",
+    "source": "dx-epg",
+    "programme_count": 321,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "现代教育",
+    "name": "现代教育",
+    "source": "dx-epg",
+    "programme_count": 91,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广州综合",
+    "name": "广州综合",
+    "source": "dx-epg",
+    "programme_count": 254,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广州新闻",
+    "name": "广州新闻",
+    "source": "dx-epg",
+    "programme_count": 382,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "深圳卫视",
+    "name": "深圳卫视",
+    "source": "dx-epg",
+    "programme_count": 460,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "深圳都市",
+    "name": "深圳都市",
+    "source": "dx-epg",
+    "programme_count": 343,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "深圳体育",
+    "name": "深圳体育",
+    "source": "dx-epg",
+    "programme_count": 373,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "深圳电视剧",
+    "name": "深圳电视剧",
+    "source": "dx-epg",
+    "programme_count": 286,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "深圳财经",
+    "name": "深圳财经",
+    "source": "dx-epg",
+    "programme_count": 318,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "深圳少儿",
+    "name": "深圳少儿",
+    "source": "dx-epg",
+    "programme_count": 277,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "深圳宝安",
+    "name": "深圳宝安",
+    "source": "dx-epg",
+    "programme_count": 238,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "深圳龙岗",
+    "name": "深圳龙岗",
+    "source": "dx-epg",
+    "programme_count": 190,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "佛山综合",
+    "name": "佛山综合",
+    "source": "dx-epg",
+    "programme_count": 121,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "佛山城市生活",
+    "name": "佛山城市生活",
+    "source": "dx-epg",
+    "programme_count": 245,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "佛山顺德",
+    "name": "佛山顺德",
+    "source": "dx-epg",
+    "programme_count": 153,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "佛山南海",
+    "name": "佛山南海",
+    "source": "dx-epg",
+    "programme_count": 117,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "东莞新闻综合",
+    "name": "东莞新闻综合",
+    "source": "dx-epg",
+    "programme_count": 302,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "东莞生活资讯",
+    "name": "东莞生活资讯",
+    "source": "dx-epg",
+    "programme_count": 236,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "惠州综合",
+    "name": "惠州综合",
+    "source": "dx-epg",
+    "programme_count": 375,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "惠州都市生活",
+    "name": "惠州都市生活",
+    "source": "dx-epg",
+    "programme_count": 288,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "珠海",
+    "name": "珠海",
+    "source": "dx-epg",
+    "programme_count": 246,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "江门综合",
+    "name": "江门综合",
+    "source": "dx-epg",
+    "programme_count": 180,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中山综合",
+    "name": "中山综合",
+    "source": "dx-epg",
+    "programme_count": 169,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "香山文化",
+    "name": "香山文化",
+    "source": "dx-epg",
+    "programme_count": 249,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "肇庆新闻综合",
+    "name": "肇庆新闻综合",
+    "source": "dx-epg",
+    "programme_count": 178,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "肇庆生活服务",
+    "name": "肇庆生活服务",
+    "source": "dx-epg",
+    "programme_count": 166,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "汕头新闻综合",
+    "name": "汕头新闻综合",
+    "source": "dx-epg",
+    "programme_count": 400,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "汕头经济生活",
+    "name": "汕头经济生活",
+    "source": "dx-epg",
+    "programme_count": 350,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "揭阳综合",
+    "name": "揭阳综合",
+    "source": "dx-epg",
+    "programme_count": 243,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "揭阳生活",
+    "name": "揭阳生活",
+    "source": "dx-epg",
+    "programme_count": 213,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "潮州综合",
+    "name": "潮州综合",
+    "source": "dx-epg",
+    "programme_count": 228,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "潮州民生",
+    "name": "潮州民生",
+    "source": "dx-epg",
+    "programme_count": 243,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "汕尾新闻综合",
+    "name": "汕尾新闻综合",
+    "source": "dx-epg",
+    "programme_count": 154,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "汕尾文化生活",
+    "name": "汕尾文化生活",
+    "source": "dx-epg",
+    "programme_count": 120,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "湛江新闻综合",
+    "name": "湛江新闻综合",
+    "source": "dx-epg",
+    "programme_count": 169,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "湛江公共",
+    "name": "湛江公共",
+    "source": "dx-epg",
+    "programme_count": 141,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "茂名综合",
+    "name": "茂名综合",
+    "source": "dx-epg",
+    "programme_count": 271,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "茂名文化生活",
+    "name": "茂名文化生活",
+    "source": "dx-epg",
+    "programme_count": 117,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "阳江-1",
+    "name": "阳江-1",
+    "source": "dx-epg",
+    "programme_count": 199,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "阳江-2",
+    "name": "阳江-2",
+    "source": "dx-epg",
+    "programme_count": 150,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "云浮综合",
+    "name": "云浮综合",
+    "source": "dx-epg",
+    "programme_count": 218,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "云浮文旅",
+    "name": "云浮文旅",
+    "source": "dx-epg",
+    "programme_count": 200,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "清远新闻综合",
+    "name": "清远新闻综合",
+    "source": "dx-epg",
+    "programme_count": 332,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "韶关新闻综合",
+    "name": "韶关新闻综合",
+    "source": "dx-epg",
+    "programme_count": 251,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "河源综合",
+    "name": "河源综合",
+    "source": "dx-epg",
+    "programme_count": 191,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "河源生活",
+    "name": "河源生活",
+    "source": "dx-epg",
+    "programme_count": 163,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "梅州综合",
+    "name": "梅州综合",
+    "source": "dx-epg",
+    "programme_count": 267,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "梅州客家生活",
+    "name": "梅州客家生活",
+    "source": "dx-epg",
+    "programme_count": 248,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "睛彩竞技",
+    "name": "睛彩竞技",
+    "source": "dx-epg",
+    "programme_count": 70,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "睛彩篮球",
+    "name": "睛彩篮球",
+    "source": "dx-epg",
+    "programme_count": 134,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "睛彩青少",
+    "name": "睛彩青少",
+    "source": "dx-epg",
+    "programme_count": 134,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "睛彩广场舞",
+    "name": "睛彩广场舞",
+    "source": "dx-epg",
+    "programme_count": 89,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "宜和购物",
+    "name": "宜和购物",
+    "source": "dx-epg",
+    "programme_count": 373,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中国天气",
+    "name": "中国天气",
+    "source": "dx-epg",
+    "programme_count": 693,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-1 综合",
+    "name": "CCTV-1 综合",
+    "source": "dx-epg",
+    "programme_count": 351,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-2 财经",
+    "name": "CCTV-2 财经",
+    "source": "dx-epg",
+    "programme_count": 399,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-3 综艺",
+    "name": "CCTV-3 综艺",
+    "source": "dx-epg",
+    "programme_count": 259,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-4 中文国际",
+    "name": "CCTV-4 中文国际",
+    "source": "dx-epg",
+    "programme_count": 426,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-4 中文国际欧洲",
+    "name": "CCTV-4 中文国际欧洲",
+    "source": "dx-epg",
+    "programme_count": 64,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-4 中文国际美洲",
+    "name": "CCTV-4 中文国际美洲",
+    "source": "dx-epg",
+    "programme_count": 61,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-5+ 体育赛事",
+    "name": "CCTV-5+ 体育赛事",
+    "source": "dx-epg",
+    "programme_count": 219,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-5 体育",
+    "name": "CCTV-5 体育",
+    "source": "dx-epg",
+    "programme_count": 249,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-6 电影",
+    "name": "CCTV-6 电影",
+    "source": "dx-epg",
+    "programme_count": 329,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-7 国防 军事",
+    "name": "CCTV-7 国防 军事",
+    "source": "dx-epg",
+    "programme_count": 351,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-8 电视剧",
+    "name": "CCTV-8 电视剧",
+    "source": "dx-epg",
+    "programme_count": 390,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-9 记录",
+    "name": "CCTV-9 记录",
+    "source": "dx-epg",
+    "programme_count": 293,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-10 科教",
+    "name": "CCTV-10 科教",
+    "source": "dx-epg",
+    "programme_count": 343,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-11 戏曲",
+    "name": "CCTV-11 戏曲",
+    "source": "dx-epg",
+    "programme_count": 206,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-12 社会与法",
+    "name": "CCTV-12 社会与法",
+    "source": "dx-epg",
+    "programme_count": 314,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-13 新闻",
+    "name": "CCTV-13 新闻",
+    "source": "dx-epg",
+    "programme_count": 262,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-11"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-14 少儿",
+    "name": "CCTV-14 少儿",
+    "source": "dx-epg",
+    "programme_count": 192,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-15 音乐",
+    "name": "CCTV-15 音乐",
+    "source": "dx-epg",
+    "programme_count": 212,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-16 奥林匹克",
+    "name": "CCTV-16 奥林匹克",
+    "source": "dx-epg",
+    "programme_count": 73,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-17 农业 农村",
+    "name": "CCTV-17 农业 农村",
+    "source": "dx-epg",
+    "programme_count": 314,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-卫生健康",
+    "name": "CCTV-卫生健康",
+    "source": "dx-epg",
+    "programme_count": 429,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-兵器科技",
+    "name": "CCTV-兵器科技",
+    "source": "dx-epg",
+    "programme_count": 229,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-电视指南",
+    "name": "CCTV-电视指南",
+    "source": "dx-epg",
+    "programme_count": 641,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-央视足球",
+    "name": "CCTV-央视足球",
+    "source": "dx-epg",
+    "programme_count": 181,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-央视台球",
+    "name": "CCTV-央视台球",
+    "source": "dx-epg",
+    "programme_count": 203,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-高尔夫网球",
+    "name": "CCTV-高尔夫网球",
+    "source": "dx-epg",
+    "programme_count": 154,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-女性时尚",
+    "name": "CCTV-女性时尚",
+    "source": "dx-epg",
+    "programme_count": 216,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-世界地理",
+    "name": "CCTV-世界地理",
+    "source": "dx-epg",
+    "programme_count": 374,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-怀旧剧场",
+    "name": "CCTV-怀旧剧场",
+    "source": "dx-epg",
+    "programme_count": 192,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-风云剧场",
+    "name": "CCTV-风云剧场",
+    "source": "dx-epg",
+    "programme_count": 200,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-央视文化精品",
+    "name": "CCTV-央视文化精品",
+    "source": "dx-epg",
+    "programme_count": 258,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-第一剧场",
+    "name": "CCTV-第一剧场",
+    "source": "dx-epg",
+    "programme_count": 217,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-风云音乐",
+    "name": "CCTV-风云音乐",
+    "source": "dx-epg",
+    "programme_count": 207,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CGTN英语",
+    "name": "CGTN英语",
+    "source": "dx-epg",
+    "programme_count": 110,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CGTN英文记录",
+    "name": "CGTN英文记录",
+    "source": "dx-epg",
+    "programme_count": 52,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CGTN西班牙语",
+    "name": "CGTN西班牙语",
+    "source": "dx-epg",
+    "programme_count": 121,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CGTN法语",
+    "name": "CGTN法语",
+    "source": "dx-epg",
+    "programme_count": 104,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CGTN阿拉伯语",
+    "name": "CGTN阿拉伯语",
+    "source": "dx-epg",
+    "programme_count": 112,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CGTN俄语",
+    "name": "CGTN俄语",
+    "source": "dx-epg",
+    "programme_count": 116,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "湖南卫视",
+    "name": "湖南卫视",
+    "source": "dx-epg",
+    "programme_count": 289,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "浙江卫视",
+    "name": "浙江卫视",
+    "source": "dx-epg",
+    "programme_count": 328,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "江苏卫视",
+    "name": "江苏卫视",
+    "source": "dx-epg",
+    "programme_count": 258,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "东方卫视",
+    "name": "东方卫视",
+    "source": "dx-epg",
+    "programme_count": 308,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "安徽卫视",
+    "name": "安徽卫视",
+    "source": "dx-epg",
+    "programme_count": 357,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "北京卫视",
+    "name": "北京卫视",
+    "source": "dx-epg",
+    "programme_count": 303,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "天津卫视",
+    "name": "天津卫视",
+    "source": "dx-epg",
+    "programme_count": 339,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "山东卫视",
+    "name": "山东卫视",
+    "source": "dx-epg",
+    "programme_count": 413,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "江西卫视",
+    "name": "江西卫视",
+    "source": "dx-epg",
+    "programme_count": 336,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-11"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "湖北卫视",
+    "name": "湖北卫视",
+    "source": "dx-epg",
+    "programme_count": 348,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "辽宁卫视",
+    "name": "辽宁卫视",
+    "source": "dx-epg",
+    "programme_count": 367,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-11"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "黑龙江卫视",
+    "name": "黑龙江卫视",
+    "source": "dx-epg",
+    "programme_count": 380,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "贵州卫视",
+    "name": "贵州卫视",
+    "source": "dx-epg",
+    "programme_count": 296,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-11"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "四川卫视",
+    "name": "四川卫视",
+    "source": "dx-epg",
+    "programme_count": 356,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "河南卫视",
+    "name": "河南卫视",
+    "source": "dx-epg",
+    "programme_count": 424,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "云南卫视",
+    "name": "云南卫视",
+    "source": "dx-epg",
+    "programme_count": 374,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "重庆卫视",
+    "name": "重庆卫视",
+    "source": "dx-epg",
+    "programme_count": 300,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "河北卫视",
+    "name": "河北卫视",
+    "source": "dx-epg",
+    "programme_count": 368,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "东南卫视",
+    "name": "东南卫视",
+    "source": "dx-epg",
+    "programme_count": 347,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广西卫视",
+    "name": "广西卫视",
+    "source": "dx-epg",
+    "programme_count": 393,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "吉林卫视",
+    "name": "吉林卫视",
+    "source": "dx-epg",
+    "programme_count": 334,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "陕西卫视",
+    "name": "陕西卫视",
+    "source": "dx-epg",
+    "programme_count": 398,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "山西卫视",
+    "name": "山西卫视",
+    "source": "dx-epg",
+    "programme_count": 345,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "内蒙古卫视",
+    "name": "内蒙古卫视",
+    "source": "dx-epg",
+    "programme_count": 522,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "青海卫视",
+    "name": "青海卫视",
+    "source": "dx-epg",
+    "programme_count": 328,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "海南卫视",
+    "name": "海南卫视",
+    "source": "dx-epg",
+    "programme_count": 391,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "宁夏卫视",
+    "name": "宁夏卫视",
+    "source": "dx-epg",
+    "programme_count": 142,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "西藏卫视",
+    "name": "西藏卫视",
+    "source": "dx-epg",
+    "programme_count": 445,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "新疆卫视",
+    "name": "新疆卫视",
+    "source": "dx-epg",
+    "programme_count": 442,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "甘肃卫视",
+    "name": "甘肃卫视",
+    "source": "dx-epg",
+    "programme_count": 418,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "兵团卫视",
+    "name": "兵团卫视",
+    "source": "dx-epg",
+    "programme_count": 432,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "茶",
+    "name": "茶",
+    "source": "dx-epg",
+    "programme_count": 228,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "快乐垂钓",
+    "name": "快乐垂钓",
+    "source": "dx-epg",
+    "programme_count": 191,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "求索纪录",
+    "name": "求索纪录",
+    "source": "dx-epg",
+    "programme_count": 102,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "天元围棋",
+    "name": "天元围棋",
+    "source": "dx-epg",
+    "programme_count": 97,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广东卫视4K",
+    "name": "广东卫视4K",
+    "source": "dx-epg",
+    "programme_count": 306,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广东4K",
+    "name": "广东4K",
+    "source": "dx-epg",
+    "programme_count": 78,
+    "date_range": {
+      "start": "2025-12-08",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "广州南国都市4K",
+    "name": "广州南国都市4K",
+    "source": "dx-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "深圳卫视4K",
+    "name": "深圳卫视4K",
+    "source": "dx-epg",
+    "programme_count": 462,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CCTV-4K",
+    "name": "CCTV-4K",
+    "source": "dx-epg",
+    "programme_count": 97,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "北京卫视4K",
+    "name": "北京卫视4K",
+    "source": "dx-epg",
+    "programme_count": 303,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "湖南卫视4K",
+    "name": "湖南卫视4K",
+    "source": "dx-epg",
+    "programme_count": 289,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "江苏卫视4K",
+    "name": "江苏卫视4K",
+    "source": "dx-epg",
+    "programme_count": 258,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "浙江卫视4K",
+    "name": "浙江卫视4K",
+    "source": "dx-epg",
+    "programme_count": 328,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "东方卫视4K",
+    "name": "东方卫视4K",
+    "source": "dx-epg",
+    "programme_count": 308,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "四川卫视4K",
+    "name": "四川卫视4K",
+    "source": "dx-epg",
+    "programme_count": 356,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "山东卫视4K",
+    "name": "山东卫视4K",
+    "source": "dx-epg",
+    "programme_count": 406,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "卡酷动画",
+    "name": "卡酷动画",
+    "source": "dx-epg",
+    "programme_count": 161,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "金鹰卡通",
+    "name": "金鹰卡通",
+    "source": "dx-epg",
+    "programme_count": 136,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-11"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CETV-1",
+    "name": "CETV-1",
+    "source": "dx-epg",
+    "programme_count": 510,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "山东教育",
+    "name": "山东教育",
+    "source": "dx-epg",
+    "programme_count": 271,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "厦门卫视",
+    "name": "厦门卫视",
+    "source": "dx-epg",
+    "programme_count": 261,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "优漫卡通",
+    "name": "优漫卡通",
+    "source": "dx-epg",
+    "programme_count": 486,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "三沙卫视",
+    "name": "三沙卫视",
+    "source": "dx-epg",
+    "programme_count": 319,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-11"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "吉林延边卫视",
+    "name": "吉林延边卫视",
+    "source": "dx-epg",
+    "programme_count": 235,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "金鹰纪实",
+    "name": "金鹰纪实",
+    "source": "dx-epg",
+    "programme_count": 298,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CETV2",
+    "name": "CETV2",
+    "source": "dx-epg",
+    "programme_count": 472,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CETV4",
+    "name": "CETV4",
+    "source": "dx-epg",
+    "programme_count": 457,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "早期教育",
+    "name": "早期教育",
+    "source": "dx-epg",
+    "programme_count": 541,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "汽摩",
+    "name": "汽摩",
+    "source": "dx-epg",
+    "programme_count": 640,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "老故事",
+    "name": "老故事",
+    "source": "dx-epg",
+    "programme_count": 490,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "国学",
+    "name": "国学",
+    "source": "dx-epg",
+    "programme_count": 433,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "爱电影",
+    "name": "爱电影",
+    "source": "dx-epg",
+    "programme_count": 20,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "经典电影",
+    "name": "经典电影",
+    "source": "dx-epg",
+    "programme_count": 21,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "爱大剧",
+    "name": "爱大剧",
+    "source": "dx-epg",
+    "programme_count": 55,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "热播剧场",
+    "name": "热播剧场",
+    "source": "dx-epg",
+    "programme_count": 54,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "爱综艺",
+    "name": "爱综艺",
+    "source": "dx-epg",
+    "programme_count": 36,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "少儿动画",
+    "name": "少儿动画",
+    "source": "dx-epg",
+    "programme_count": 28,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "魅力时尚",
+    "name": "魅力时尚",
+    "source": "dx-epg",
+    "programme_count": 53,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-12"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "HOY 國際財經台",
+    "name": "HOY 國際財經台",
+    "source": "hoy-epg",
+    "programme_count": 283,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "HOY TV",
+    "name": "HOY TV",
+    "source": "hoy-epg",
+    "programme_count": 323,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "HOY 資訊台",
+    "name": "HOY 資訊台",
+    "source": "hoy-epg",
+    "programme_count": 476,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "HOY體育台",
+    "name": "HOY體育台",
+    "source": "hoy-epg",
+    "programme_count": 61,
+    "date_range": {
+      "start": "2025-12-10",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "HOY怪談台",
+    "name": "HOY怪談台",
+    "source": "hoy-epg",
+    "programme_count": 102,
+    "date_range": {
+      "start": "2025-12-09",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "HOY生活台",
+    "name": "HOY生活台",
+    "source": "hoy-epg",
+    "programme_count": 138,
+    "date_range": {
+      "start": "2025-12-10",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "HOY劇集台",
+    "name": "HOY劇集台",
+    "source": "hoy-epg",
+    "programme_count": 102,
+    "date_range": {
+      "start": "2025-12-09",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "MotorVision",
+    "name": "MotorVision",
+    "source": "hoy-epg",
+    "programme_count": 192,
+    "date_range": {
+      "start": "2025-12-09",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SportsPlus",
+    "name": "SportsPlus",
+    "source": "hoy-epg",
+    "programme_count": 144,
+    "date_range": {
+      "start": "2025-12-09",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Travel - Food TV",
+    "name": "Travel - Food TV",
+    "source": "hoy-epg",
+    "programme_count": 322,
+    "date_range": {
+      "start": "2025-12-09",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "spot on news",
+    "name": "spot on news",
+    "source": "hoy-epg",
+    "programme_count": 2469,
+    "date_range": {
+      "start": "2025-12-10",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TVB生活台",
+    "name": "TVB生活台",
+    "source": "tvbanywhere-epg",
+    "programme_count": 397,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TVB星河",
+    "name": "TVB星河",
+    "source": "tvbanywhere-epg",
+    "programme_count": 216,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "香港卫视",
+    "name": "香港卫视",
+    "source": "hks-epg",
+    "programme_count": 615,
+    "date_range": {
+      "start": "2025-12-03",
+      "end": "2025-12-15"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "澳視澳門",
+    "name": "澳視澳門",
+    "source": "tmd-epg",
+    "programme_count": 529,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "澳視葡文",
+    "name": "澳視葡文",
+    "source": "tmd-epg",
+    "programme_count": 157,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "澳門資訊",
+    "name": "澳門資訊",
+    "source": "tmd-epg",
+    "programme_count": 454,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "澳門體育",
+    "name": "澳門體育",
+    "source": "tmd-epg",
+    "programme_count": 191,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "澳門綜藝",
+    "name": "澳門綜藝",
+    "source": "tmd-epg",
+    "programme_count": 266,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "澳門-Macau",
+    "name": "澳門-Macau",
+    "source": "tmd-epg",
+    "programme_count": 484,
+    "date_range": {
+      "start": "2025-12-05",
+      "end": "2025-12-13"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "民視第一台",
+    "name": "民視第一台",
+    "source": "4gtv-epg",
+    "programme_count": 97,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "民視台灣台",
+    "name": "民視台灣台",
+    "source": "4gtv-epg",
+    "programme_count": 91,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "民視",
+    "name": "民視",
+    "source": "4gtv-epg",
+    "programme_count": 98,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "大愛電視",
+    "name": "大愛電視",
+    "source": "4gtv-epg",
+    "programme_count": 191,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中視",
+    "name": "中視",
+    "source": "4gtv-epg",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中視經典台",
+    "name": "中視經典台",
+    "source": "4gtv-epg",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "華視",
+    "name": "華視",
+    "source": "4gtv-epg",
+    "programme_count": 77,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "三立綜合台",
+    "name": "三立綜合台",
+    "source": "4gtv-epg",
+    "programme_count": 68,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "客家電視台",
+    "name": "客家電視台",
+    "source": "4gtv-epg",
+    "programme_count": 108,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "八大綜藝台",
+    "name": "八大綜藝台",
+    "source": "4gtv-epg",
+    "programme_count": 85,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中視菁采台",
+    "name": "中視菁采台",
+    "source": "4gtv-epg",
+    "programme_count": 65,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TVBS精采台",
+    "name": "TVBS精采台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "愛爾達娛樂台",
+    "name": "愛爾達娛樂台",
+    "source": "4gtv-epg",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天綜合台",
+    "name": "靖天綜合台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天日本台",
+    "name": "靖天日本台",
+    "source": "4gtv-epg",
+    "programme_count": 67,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "新唐人亞太台",
+    "name": "新唐人亞太台",
+    "source": "4gtv-epg",
+    "programme_count": 139,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "ARIRANG阿里郎頻道",
+    "name": "ARIRANG阿里郎頻道",
+    "source": "4gtv-epg",
+    "programme_count": 162,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Global Trekker",
+    "name": "Global Trekker",
+    "source": "4gtv-epg",
+    "programme_count": 101,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "原住民族電視台",
+    "name": "原住民族電視台",
+    "source": "4gtv-epg",
+    "programme_count": 87,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "東森購物四台",
+    "name": "東森購物四台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "LiveABC互動英語頻道",
+    "name": "LiveABC互動英語頻道",
+    "source": "4gtv-epg",
+    "programme_count": 199,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "達文西頻道",
+    "name": "達文西頻道",
+    "source": "4gtv-epg",
+    "programme_count": 314,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "ELTV生活英語台",
+    "name": "ELTV生活英語台",
+    "source": "4gtv-epg",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Nick Jr. 兒童頻道",
+    "name": "Nick Jr. 兒童頻道",
+    "source": "4gtv-epg",
+    "programme_count": 266,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "尼克兒童頻道",
+    "name": "尼克兒童頻道",
+    "source": "4gtv-epg",
+    "programme_count": 190,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "DreamWorks 夢工廠動畫",
+    "name": "DreamWorks 夢工廠動畫",
+    "source": "4gtv-epg",
+    "programme_count": 183,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天卡通台",
+    "name": "靖天卡通台",
+    "source": "4gtv-epg",
+    "programme_count": 147,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖洋卡通Nice Bingo",
+    "name": "靖洋卡通Nice Bingo",
+    "source": "4gtv-epg",
+    "programme_count": 147,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "MOMO親子台",
+    "name": "MOMO親子台",
+    "source": "4gtv-epg",
+    "programme_count": 219,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "東森購物一台",
+    "name": "東森購物一台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "鏡電視新聞台",
+    "name": "鏡電視新聞台",
+    "source": "4gtv-epg",
+    "programme_count": 76,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "東森新聞台",
+    "name": "東森新聞台",
+    "source": "4gtv-epg",
+    "programme_count": 38,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "華視新聞",
+    "name": "華視新聞",
+    "source": "4gtv-epg",
+    "programme_count": 70,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "民視新聞台",
+    "name": "民視新聞台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "三立新聞iNEWS",
+    "name": "三立新聞iNEWS",
+    "source": "4gtv-epg",
+    "programme_count": 67,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TVBS新聞",
+    "name": "TVBS新聞",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "東森財經新聞台",
+    "name": "東森財經新聞台",
+    "source": "4gtv-epg",
+    "programme_count": 68,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中視新聞",
+    "name": "中視新聞",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "中天新聞台",
+    "name": "中天新聞台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Bloomberg TV",
+    "name": "Bloomberg TV",
+    "source": "4gtv-epg",
+    "programme_count": 80,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "寰宇新聞台",
+    "name": "寰宇新聞台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "寰宇新聞台灣台",
+    "name": "寰宇新聞台灣台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "SBN全球財經台",
+    "name": "SBN全球財經台",
+    "source": "4gtv-epg",
+    "programme_count": 147,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TVBS",
+    "name": "TVBS",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "東森購物二台",
+    "name": "東森購物二台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "民視綜藝台",
+    "name": "民視綜藝台",
+    "source": "4gtv-epg",
+    "programme_count": 57,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "豬哥亮歌廳秀",
+    "name": "豬哥亮歌廳秀",
+    "source": "4gtv-epg",
+    "programme_count": 69,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天育樂台",
+    "name": "靖天育樂台",
+    "source": "4gtv-epg",
+    "programme_count": 76,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "KLT-靖天國際台",
+    "name": "KLT-靖天國際台",
+    "source": "4gtv-epg",
+    "programme_count": 147,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Nice TV 靖天歡樂台",
+    "name": "Nice TV 靖天歡樂台",
+    "source": "4gtv-epg",
+    "programme_count": 71,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天資訊台",
+    "name": "靖天資訊台",
+    "source": "4gtv-epg",
+    "programme_count": 77,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TVBS歡樂台",
+    "name": "TVBS歡樂台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "韓國娛樂台 KMTV",
+    "name": "韓國娛樂台 KMTV",
+    "source": "4gtv-epg",
+    "programme_count": 130,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "ROCK Entertainment",
+    "name": "ROCK Entertainment",
+    "source": "4gtv-epg",
+    "programme_count": 90,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Lifetime 娛樂頻道",
+    "name": "Lifetime 娛樂頻道",
+    "source": "4gtv-epg",
+    "programme_count": 73,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "電影原聲台CMusic",
+    "name": "電影原聲台CMusic",
+    "source": "4gtv-epg",
+    "programme_count": 1409,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TRACE Urban",
+    "name": "TRACE Urban",
+    "source": "4gtv-epg",
+    "programme_count": 39,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "MTV Live HD 音樂頻道",
+    "name": "MTV Live HD 音樂頻道",
+    "source": "4gtv-epg",
+    "programme_count": 85,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Mezzo Live HD",
+    "name": "Mezzo Live HD",
+    "source": "4gtv-epg",
+    "programme_count": 58,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CLASSICA 古典樂",
+    "name": "CLASSICA 古典樂",
+    "source": "4gtv-epg",
+    "programme_count": 82,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "東森購物三台",
+    "name": "東森購物三台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "INULTRA",
+    "name": "INULTRA",
+    "source": "4gtv-epg",
+    "programme_count": 119,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TRACE Sport Stars",
+    "name": "TRACE Sport Stars",
+    "source": "4gtv-epg",
+    "programme_count": 147,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "智林體育台",
+    "name": "智林體育台",
+    "source": "4gtv-epg",
+    "programme_count": 33,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "時尚運動X",
+    "name": "時尚運動X",
+    "source": "4gtv-epg",
+    "programme_count": 251,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "車迷TV",
+    "name": "車迷TV",
+    "source": "4gtv-epg",
+    "programme_count": 132,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "GINX Esports TV",
+    "name": "GINX Esports TV",
+    "source": "4gtv-epg",
+    "programme_count": 87,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Pet Club TV",
+    "name": "Pet Club TV",
+    "source": "4gtv-epg",
+    "programme_count": 83,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "民視旅遊台",
+    "name": "民視旅遊台",
+    "source": "4gtv-epg",
+    "programme_count": 137,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "滾動力rollor",
+    "name": "滾動力rollor",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "亞洲旅遊台",
+    "name": "亞洲旅遊台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "fun探索娛樂台",
+    "name": "fun探索娛樂台",
+    "source": "4gtv-epg",
+    "programme_count": 71,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "幸福空間居家台",
+    "name": "幸福空間居家台",
+    "source": "4gtv-epg",
+    "programme_count": 76,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "Love Nature",
+    "name": "Love Nature",
+    "source": "4gtv-epg",
+    "programme_count": 87,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "History 歷史頻道",
+    "name": "History 歷史頻道",
+    "source": "4gtv-epg",
+    "programme_count": 84,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "愛爾達生活旅遊台",
+    "name": "愛爾達生活旅遊台",
+    "source": "4gtv-epg",
+    "programme_count": 110,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "LUXE TV Channel",
+    "name": "LUXE TV Channel",
+    "source": "4gtv-epg",
+    "programme_count": 145,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TV5MONDE STYLE HD 生活時尚",
+    "name": "TV5MONDE STYLE HD 生活時尚",
+    "source": "4gtv-epg",
+    "programme_count": 121,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "MagellanTV頻道 (麥哲倫頻道)",
+    "name": "MagellanTV頻道 (麥哲倫頻道)",
+    "source": "4gtv-epg",
+    "programme_count": 93,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "公視戲劇",
+    "name": "公視戲劇",
+    "source": "4gtv-epg",
+    "programme_count": 63,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "民視影劇台",
+    "name": "民視影劇台",
+    "source": "4gtv-epg",
+    "programme_count": 62,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "HITS頻道",
+    "name": "HITS頻道",
+    "source": "4gtv-epg",
+    "programme_count": 86,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "八大精彩台",
+    "name": "八大精彩台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天戲劇台",
+    "name": "靖天戲劇台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖洋戲劇台",
+    "name": "靖洋戲劇台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CI 罪案偵查頻道",
+    "name": "CI 罪案偵查頻道",
+    "source": "4gtv-epg",
+    "programme_count": 90,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "視納華仁紀實頻道",
+    "name": "視納華仁紀實頻道",
+    "source": "4gtv-epg",
+    "programme_count": 91,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "影迷數位紀實台",
+    "name": "影迷數位紀實台",
+    "source": "4gtv-epg",
+    "programme_count": 74,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "金光布袋戲",
+    "name": "金光布袋戲",
+    "source": "4gtv-epg",
+    "programme_count": 57,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "ROCK Action",
+    "name": "ROCK Action",
+    "source": "4gtv-epg",
+    "programme_count": 40,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "GagaOOLala 精選LGBTQ+好劇",
+    "name": "GagaOOLala 精選LGBTQ+好劇",
+    "source": "4gtv-epg",
+    "programme_count": 136,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "采昌影劇台",
+    "name": "采昌影劇台",
+    "source": "4gtv-epg",
+    "programme_count": 50,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天映畫",
+    "name": "靖天映畫",
+    "source": "4gtv-epg",
+    "programme_count": 39,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天電影台",
+    "name": "靖天電影台",
+    "source": "4gtv-epg",
+    "programme_count": 42,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "影迷數位電影台",
+    "name": "影迷數位電影台",
+    "source": "4gtv-epg",
+    "programme_count": 41,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "amc電影台",
+    "name": "amc電影台",
+    "source": "4gtv-epg",
+    "programme_count": 46,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CinemaWorld",
+    "name": "CinemaWorld",
+    "source": "4gtv-epg",
+    "programme_count": 43,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "My Cinema Europe HD 我的歐洲電影",
+    "name": "My Cinema Europe HD 我的歐洲電影",
+    "source": "4gtv-epg",
+    "programme_count": 47,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "好消息",
+    "name": "好消息",
+    "source": "4gtv-epg",
+    "programme_count": 146,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "好消息2台",
+    "name": "好消息2台",
+    "source": "4gtv-epg",
+    "programme_count": 138,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "大愛二台",
+    "name": "大愛二台",
+    "source": "4gtv-epg",
+    "programme_count": 144,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "人間衛視",
+    "name": "人間衛視",
+    "source": "4gtv-epg",
+    "programme_count": 93,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "NHK WORLD-JAPAN",
+    "name": "NHK WORLD-JAPAN",
+    "source": "4gtv-epg",
+    "programme_count": 179,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "FRANCE24 英文台",
+    "name": "FRANCE24 英文台",
+    "source": "4gtv-epg",
+    "programme_count": 350,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "半島國際新聞台",
+    "name": "半島國際新聞台",
+    "source": "4gtv-epg",
+    "programme_count": 120,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "CNBC Asia 財經台",
+    "name": "CNBC Asia 財經台",
+    "source": "4gtv-epg",
+    "programme_count": 132,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "DW德國之聲",
+    "name": "DW德國之聲",
+    "source": "4gtv-epg",
+    "programme_count": 187,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "鳳梨直擊台",
+    "name": "鳳梨直擊台",
+    "source": "4gtv-epg",
+    "programme_count": 0,
+    "date_range": {
+      "start": null,
+      "end": null
+    },
+    "has_programmes": false
+  },
+  {
+    "id": "香蕉直擊台",
+    "name": "香蕉直擊台",
+    "source": "4gtv-epg",
+    "programme_count": 0,
+    "date_range": {
+      "start": null,
+      "end": null
+    },
+    "has_programmes": false
+  },
+  {
+    "id": "芭樂直擊台",
+    "name": "芭樂直擊台",
+    "source": "4gtv-epg",
+    "programme_count": 0,
+    "date_range": {
+      "start": null,
+      "end": null
+    },
+    "has_programmes": false
+  },
+  {
+    "id": "國會頻道1",
+    "name": "國會頻道1",
+    "source": "4gtv-epg",
+    "programme_count": 14,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "國會頻道2",
+    "name": "國會頻道2",
+    "source": "4gtv-epg",
+    "programme_count": 15,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TVBS綜藝台",
+    "name": "TVBS綜藝台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "TVBS台劇台",
+    "name": "TVBS台劇台",
+    "source": "4gtv-epg",
+    "programme_count": 75,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "經典電影台",
+    "name": "經典電影台",
+    "source": "4gtv-epg",
+    "programme_count": 39,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "經典卡通台",
+    "name": "經典卡通台",
+    "source": "4gtv-epg",
+    "programme_count": 55,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "精選動漫台",
+    "name": "精選動漫台",
+    "source": "4gtv-epg",
+    "programme_count": 159,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "戲劇免費看 1台",
+    "name": "戲劇免費看 1台",
+    "source": "4gtv-epg",
+    "programme_count": 111,
+    "date_range": {
+      "start": "2025-12-11",
+      "end": "2025-12-14"
+    },
+    "has_programmes": true
+  }
+]
