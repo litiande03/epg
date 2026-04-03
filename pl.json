@@ -3,10 +3,10 @@
     "id": "广东卫视",
     "name": "广东卫视",
     "source": "dx-epg",
-    "programme_count": 225,
+    "programme_count": 293,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-02"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -16,8 +16,8 @@
     "source": "dx-epg",
     "programme_count": 139,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -25,10 +25,10 @@
     "id": "广东新闻",
     "name": "广东新闻",
     "source": "dx-epg",
-    "programme_count": 384,
+    "programme_count": 386,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -38,8 +38,8 @@
     "source": "dx-epg",
     "programme_count": 153,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -47,9 +47,9 @@
     "id": "广东体育",
     "name": "广东体育",
     "source": "dx-epg",
-    "programme_count": 560,
+    "programme_count": 524,
     "date_range": {
-      "start": "2026-03-27",
+      "start": "2026-03-28",
       "end": "2026-04-03"
     },
     "has_programmes": true
@@ -58,10 +58,10 @@
     "id": "经济科教",
     "name": "经济科教",
     "source": "dx-epg",
-    "programme_count": 273,
+    "programme_count": 272,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -69,10 +69,10 @@
     "id": "大湾区卫视",
     "name": "大湾区卫视",
     "source": "dx-epg",
-    "programme_count": 237,
+    "programme_count": 241,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -80,10 +80,10 @@
     "id": "广东影视",
     "name": "广东影视",
     "source": "dx-epg",
-    "programme_count": 101,
+    "programme_count": 100,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -91,10 +91,10 @@
     "id": "广东少儿",
     "name": "广东少儿",
     "source": "dx-epg",
-    "programme_count": 124,
+    "programme_count": 126,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -102,10 +102,10 @@
     "id": "嘉佳卡通",
     "name": "嘉佳卡通",
     "source": "dx-epg",
-    "programme_count": 1310,
+    "programme_count": 1187,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -113,10 +113,10 @@
     "id": "南方购物-精选",
     "name": "南方购物-精选",
     "source": "dx-epg",
-    "programme_count": 311,
+    "programme_count": 360,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-02"
+      "start": "2026-03-28",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -124,10 +124,10 @@
     "id": "广东移动",
     "name": "广东移动",
     "source": "dx-epg",
-    "programme_count": 559,
+    "programme_count": 564,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -135,10 +135,10 @@
     "id": "南方购物",
     "name": "南方购物",
     "source": "dx-epg",
-    "programme_count": 311,
+    "programme_count": 360,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-02"
+      "start": "2026-03-28",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -146,10 +146,10 @@
     "id": "岭南戏曲",
     "name": "岭南戏曲",
     "source": "dx-epg",
-    "programme_count": 338,
+    "programme_count": 362,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -159,8 +159,8 @@
     "source": "dx-epg",
     "programme_count": 91,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -170,8 +170,8 @@
     "source": "dx-epg",
     "programme_count": 268,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -179,10 +179,10 @@
     "id": "广州新闻",
     "name": "广州新闻",
     "source": "dx-epg",
-    "programme_count": 421,
+    "programme_count": 422,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -192,8 +192,8 @@
     "source": "dx-epg",
     "programme_count": 385,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -201,10 +201,10 @@
     "id": "深圳都市",
     "name": "深圳都市",
     "source": "dx-epg",
-    "programme_count": 349,
+    "programme_count": 344,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -212,10 +212,10 @@
     "id": "深圳电视剧",
     "name": "深圳电视剧",
     "source": "dx-epg",
-    "programme_count": 273,
+    "programme_count": 262,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -223,10 +223,10 @@
     "id": "深圳少儿",
     "name": "深圳少儿",
     "source": "dx-epg",
-    "programme_count": 263,
+    "programme_count": 248,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -234,10 +234,10 @@
     "id": "深圳宝安",
     "name": "深圳宝安",
     "source": "dx-epg",
-    "programme_count": 199,
+    "programme_count": 190,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -245,9 +245,9 @@
     "id": "深圳龙岗",
     "name": "深圳龙岗",
     "source": "dx-epg",
-    "programme_count": 199,
+    "programme_count": 174,
     "date_range": {
-      "start": "2026-03-27",
+      "start": "2026-03-28",
       "end": "2026-04-04"
     },
     "has_programmes": true
@@ -256,10 +256,10 @@
     "id": "佛山综合",
     "name": "佛山综合",
     "source": "dx-epg",
-    "programme_count": 132,
+    "programme_count": 134,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -267,10 +267,10 @@
     "id": "佛山城市生活",
     "name": "佛山城市生活",
     "source": "dx-epg",
-    "programme_count": 251,
+    "programme_count": 250,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -278,10 +278,10 @@
     "id": "佛山顺德",
     "name": "佛山顺德",
     "source": "dx-epg",
-    "programme_count": 143,
+    "programme_count": 138,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -291,8 +291,8 @@
     "source": "dx-epg",
     "programme_count": 117,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -300,10 +300,10 @@
     "id": "东莞新闻综合",
     "name": "东莞新闻综合",
     "source": "dx-epg",
-    "programme_count": 255,
+    "programme_count": 252,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -311,10 +311,10 @@
     "id": "东莞生活资讯",
     "name": "东莞生活资讯",
     "source": "dx-epg",
-    "programme_count": 187,
+    "programme_count": 183,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -324,8 +324,8 @@
     "source": "dx-epg",
     "programme_count": 375,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -335,8 +335,8 @@
     "source": "dx-epg",
     "programme_count": 288,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -346,8 +346,8 @@
     "source": "dx-epg",
     "programme_count": 240,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -355,10 +355,10 @@
     "id": "江门综合",
     "name": "江门综合",
     "source": "dx-epg",
-    "programme_count": 172,
+    "programme_count": 173,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -366,10 +366,10 @@
     "id": "中山综合",
     "name": "中山综合",
     "source": "dx-epg",
-    "programme_count": 201,
+    "programme_count": 202,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -377,10 +377,10 @@
     "id": "肇庆新闻综合",
     "name": "肇庆新闻综合",
     "source": "dx-epg",
-    "programme_count": 170,
+    "programme_count": 169,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -390,8 +390,8 @@
     "source": "dx-epg",
     "programme_count": 165,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -399,9 +399,9 @@
     "id": "汕头新闻综合",
     "name": "汕头新闻综合",
     "source": "dx-epg",
-    "programme_count": 602,
+    "programme_count": 535,
     "date_range": {
-      "start": "2026-03-27",
+      "start": "2026-03-28",
       "end": "2026-04-04"
     },
     "has_programmes": true
@@ -410,9 +410,9 @@
     "id": "汕头经济生活",
     "name": "汕头经济生活",
     "source": "dx-epg",
-    "programme_count": 575,
+    "programme_count": 511,
     "date_range": {
-      "start": "2026-03-27",
+      "start": "2026-03-28",
       "end": "2026-04-04"
     },
     "has_programmes": true
@@ -421,10 +421,10 @@
     "id": "揭阳综合",
     "name": "揭阳综合",
     "source": "dx-epg",
-    "programme_count": 246,
+    "programme_count": 250,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -432,10 +432,10 @@
     "id": "揭阳生活",
     "name": "揭阳生活",
     "source": "dx-epg",
-    "programme_count": 218,
+    "programme_count": 220,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -443,10 +443,10 @@
     "id": "潮州综合",
     "name": "潮州综合",
     "source": "dx-epg",
-    "programme_count": 203,
+    "programme_count": 205,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -454,10 +454,10 @@
     "id": "潮州民生",
     "name": "潮州民生",
     "source": "dx-epg",
-    "programme_count": 222,
+    "programme_count": 223,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -465,10 +465,10 @@
     "id": "汕尾新闻综合",
     "name": "汕尾新闻综合",
     "source": "dx-epg",
-    "programme_count": 130,
+    "programme_count": 126,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -476,10 +476,10 @@
     "id": "茂名综合",
     "name": "茂名综合",
     "source": "dx-epg",
-    "programme_count": 270,
+    "programme_count": 266,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -487,10 +487,10 @@
     "id": "茂名文化生活",
     "name": "茂名文化生活",
     "source": "dx-epg",
-    "programme_count": 116,
+    "programme_count": 115,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -498,10 +498,10 @@
     "id": "阳江-1",
     "name": "阳江-1",
     "source": "dx-epg",
-    "programme_count": 199,
+    "programme_count": 195,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -511,8 +511,8 @@
     "source": "dx-epg",
     "programme_count": 218,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -522,8 +522,8 @@
     "source": "dx-epg",
     "programme_count": 199,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -531,10 +531,10 @@
     "id": "清远新闻综合",
     "name": "清远新闻综合",
     "source": "dx-epg",
-    "programme_count": 378,
+    "programme_count": 379,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -544,8 +544,8 @@
     "source": "dx-epg",
     "programme_count": 252,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -553,10 +553,10 @@
     "id": "河源综合",
     "name": "河源综合",
     "source": "dx-epg",
-    "programme_count": 179,
+    "programme_count": 176,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -564,10 +564,10 @@
     "id": "河源生活",
     "name": "河源生活",
     "source": "dx-epg",
-    "programme_count": 123,
+    "programme_count": 120,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -575,10 +575,10 @@
     "id": "梅州综合",
     "name": "梅州综合",
     "source": "dx-epg",
-    "programme_count": 256,
+    "programme_count": 257,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -586,10 +586,10 @@
     "id": "梅州客家生活",
     "name": "梅州客家生活",
     "source": "dx-epg",
-    "programme_count": 263,
+    "programme_count": 264,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -597,10 +597,10 @@
     "id": "睛彩竞技",
     "name": "睛彩竞技",
     "source": "dx-epg",
-    "programme_count": 68,
+    "programme_count": 75,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -608,10 +608,10 @@
     "id": "睛彩篮球",
     "name": "睛彩篮球",
     "source": "dx-epg",
-    "programme_count": 129,
+    "programme_count": 125,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -619,10 +619,10 @@
     "id": "睛彩青少",
     "name": "睛彩青少",
     "source": "dx-epg",
-    "programme_count": 121,
+    "programme_count": 119,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -630,10 +630,10 @@
     "id": "睛彩广场舞",
     "name": "睛彩广场舞",
     "source": "dx-epg",
-    "programme_count": 105,
+    "programme_count": 101,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -641,10 +641,10 @@
     "id": "宜和购物",
     "name": "宜和购物",
     "source": "dx-epg",
-    "programme_count": 391,
+    "programme_count": 387,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -654,8 +654,8 @@
     "source": "dx-epg",
     "programme_count": 697,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -663,10 +663,10 @@
     "id": "CCTV-1 综合",
     "name": "CCTV-1 综合",
     "source": "dx-epg",
-    "programme_count": 360,
+    "programme_count": 352,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -676,8 +676,8 @@
     "source": "dx-epg",
     "programme_count": 398,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -687,8 +687,8 @@
     "source": "dx-epg",
     "programme_count": 237,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -696,10 +696,10 @@
     "id": "CCTV-4 中文国际",
     "name": "CCTV-4 中文国际",
     "source": "dx-epg",
-    "programme_count": 422,
+    "programme_count": 416,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -709,8 +709,8 @@
     "source": "dx-epg",
     "programme_count": 61,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-03"
+      "start": "2026-04-03",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -718,10 +718,10 @@
     "id": "CCTV-4 中文国际美洲",
     "name": "CCTV-4 中文国际美洲",
     "source": "dx-epg",
-    "programme_count": 59,
+    "programme_count": 60,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-03"
+      "start": "2026-04-03",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -729,10 +729,10 @@
     "id": "CCTV-5+ 体育赛事",
     "name": "CCTV-5+ 体育赛事",
     "source": "dx-epg",
-    "programme_count": 208,
+    "programme_count": 204,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -740,10 +740,10 @@
     "id": "CCTV-5 体育",
     "name": "CCTV-5 体育",
     "source": "dx-epg",
-    "programme_count": 264,
+    "programme_count": 266,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -751,10 +751,10 @@
     "id": "CCTV-6 电影",
     "name": "CCTV-6 电影",
     "source": "dx-epg",
-    "programme_count": 331,
+    "programme_count": 328,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -762,10 +762,10 @@
     "id": "CCTV-7 国防 军事",
     "name": "CCTV-7 国防 军事",
     "source": "dx-epg",
-    "programme_count": 360,
+    "programme_count": 355,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -773,10 +773,10 @@
     "id": "CCTV-8 电视剧",
     "name": "CCTV-8 电视剧",
     "source": "dx-epg",
-    "programme_count": 421,
+    "programme_count": 420,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -784,10 +784,10 @@
     "id": "CCTV-9 记录",
     "name": "CCTV-9 记录",
     "source": "dx-epg",
-    "programme_count": 304,
+    "programme_count": 302,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -795,10 +795,10 @@
     "id": "CCTV-10 科教",
     "name": "CCTV-10 科教",
     "source": "dx-epg",
-    "programme_count": 360,
+    "programme_count": 358,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -806,10 +806,10 @@
     "id": "CCTV-11 戏曲",
     "name": "CCTV-11 戏曲",
     "source": "dx-epg",
-    "programme_count": 212,
+    "programme_count": 213,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -817,10 +817,10 @@
     "id": "CCTV-12 社会与法",
     "name": "CCTV-12 社会与法",
     "source": "dx-epg",
-    "programme_count": 315,
+    "programme_count": 314,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -828,10 +828,10 @@
     "id": "CCTV-13 新闻",
     "name": "CCTV-13 新闻",
     "source": "dx-epg",
-    "programme_count": 302,
+    "programme_count": 299,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-03"
+      "start": "2026-03-28",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -839,10 +839,10 @@
     "id": "CCTV-14 少儿",
     "name": "CCTV-14 少儿",
     "source": "dx-epg",
-    "programme_count": 168,
+    "programme_count": 166,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -852,8 +852,8 @@
     "source": "dx-epg",
     "programme_count": 194,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -863,8 +863,8 @@
     "source": "dx-epg",
     "programme_count": 62,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -874,8 +874,8 @@
     "source": "dx-epg",
     "programme_count": 330,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -883,9 +883,9 @@
     "id": "CCTV-卫生健康",
     "name": "CCTV-卫生健康",
     "source": "dx-epg",
-    "programme_count": 420,
+    "programme_count": 416,
     "date_range": {
-      "start": "2026-03-27",
+      "start": "2026-03-28",
       "end": "2026-04-05"
     },
     "has_programmes": true
@@ -894,10 +894,10 @@
     "id": "CCTV-兵器科技",
     "name": "CCTV-兵器科技",
     "source": "dx-epg",
-    "programme_count": 229,
+    "programme_count": 228,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -905,10 +905,10 @@
     "id": "CCTV-电视指南",
     "name": "CCTV-电视指南",
     "source": "dx-epg",
-    "programme_count": 641,
+    "programme_count": 630,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -918,8 +918,8 @@
     "source": "dx-epg",
     "programme_count": 181,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -927,10 +927,10 @@
     "id": "CCTV-央视台球",
     "name": "CCTV-央视台球",
     "source": "dx-epg",
-    "programme_count": 222,
+    "programme_count": 221,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -940,8 +940,8 @@
     "source": "dx-epg",
     "programme_count": 154,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -951,8 +951,8 @@
     "source": "dx-epg",
     "programme_count": 234,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -960,10 +960,10 @@
     "id": "CCTV-世界地理",
     "name": "CCTV-世界地理",
     "source": "dx-epg",
-    "programme_count": 382,
+    "programme_count": 383,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -973,8 +973,8 @@
     "source": "dx-epg",
     "programme_count": 193,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -982,10 +982,10 @@
     "id": "CCTV-风云剧场",
     "name": "CCTV-风云剧场",
     "source": "dx-epg",
-    "programme_count": 207,
+    "programme_count": 208,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -993,10 +993,10 @@
     "id": "CCTV-央视文化精品",
     "name": "CCTV-央视文化精品",
     "source": "dx-epg",
-    "programme_count": 246,
+    "programme_count": 249,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1006,8 +1006,8 @@
     "source": "dx-epg",
     "programme_count": 216,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1015,10 +1015,10 @@
     "id": "CCTV-风云音乐",
     "name": "CCTV-风云音乐",
     "source": "dx-epg",
-    "programme_count": 197,
+    "programme_count": 200,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1026,10 +1026,10 @@
     "id": "CGTN英语",
     "name": "CGTN英语",
     "source": "dx-epg",
-    "programme_count": 107,
+    "programme_count": 105,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-04"
+      "start": "2026-04-03",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1039,8 +1039,8 @@
     "source": "dx-epg",
     "programme_count": 51,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-03"
+      "start": "2026-04-03",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -1050,8 +1050,8 @@
     "source": "dx-epg",
     "programme_count": 118,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-04"
+      "start": "2026-04-03",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1061,8 +1061,8 @@
     "source": "dx-epg",
     "programme_count": 103,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1072,8 +1072,8 @@
     "source": "dx-epg",
     "programme_count": 110,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1083,8 +1083,8 @@
     "source": "dx-epg",
     "programme_count": 114,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-04"
+      "start": "2026-04-03",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1094,8 +1094,8 @@
     "source": "dx-epg",
     "programme_count": 341,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1103,10 +1103,10 @@
     "id": "浙江卫视",
     "name": "浙江卫视",
     "source": "dx-epg",
-    "programme_count": 394,
+    "programme_count": 390,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1114,10 +1114,10 @@
     "id": "江苏卫视",
     "name": "江苏卫视",
     "source": "dx-epg",
-    "programme_count": 317,
+    "programme_count": 323,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1127,8 +1127,8 @@
     "source": "dx-epg",
     "programme_count": 340,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1136,9 +1136,9 @@
     "id": "安徽卫视",
     "name": "安徽卫视",
     "source": "dx-epg",
-    "programme_count": 350,
+    "programme_count": 353,
     "date_range": {
-      "start": "2026-03-27",
+      "start": "2026-03-28",
       "end": "2026-04-05"
     },
     "has_programmes": true
@@ -1147,10 +1147,10 @@
     "id": "北京卫视",
     "name": "北京卫视",
     "source": "dx-epg",
-    "programme_count": 307,
+    "programme_count": 305,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1158,10 +1158,10 @@
     "id": "天津卫视",
     "name": "天津卫视",
     "source": "dx-epg",
-    "programme_count": 380,
+    "programme_count": 381,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1169,10 +1169,10 @@
     "id": "山东卫视",
     "name": "山东卫视",
     "source": "dx-epg",
-    "programme_count": 368,
+    "programme_count": 364,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1180,10 +1180,10 @@
     "id": "江西卫视",
     "name": "江西卫视",
     "source": "dx-epg",
-    "programme_count": 429,
+    "programme_count": 432,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1191,10 +1191,10 @@
     "id": "湖北卫视",
     "name": "湖北卫视",
     "source": "dx-epg",
-    "programme_count": 330,
+    "programme_count": 327,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1202,10 +1202,10 @@
     "id": "辽宁卫视",
     "name": "辽宁卫视",
     "source": "dx-epg",
-    "programme_count": 402,
+    "programme_count": 405,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1213,10 +1213,10 @@
     "id": "黑龙江卫视",
     "name": "黑龙江卫视",
     "source": "dx-epg",
-    "programme_count": 418,
+    "programme_count": 420,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1224,10 +1224,10 @@
     "id": "贵州卫视",
     "name": "贵州卫视",
     "source": "dx-epg",
-    "programme_count": 325,
+    "programme_count": 326,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-03"
+      "start": "2026-03-28",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -1237,8 +1237,8 @@
     "source": "dx-epg",
     "programme_count": 408,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1246,10 +1246,10 @@
     "id": "河南卫视",
     "name": "河南卫视",
     "source": "dx-epg",
-    "programme_count": 412,
+    "programme_count": 414,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1257,10 +1257,10 @@
     "id": "云南卫视",
     "name": "云南卫视",
     "source": "dx-epg",
-    "programme_count": 404,
+    "programme_count": 403,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1268,10 +1268,10 @@
     "id": "重庆卫视",
     "name": "重庆卫视",
     "source": "dx-epg",
-    "programme_count": 333,
+    "programme_count": 335,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1279,10 +1279,10 @@
     "id": "河北卫视",
     "name": "河北卫视",
     "source": "dx-epg",
-    "programme_count": 385,
+    "programme_count": 389,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1290,10 +1290,10 @@
     "id": "东南卫视",
     "name": "东南卫视",
     "source": "dx-epg",
-    "programme_count": 417,
+    "programme_count": 420,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1301,10 +1301,10 @@
     "id": "广西卫视",
     "name": "广西卫视",
     "source": "dx-epg",
-    "programme_count": 378,
+    "programme_count": 377,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1312,9 +1312,9 @@
     "id": "吉林卫视",
     "name": "吉林卫视",
     "source": "dx-epg",
-    "programme_count": 398,
+    "programme_count": 397,
     "date_range": {
-      "start": "2026-03-27",
+      "start": "2026-03-28",
       "end": "2026-04-04"
     },
     "has_programmes": true
@@ -1325,8 +1325,8 @@
     "source": "dx-epg",
     "programme_count": 332,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1334,10 +1334,10 @@
     "id": "山西卫视",
     "name": "山西卫视",
     "source": "dx-epg",
-    "programme_count": 404,
+    "programme_count": 405,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1345,10 +1345,10 @@
     "id": "内蒙古卫视",
     "name": "内蒙古卫视",
     "source": "dx-epg",
-    "programme_count": 467,
+    "programme_count": 472,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1356,10 +1356,10 @@
     "id": "青海卫视",
     "name": "青海卫视",
     "source": "dx-epg",
-    "programme_count": 351,
+    "programme_count": 357,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1367,10 +1367,10 @@
     "id": "海南卫视",
     "name": "海南卫视",
     "source": "dx-epg",
-    "programme_count": 429,
+    "programme_count": 430,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1378,10 +1378,10 @@
     "id": "宁夏卫视",
     "name": "宁夏卫视",
     "source": "dx-epg",
-    "programme_count": 114,
+    "programme_count": 112,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1391,8 +1391,8 @@
     "source": "dx-epg",
     "programme_count": 356,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1400,10 +1400,10 @@
     "id": "新疆卫视",
     "name": "新疆卫视",
     "source": "dx-epg",
-    "programme_count": 418,
+    "programme_count": 416,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1413,8 +1413,8 @@
     "source": "dx-epg",
     "programme_count": 464,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1422,10 +1422,10 @@
     "id": "兵团卫视",
     "name": "兵团卫视",
     "source": "dx-epg",
-    "programme_count": 427,
+    "programme_count": 428,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1433,10 +1433,10 @@
     "id": "快乐垂钓",
     "name": "快乐垂钓",
     "source": "dx-epg",
-    "programme_count": 135,
+    "programme_count": 138,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1446,8 +1446,8 @@
     "source": "dx-epg",
     "programme_count": 101,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-04"
+      "start": "2026-04-03",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1455,10 +1455,10 @@
     "id": "天元围棋",
     "name": "天元围棋",
     "source": "dx-epg",
-    "programme_count": 93,
+    "programme_count": 88,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1466,10 +1466,10 @@
     "id": "广东卫视4K",
     "name": "广东卫视4K",
     "source": "dx-epg",
-    "programme_count": 368,
+    "programme_count": 381,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1477,10 +1477,10 @@
     "id": "广东4K",
     "name": "广东4K",
     "source": "dx-epg",
-    "programme_count": 85,
+    "programme_count": 78,
     "date_range": {
-      "start": "2026-03-30",
-      "end": "2026-04-04"
+      "start": "2026-03-31",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1488,10 +1488,10 @@
     "id": "广州南国都市4K",
     "name": "广州南国都市4K",
     "source": "dx-epg",
-    "programme_count": 67,
+    "programme_count": 62,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-04"
+      "start": "2026-04-03",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1499,10 +1499,10 @@
     "id": "深圳卫视4K",
     "name": "深圳卫视4K",
     "source": "dx-epg",
-    "programme_count": 432,
+    "programme_count": 442,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1512,8 +1512,8 @@
     "source": "dx-epg",
     "programme_count": 305,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1521,10 +1521,10 @@
     "id": "湖南卫视4K",
     "name": "湖南卫视4K",
     "source": "dx-epg",
-    "programme_count": 333,
+    "programme_count": 335,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1532,10 +1532,10 @@
     "id": "江苏卫视4K",
     "name": "江苏卫视4K",
     "source": "dx-epg",
-    "programme_count": 317,
+    "programme_count": 325,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1543,10 +1543,10 @@
     "id": "浙江卫视4K",
     "name": "浙江卫视4K",
     "source": "dx-epg",
-    "programme_count": 394,
+    "programme_count": 388,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1554,10 +1554,10 @@
     "id": "东方卫视4K",
     "name": "东方卫视4K",
     "source": "dx-epg",
-    "programme_count": 336,
+    "programme_count": 338,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1565,10 +1565,10 @@
     "id": "四川卫视4K",
     "name": "四川卫视4K",
     "source": "dx-epg",
-    "programme_count": 405,
+    "programme_count": 407,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1576,10 +1576,10 @@
     "id": "山东卫视4K",
     "name": "山东卫视4K",
     "source": "dx-epg",
-    "programme_count": 419,
+    "programme_count": 417,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1587,10 +1587,10 @@
     "id": "卡酷动画",
     "name": "卡酷动画",
     "source": "dx-epg",
-    "programme_count": 157,
+    "programme_count": 154,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1598,10 +1598,10 @@
     "id": "金鹰卡通",
     "name": "金鹰卡通",
     "source": "dx-epg",
-    "programme_count": 282,
+    "programme_count": 294,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-03"
+      "start": "2026-03-28",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -1609,10 +1609,10 @@
     "id": "CETV-1",
     "name": "CETV-1",
     "source": "dx-epg",
-    "programme_count": 514,
+    "programme_count": 513,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1620,9 +1620,9 @@
     "id": "山东教育",
     "name": "山东教育",
     "source": "dx-epg",
-    "programme_count": 259,
+    "programme_count": 262,
     "date_range": {
-      "start": "2026-03-27",
+      "start": "2026-03-28",
       "end": "2026-04-05"
     },
     "has_programmes": true
@@ -1631,10 +1631,10 @@
     "id": "厦门卫视",
     "name": "厦门卫视",
     "source": "dx-epg",
-    "programme_count": 253,
+    "programme_count": 252,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1644,8 +1644,8 @@
     "source": "dx-epg",
     "programme_count": 486,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1653,10 +1653,10 @@
     "id": "三沙卫视",
     "name": "三沙卫视",
     "source": "dx-epg",
-    "programme_count": 381,
+    "programme_count": 382,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-03"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1666,8 +1666,8 @@
     "source": "dx-epg",
     "programme_count": 235,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1677,8 +1677,8 @@
     "source": "dx-epg",
     "programme_count": 298,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1686,10 +1686,10 @@
     "id": "CETV2",
     "name": "CETV2",
     "source": "dx-epg",
-    "programme_count": 490,
+    "programme_count": 489,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -1699,8 +1699,8 @@
     "source": "dx-epg",
     "programme_count": 456,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1708,10 +1708,10 @@
     "id": "早期教育",
     "name": "早期教育",
     "source": "dx-epg",
-    "programme_count": 528,
+    "programme_count": 522,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1721,8 +1721,8 @@
     "source": "dx-epg",
     "programme_count": 640,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1730,10 +1730,10 @@
     "id": "老故事",
     "name": "老故事",
     "source": "dx-epg",
-    "programme_count": 430,
+    "programme_count": 429,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-04"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1743,8 +1743,8 @@
     "source": "dx-epg",
     "programme_count": 449,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-03-28",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -1752,10 +1752,10 @@
     "id": "爱电影",
     "name": "爱电影",
     "source": "dx-epg",
-    "programme_count": 19,
+    "programme_count": 20,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-03"
+      "start": "2026-04-03",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -1763,10 +1763,10 @@
     "id": "经典电影",
     "name": "经典电影",
     "source": "dx-epg",
-    "programme_count": 20,
+    "programme_count": 19,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-03"
+      "start": "2026-04-03",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -1774,10 +1774,10 @@
     "id": "爱大剧",
     "name": "爱大剧",
     "source": "dx-epg",
-    "programme_count": 51,
+    "programme_count": 50,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-03"
+      "start": "2026-04-03",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -1785,10 +1785,10 @@
     "id": "热播剧场",
     "name": "热播剧场",
     "source": "dx-epg",
-    "programme_count": 52,
+    "programme_count": 53,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-03"
+      "start": "2026-04-03",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -1798,8 +1798,8 @@
     "source": "dx-epg",
     "programme_count": 35,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-03"
+      "start": "2026-04-03",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -1807,10 +1807,10 @@
     "id": "少儿动画",
     "name": "少儿动画",
     "source": "dx-epg",
-    "programme_count": 31,
+    "programme_count": 30,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-03"
+      "start": "2026-04-03",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -1820,1075 +1820,8 @@
     "source": "dx-epg",
     "programme_count": 52,
     "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-03"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "SUPER FREE",
-    "name": "SUPER FREE",
-    "source": "mytv-epg",
-    "programme_count": 0,
-    "date_range": {
-      "start": null,
-      "end": null
-    },
-    "has_programmes": false
-  },
-  {
-    "id": "SUPER獎門人",
-    "name": "SUPER獎門人",
-    "source": "mytv-epg",
-    "programme_count": 288,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "觀眾票選-追劇馬拉松",
-    "name": "觀眾票選-追劇馬拉松",
-    "source": "mytv-epg",
-    "programme_count": 583,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "SUPER識食",
-    "name": "SUPER識食",
-    "source": "mytv-epg",
-    "programme_count": 524,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "SUPER識嘆",
-    "name": "SUPER識嘆",
-    "source": "mytv-epg",
-    "programme_count": 560,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "SUPER Music",
-    "name": "SUPER Music",
-    "source": "mytv-epg",
-    "programme_count": 197,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "SUPER金曲",
-    "name": "SUPER金曲",
-    "source": "mytv-epg",
-    "programme_count": 377,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "SUPER煲劇",
-    "name": "SUPER煲劇",
-    "source": "mytv-epg",
-    "programme_count": 575,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "SUPER單元劇",
-    "name": "SUPER單元劇",
-    "source": "mytv-epg",
-    "programme_count": 223,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "真情SUPER煲",
-    "name": "真情SUPER煲",
-    "source": "mytv-epg",
-    "programme_count": 418,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "SUPER Sports",
-    "name": "SUPER Sports",
-    "source": "mytv-epg",
-    "programme_count": 155,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "myTV SUPER 18台",
-    "name": "myTV SUPER 18台",
-    "source": "mytv-epg",
-    "programme_count": 240,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "黃金翡翠台",
-    "name": "黃金翡翠台",
-    "source": "mytv-epg",
-    "programme_count": 242,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "翡翠台",
-    "name": "翡翠台",
-    "source": "mytv-epg",
-    "programme_count": 393,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "TVB Plus",
-    "name": "TVB Plus",
-    "source": "mytv-epg",
-    "programme_count": 357,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "無綫新聞台",
-    "name": "無綫新聞台",
-    "source": "mytv-epg",
-    "programme_count": 0,
-    "date_range": {
-      "start": null,
-      "end": null
-    },
-    "has_programmes": false
-  },
-  {
-    "id": "明珠台",
-    "name": "明珠台",
-    "source": "mytv-epg",
-    "programme_count": 0,
-    "date_range": {
-      "start": null,
-      "end": null
-    },
-    "has_programmes": false
-  },
-  {
-    "id": "千禧經典台",
-    "name": "千禧經典台",
-    "source": "mytv-epg",
-    "programme_count": 288,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "亞洲劇台",
-    "name": "亞洲劇台",
-    "source": "mytv-epg",
-    "programme_count": 241,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "華語劇台",
-    "name": "華語劇台",
-    "source": "mytv-epg",
-    "programme_count": 262,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "黃金華劇台",
-    "name": "黃金華劇台",
-    "source": "mytv-epg",
-    "programme_count": 298,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "娛樂新聞台",
-    "name": "娛樂新聞台",
-    "source": "mytv-epg",
-    "programme_count": 432,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "戲曲台",
-    "name": "戲曲台",
-    "source": "mytv-epg",
-    "programme_count": 800,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "SUPER Kids Channel",
-    "name": "SUPER Kids Channel",
-    "source": "mytv-epg",
-    "programme_count": 597,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "ZooMoo",
-    "name": "ZooMoo",
-    "source": "mytv-epg",
-    "programme_count": 978,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Nickelodeon",
-    "name": "Nickelodeon",
-    "source": "mytv-epg",
-    "programme_count": 591,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Nick Jr",
-    "name": "Nick Jr",
-    "source": "mytv-epg",
-    "programme_count": 835,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "粵語片台",
-    "name": "粵語片台",
-    "source": "mytv-epg",
-    "programme_count": 130,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "美亞電影台",
-    "name": "美亞電影台",
-    "source": "mytv-epg",
-    "programme_count": 134,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Thrill",
-    "name": "Thrill",
-    "source": "mytv-epg",
-    "programme_count": 158,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "天映經典頻道",
-    "name": "天映經典頻道",
-    "source": "mytv-epg",
-    "programme_count": 134,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "中國電影頻道",
-    "name": "中國電影頻道",
-    "source": "mytv-epg",
-    "programme_count": 198,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "ROCK Action",
-    "name": "ROCK Action",
-    "source": "mytv-epg",
-    "programme_count": 132,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "PopC",
-    "name": "PopC",
-    "source": "mytv-epg",
-    "programme_count": 153,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Action Hollywood Movies",
-    "name": "Action Hollywood Movies",
-    "source": "mytv-epg",
-    "programme_count": 105,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Rialto Classic Movies (RCM)",
-    "name": "Rialto Classic Movies (RCM)",
-    "source": "mytv-epg",
-    "programme_count": 106,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "KIX",
-    "name": "KIX",
-    "source": "mytv-epg",
-    "programme_count": 158,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "TRACE Sport Stars",
-    "name": "TRACE Sport Stars",
-    "source": "mytv-epg",
-    "programme_count": 435,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Love Nature HD",
-    "name": "Love Nature HD",
-    "source": "mytv-epg",
-    "programme_count": 243,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Love Nature 4K",
-    "name": "Love Nature 4K",
-    "source": "mytv-epg",
-    "programme_count": 243,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Global Trekker",
-    "name": "Global Trekker",
-    "source": "mytv-epg",
-    "programme_count": 298,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Pet Club TV",
-    "name": "Pet Club TV",
-    "source": "mytv-epg",
-    "programme_count": 256,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Globetrotter",
-    "name": "Globetrotter",
-    "source": "mytv-epg",
-    "programme_count": 0,
-    "date_range": {
-      "start": null,
-      "end": null
-    },
-    "has_programmes": false
-  },
-  {
-    "id": "Docsville",
-    "name": "Docsville",
-    "source": "mytv-epg",
-    "programme_count": 0,
-    "date_range": {
-      "start": null,
-      "end": null
-    },
-    "has_programmes": false
-  },
-  {
-    "id": "Wild Stuff",
-    "name": "Wild Stuff",
-    "source": "mytv-epg",
-    "programme_count": 268,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "ROCK綜藝娛樂",
-    "name": "ROCK綜藝娛樂",
-    "source": "mytv-epg",
-    "programme_count": 241,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "AXN",
-    "name": "AXN",
-    "source": "mytv-epg",
-    "programme_count": 227,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "ROCK X Stream",
-    "name": "ROCK X Stream",
-    "source": "mytv-epg",
-    "programme_count": 198,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Animax",
-    "name": "Animax",
-    "source": "mytv-epg",
-    "programme_count": 432,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "tvN",
-    "name": "tvN",
-    "source": "mytv-epg",
-    "programme_count": 161,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "無線衛星亞洲台",
-    "name": "無線衛星亞洲台",
-    "source": "mytv-epg",
-    "programme_count": 192,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "創世電視",
-    "name": "創世電視",
-    "source": "mytv-epg",
-    "programme_count": 239,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "FashionBox",
-    "name": "FashionBox",
-    "source": "mytv-epg",
-    "programme_count": 286,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Mezzo Live HD",
-    "name": "Mezzo Live HD",
-    "source": "mytv-epg",
-    "programme_count": 174,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "中央電視台綜合頻道 (港澳版)",
-    "name": "中央電視台綜合頻道 (港澳版)",
-    "source": "mytv-epg",
-    "programme_count": 292,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "CGTN (中國環球電視網)記錄頻道",
-    "name": "CGTN (中國環球電視網)記錄頻道",
-    "source": "mytv-epg",
-    "programme_count": 606,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "CGTN (中國環球電視網)英語頻道",
-    "name": "CGTN (中國環球電視網)英語頻道",
-    "source": "mytv-epg",
-    "programme_count": 403,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "東方衛視國際頻道",
-    "name": "東方衛視國際頻道",
-    "source": "mytv-epg",
-    "programme_count": 279,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "鳳凰衛視中文台",
-    "name": "鳳凰衛視中文台",
-    "source": "mytv-epg",
-    "programme_count": 437,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "鳳凰衛視資訊台",
-    "name": "鳳凰衛視資訊台",
-    "source": "mytv-epg",
-    "programme_count": 574,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "鳳凰衛視香港台",
-    "name": "鳳凰衛視香港台",
-    "source": "mytv-epg",
-    "programme_count": 425,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "中國中央電視台中文國際頻道",
-    "name": "中國中央電視台中文國際頻道",
-    "source": "mytv-epg",
-    "programme_count": 68,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "中國中央電視台娛樂頻道",
-    "name": "中國中央電視台娛樂頻道",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "中國中央電視台戲曲頻道",
-    "name": "中國中央電視台戲曲頻道",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "雲南瀾湄國際衛視",
-    "name": "雲南瀾湄國際衛視",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "安徽廣播電視台國際頻道",
-    "name": "安徽廣播電視台國際頻道",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "北京電視台國際頻道",
-    "name": "北京電視台國際頻道",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "福建海峽衛視國際頻道",
-    "name": "福建海峽衛視國際頻道",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "湖南電視台國際頻道",
-    "name": "湖南電視台國際頻道",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "江蘇電視台國際頻道",
-    "name": "江蘇電視台國際頻道",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "廣東廣播電視台大灣區衛視頻道",
-    "name": "廣東廣播電視台大灣區衛視頻道",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "浙江電視台國際頻道",
-    "name": "浙江電視台國際頻道",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "深圳衛視國際頻道",
-    "name": "深圳衛視國際頻道",
-    "source": "mytv-epg",
-    "programme_count": 63,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "that's 70s",
-    "name": "that's 70s",
-    "source": "mytv-epg",
-    "programme_count": 121,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "that's 80s",
-    "name": "that's 80s",
-    "source": "mytv-epg",
-    "programme_count": 132,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "that's Rock",
-    "name": "that's Rock",
-    "source": "mytv-epg",
-    "programme_count": 131,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "that's 90s00s",
-    "name": "that's 90s00s",
-    "source": "mytv-epg",
-    "programme_count": 131,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Concerto",
-    "name": "Concerto",
-    "source": "mytv-epg",
-    "programme_count": 216,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "TRACE Urban",
-    "name": "TRACE Urban",
-    "source": "mytv-epg",
-    "programme_count": 115,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "無線衛星新聞台",
-    "name": "無線衛星新聞台",
-    "source": "mytv-epg",
-    "programme_count": 216,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "亞洲新聞台",
-    "name": "亞洲新聞台",
-    "source": "mytv-epg",
-    "programme_count": 280,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "半島電視台英語頻道",
-    "name": "半島電視台英語頻道",
-    "source": "mytv-epg",
-    "programme_count": 352,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "France 24",
-    "name": "France 24",
-    "source": "mytv-epg",
-    "programme_count": 216,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "DW",
-    "name": "DW",
-    "source": "mytv-epg",
-    "programme_count": 665,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "NHK World-Japan",
-    "name": "NHK World-Japan",
-    "source": "mytv-epg",
-    "programme_count": 598,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Arirang TV",
-    "name": "Arirang TV",
-    "source": "mytv-epg",
-    "programme_count": 492,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "NewsWorld",
-    "name": "NewsWorld",
-    "source": "mytv-epg",
-    "programme_count": 432,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "myTV SUPER直播足球2台",
-    "name": "myTV SUPER直播足球2台",
-    "source": "mytv-epg",
-    "programme_count": 81,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "myTV SUPER直播足球3台",
-    "name": "myTV SUPER直播足球3台",
-    "source": "mytv-epg",
-    "programme_count": 73,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "myTV SUPER直播足球4台",
-    "name": "myTV SUPER直播足球4台",
-    "source": "mytv-epg",
-    "programme_count": 73,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "myTV SUPER直播足球5台",
-    "name": "myTV SUPER直播足球5台",
-    "source": "mytv-epg",
-    "programme_count": 73,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "myTV SUPER直播足球6台",
-    "name": "myTV SUPER直播足球6台",
-    "source": "mytv-epg",
-    "programme_count": 72,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "myTV SUPER直播足球7台",
-    "name": "myTV SUPER直播足球7台",
-    "source": "mytv-epg",
-    "programme_count": 72,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "測試頻道",
-    "name": "測試頻道",
-    "source": "mytv-epg",
-    "programme_count": 386,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "HOY 國際財經台",
-    "name": "HOY 國際財經台",
-    "source": "hoy-epg",
-    "programme_count": 285,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "HOY TV",
-    "name": "HOY TV",
-    "source": "hoy-epg",
-    "programme_count": 321,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "HOY 資訊台",
-    "name": "HOY 資訊台",
-    "source": "hoy-epg",
-    "programme_count": 454,
-    "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": "2026-04-03",
+      "end": "2026-04-04"
     },
     "has_programmes": true
   },
@@ -2896,414 +1829,51 @@
     "id": "TVB生活台",
     "name": "TVB生活台",
     "source": "tvbanywhere-epg",
-    "programme_count": 407,
+    "programme_count": 0,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": null,
+      "end": null
     },
-    "has_programmes": true
+    "has_programmes": false
   },
   {
     "id": "TVB星河",
     "name": "TVB星河",
     "source": "tvbanywhere-epg",
-    "programme_count": 216,
+    "programme_count": 0,
     "date_range": {
-      "start": "2026-03-27",
-      "end": "2026-04-05"
+      "start": null,
+      "end": null
     },
-    "has_programmes": true
+    "has_programmes": false
   },
   {
     "id": "香港卫视",
     "name": "香港卫视",
     "source": "hks-epg",
-    "programme_count": 227,
+    "programme_count": 217,
     "date_range": {
-      "start": "2026-03-25",
-      "end": "2026-03-29"
+      "start": "2026-03-26",
+      "end": "2026-04-07"
     },
     "has_programmes": true
   },
   {
-    "id": "民視第一台",
-    "name": "民視第一台",
-    "source": "4gtv-epg",
-    "programme_count": 96,
+    "id": "HakkaTV",
+    "name": "HakkaTV",
+    "source": "litv-epg",
+    "programme_count": 152,
     "date_range": {
       "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "民視台灣台",
-    "name": "民視台灣台",
-    "source": "4gtv-epg",
-    "programme_count": 94,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "民視",
-    "name": "民視",
-    "source": "4gtv-epg",
-    "programme_count": 103,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "大愛電視",
-    "name": "大愛電視",
-    "source": "4gtv-epg",
-    "programme_count": 196,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "中視",
-    "name": "中視",
-    "source": "4gtv-epg",
-    "programme_count": 76,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "華視",
-    "name": "華視",
-    "source": "4gtv-epg",
-    "programme_count": 73,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "三立綜合台",
-    "name": "三立綜合台",
-    "source": "4gtv-epg",
-    "programme_count": 68,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "客家電視台",
-    "name": "客家電視台",
-    "source": "4gtv-epg",
-    "programme_count": 119,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "八大綜藝台",
-    "name": "八大綜藝台",
-    "source": "4gtv-epg",
-    "programme_count": 94,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "TVBS精采台",
-    "name": "TVBS精采台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "愛爾達娛樂台",
-    "name": "愛爾達娛樂台",
-    "source": "4gtv-epg",
-    "programme_count": 81,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "靖天綜合台",
-    "name": "靖天綜合台",
-    "source": "4gtv-epg",
-    "programme_count": 94,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "靖天日本台",
-    "name": "靖天日本台",
-    "source": "4gtv-epg",
-    "programme_count": 84,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "新唐人亞太台",
-    "name": "新唐人亞太台",
-    "source": "4gtv-epg",
-    "programme_count": 144,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "ARIRANG阿里郎頻道",
-    "name": "ARIRANG阿里郎頻道",
-    "source": "4gtv-epg",
-    "programme_count": 168,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "原住民族電視台",
-    "name": "原住民族電視台",
-    "source": "4gtv-epg",
-    "programme_count": 89,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "東森購物四台",
-    "name": "東森購物四台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "LiveABC互動英語頻道",
-    "name": "LiveABC互動英語頻道",
-    "source": "4gtv-epg",
-    "programme_count": 201,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "達文西頻道",
-    "name": "達文西頻道",
-    "source": "4gtv-epg",
-    "programme_count": 314,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "ELTV生活英語台",
-    "name": "ELTV生活英語台",
-    "source": "4gtv-epg",
-    "programme_count": 87,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Nick Jr. 兒童頻道",
-    "name": "Nick Jr. 兒童頻道",
-    "source": "4gtv-epg",
-    "programme_count": 276,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "尼克兒童頻道",
-    "name": "尼克兒童頻道",
-    "source": "4gtv-epg",
-    "programme_count": 199,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "DreamWorks 夢工廠動畫",
-    "name": "DreamWorks 夢工廠動畫",
-    "source": "4gtv-epg",
-    "programme_count": 186,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "靖天卡通台",
-    "name": "靖天卡通台",
-    "source": "4gtv-epg",
-    "programme_count": 182,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "靖洋卡通Nice Bingo",
-    "name": "靖洋卡通Nice Bingo",
-    "source": "4gtv-epg",
-    "programme_count": 147,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "MOMO親子台",
-    "name": "MOMO親子台",
-    "source": "4gtv-epg",
-    "programme_count": 219,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "東森購物一台",
-    "name": "東森購物一台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "鏡電視新聞台",
-    "name": "鏡電視新聞台",
-    "source": "4gtv-epg",
-    "programme_count": 81,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
   {
     "id": "東森新聞台",
     "name": "東森新聞台",
-    "source": "4gtv-epg",
-    "programme_count": 50,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "華視新聞",
-    "name": "華視新聞",
-    "source": "4gtv-epg",
-    "programme_count": 70,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "民視新聞台",
-    "name": "民視新聞台",
-    "source": "4gtv-epg",
-    "programme_count": 98,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "三立新聞iNEWS",
-    "name": "三立新聞iNEWS",
-    "source": "4gtv-epg",
-    "programme_count": 72,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "TVBS新聞",
-    "name": "TVBS新聞",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "東森財經新聞台",
-    "name": "東森財經新聞台",
-    "source": "4gtv-epg",
-    "programme_count": 74,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "中視新聞",
-    "name": "中視新聞",
-    "source": "4gtv-epg",
-    "programme_count": 75,
+    "source": "litv-epg",
+    "programme_count": 49,
     "date_range": {
       "start": "2026-04-02",
       "end": "2026-04-05"
@@ -3313,326 +1883,7 @@
   {
     "id": "中天新聞台",
     "name": "中天新聞台",
-    "source": "4gtv-epg",
-    "programme_count": 96,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Bloomberg TV",
-    "name": "Bloomberg TV",
-    "source": "4gtv-epg",
-    "programme_count": 80,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "寰宇新聞台",
-    "name": "寰宇新聞台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "寰宇新聞台灣台",
-    "name": "寰宇新聞台灣台",
-    "source": "4gtv-epg",
-    "programme_count": 92,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "SBN全球財經台",
-    "name": "SBN全球財經台",
-    "source": "4gtv-epg",
-    "programme_count": 147,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "TVBS",
-    "name": "TVBS",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "東森購物二台",
-    "name": "東森購物二台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "民視綜藝台",
-    "name": "民視綜藝台",
-    "source": "4gtv-epg",
-    "programme_count": 59,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "豬哥亮歌廳秀",
-    "name": "豬哥亮歌廳秀",
-    "source": "4gtv-epg",
-    "programme_count": 83,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "靖天育樂台",
-    "name": "靖天育樂台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "KLT-靖天國際台",
-    "name": "KLT-靖天國際台",
-    "source": "4gtv-epg",
-    "programme_count": 147,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Nice TV 靖天歡樂台",
-    "name": "Nice TV 靖天歡樂台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "靖天資訊台",
-    "name": "靖天資訊台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "TVBS歡樂台",
-    "name": "TVBS歡樂台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "韓國娛樂台 KMTV",
-    "name": "韓國娛樂台 KMTV",
-    "source": "4gtv-epg",
-    "programme_count": 121,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "ROCK Entertainment",
-    "name": "ROCK Entertainment",
-    "source": "4gtv-epg",
-    "programme_count": 105,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Lifetime 娛樂頻道",
-    "name": "Lifetime 娛樂頻道",
-    "source": "4gtv-epg",
-    "programme_count": 82,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "電影原聲台CMusic",
-    "name": "電影原聲台CMusic",
-    "source": "4gtv-epg",
-    "programme_count": 1398,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "FashionTV 時尚頻道",
-    "name": "FashionTV 時尚頻道",
-    "source": "4gtv-epg",
-    "programme_count": 147,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "CLASSICA 古典樂",
-    "name": "CLASSICA 古典樂",
-    "source": "4gtv-epg",
-    "programme_count": 70,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "東森購物三台",
-    "name": "東森購物三台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "INULTRA",
-    "name": "INULTRA",
-    "source": "4gtv-epg",
-    "programme_count": 114,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "博斯高球台",
-    "name": "博斯高球台",
-    "source": "4gtv-epg",
-    "programme_count": 23,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "博斯運動一台",
-    "name": "博斯運動一台",
-    "source": "4gtv-epg",
-    "programme_count": 67,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "博斯無限台",
-    "name": "博斯無限台",
-    "source": "4gtv-epg",
-    "programme_count": 35,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "博斯網球台",
-    "name": "博斯網球台",
-    "source": "4gtv-epg",
-    "programme_count": 35,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "智林體育台",
-    "name": "智林體育台",
-    "source": "4gtv-epg",
-    "programme_count": 56,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "時尚運動X",
-    "name": "時尚運動X",
-    "source": "4gtv-epg",
-    "programme_count": 271,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "車迷TV",
-    "name": "車迷TV",
-    "source": "4gtv-epg",
-    "programme_count": 134,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "GINX Esports TV",
-    "name": "GINX Esports TV",
-    "source": "4gtv-epg",
+    "source": "litv-epg",
     "programme_count": 84,
     "date_range": {
       "start": "2026-04-02",
@@ -3641,163 +1892,20 @@
     "has_programmes": true
   },
   {
-    "id": "民視旅遊台",
-    "name": "民視旅遊台",
-    "source": "4gtv-epg",
-    "programme_count": 155,
+    "id": "民視新聞台",
+    "name": "民視新聞台",
+    "source": "litv-epg",
+    "programme_count": 81,
     "date_range": {
       "start": "2026-04-02",
-      "end": "2026-04-05"
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
   {
-    "id": "滾動力rollor",
-    "name": "滾動力rollor",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "亞洲旅遊台",
-    "name": "亞洲旅遊台",
-    "source": "4gtv-epg",
-    "programme_count": 94,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "fun探索娛樂台",
-    "name": "fun探索娛樂台",
-    "source": "4gtv-epg",
-    "programme_count": 71,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "幸福空間居家台",
-    "name": "幸福空間居家台",
-    "source": "4gtv-epg",
-    "programme_count": 76,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "Love Nature",
-    "name": "Love Nature",
-    "source": "4gtv-epg",
-    "programme_count": 84,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "History 歷史頻道",
-    "name": "History 歷史頻道",
-    "source": "4gtv-epg",
-    "programme_count": 80,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "愛爾達生活旅遊台",
-    "name": "愛爾達生活旅遊台",
-    "source": "4gtv-epg",
-    "programme_count": 111,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "LUXE TV Channel",
-    "name": "LUXE TV Channel",
-    "source": "4gtv-epg",
-    "programme_count": 145,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "TV5MONDE STYLE HD 生活時尚",
-    "name": "TV5MONDE STYLE HD 生活時尚",
-    "source": "4gtv-epg",
-    "programme_count": 134,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "MagellanTV頻道 (麥哲倫頻道)",
-    "name": "MagellanTV頻道 (麥哲倫頻道)",
-    "source": "4gtv-epg",
-    "programme_count": 92,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "ROCK Xstream搖滾極限頻道",
-    "name": "ROCK Xstream搖滾極限頻道",
-    "source": "4gtv-epg",
-    "programme_count": 68,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "公視戲劇",
-    "name": "公視戲劇",
-    "source": "4gtv-epg",
-    "programme_count": 64,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "民視影劇台",
-    "name": "民視影劇台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "HITS頻道",
-    "name": "HITS頻道",
-    "source": "4gtv-epg",
+    "id": "東森財經新聞",
+    "name": "東森財經新聞",
+    "source": "litv-epg",
     "programme_count": 89,
     "date_range": {
       "start": "2026-04-02",
@@ -3806,376 +1914,13 @@
     "has_programmes": true
   },
   {
-    "id": "八大精彩台",
-    "name": "八大精彩台",
-    "source": "4gtv-epg",
-    "programme_count": 119,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "靖天戲劇台",
-    "name": "靖天戲劇台",
-    "source": "4gtv-epg",
-    "programme_count": 75,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "靖洋戲劇台",
-    "name": "靖洋戲劇台",
-    "source": "4gtv-epg",
-    "programme_count": 94,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "CI 罪案偵查頻道",
-    "name": "CI 罪案偵查頻道",
-    "source": "4gtv-epg",
-    "programme_count": 90,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "視納華仁紀實頻道",
-    "name": "視納華仁紀實頻道",
-    "source": "4gtv-epg",
-    "programme_count": 87,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "影迷數位紀實台",
-    "name": "影迷數位紀實台",
-    "source": "4gtv-epg",
-    "programme_count": 99,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "金光布袋戲",
-    "name": "金光布袋戲",
-    "source": "4gtv-epg",
-    "programme_count": 61,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "采昌影劇台",
-    "name": "采昌影劇台",
-    "source": "4gtv-epg",
-    "programme_count": 46,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "靖天映畫",
-    "name": "靖天映畫",
-    "source": "4gtv-epg",
-    "programme_count": 39,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "靖天電影台",
-    "name": "靖天電影台",
-    "source": "4gtv-epg",
-    "programme_count": 42,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "影迷數位電影台",
-    "name": "影迷數位電影台",
-    "source": "4gtv-epg",
-    "programme_count": 54,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "amc電影台",
-    "name": "amc電影台",
-    "source": "4gtv-epg",
-    "programme_count": 51,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "CinemaWorld",
-    "name": "CinemaWorld",
-    "source": "4gtv-epg",
-    "programme_count": 47,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "My Cinema Europe HD 我的歐洲電影",
-    "name": "My Cinema Europe HD 我的歐洲電影",
-    "source": "4gtv-epg",
-    "programme_count": 48,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "好消息",
-    "name": "好消息",
-    "source": "4gtv-epg",
-    "programme_count": 142,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "好消息2台",
-    "name": "好消息2台",
-    "source": "4gtv-epg",
-    "programme_count": 138,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "大愛二台",
-    "name": "大愛二台",
-    "source": "4gtv-epg",
-    "programme_count": 145,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "人間衛視",
-    "name": "人間衛視",
-    "source": "4gtv-epg",
-    "programme_count": 84,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "NHK WORLD-JAPAN",
-    "name": "NHK WORLD-JAPAN",
-    "source": "4gtv-epg",
-    "programme_count": 182,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "FRANCE24 英文台",
-    "name": "FRANCE24 英文台",
-    "source": "4gtv-epg",
-    "programme_count": 348,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "半島國際新聞台",
-    "name": "半島國際新聞台",
-    "source": "4gtv-epg",
-    "programme_count": 120,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "CNBC Asia 財經台",
-    "name": "CNBC Asia 財經台",
-    "source": "4gtv-epg",
-    "programme_count": 133,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "DW德國之聲",
-    "name": "DW德國之聲",
-    "source": "4gtv-epg",
-    "programme_count": 225,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "鳳梨直擊台",
-    "name": "鳳梨直擊台",
-    "source": "4gtv-epg",
-    "programme_count": 0,
-    "date_range": {
-      "start": null,
-      "end": null
-    },
-    "has_programmes": false
-  },
-  {
-    "id": "香蕉直擊台",
-    "name": "香蕉直擊台",
-    "source": "4gtv-epg",
-    "programme_count": 0,
-    "date_range": {
-      "start": null,
-      "end": null
-    },
-    "has_programmes": false
-  },
-  {
-    "id": "芭樂直擊台",
-    "name": "芭樂直擊台",
-    "source": "4gtv-epg",
-    "programme_count": 0,
-    "date_range": {
-      "start": null,
-      "end": null
-    },
-    "has_programmes": false
-  },
-  {
-    "id": "國會頻道1",
-    "name": "國會頻道1",
-    "source": "4gtv-epg",
-    "programme_count": 14,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "國會頻道2",
-    "name": "國會頻道2",
-    "source": "4gtv-epg",
-    "programme_count": 15,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "經典電影台",
-    "name": "經典電影台",
-    "source": "4gtv-epg",
-    "programme_count": 33,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "經典卡通台",
-    "name": "經典卡通台",
-    "source": "4gtv-epg",
-    "programme_count": 195,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "精選動漫台",
-    "name": "精選動漫台",
-    "source": "4gtv-epg",
-    "programme_count": 219,
-    "date_range": {
-      "start": "2026-04-02",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "HakkaTV",
-    "name": "HakkaTV",
-    "source": "litv-epg",
-    "programme_count": 144,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
-    },
-    "has_programmes": true
-  },
-  {
-    "id": "東森財經新聞",
-    "name": "東森財經新聞",
-    "source": "litv-epg",
-    "programme_count": 86,
-    "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
-    },
-    "has_programmes": true
-  },
-  {
     "id": "非凡新聞台",
     "name": "非凡新聞台",
     "source": "litv-epg",
-    "programme_count": 97,
+    "programme_count": 99,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4183,9 +1928,9 @@
     "id": "GOOD TV",
     "name": "GOOD TV",
     "source": "litv-epg",
-    "programme_count": 173,
+    "programme_count": 156,
     "date_range": {
-      "start": "2026-04-01",
+      "start": "2026-04-02",
       "end": "2026-04-05"
     },
     "has_programmes": true
@@ -4194,10 +1939,10 @@
     "id": "非凡商業台",
     "name": "非凡商業台",
     "source": "litv-epg",
-    "programme_count": 111,
+    "programme_count": 115,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4207,8 +1952,19 @@
     "source": "litv-epg",
     "programme_count": 88,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "智林體育台",
+    "name": "智林體育台",
+    "source": "litv-epg",
+    "programme_count": 43,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4218,8 +1974,8 @@
     "source": "litv-epg",
     "programme_count": 132,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4229,8 +1985,8 @@
     "source": "litv-epg",
     "programme_count": 132,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4240,8 +1996,8 @@
     "source": "litv-epg",
     "programme_count": 88,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4249,10 +2005,10 @@
     "id": "台視財經台",
     "name": "台視財經台",
     "source": "litv-epg",
-    "programme_count": 87,
+    "programme_count": 99,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4260,10 +2016,21 @@
     "id": "CLASSICA",
     "name": "CLASSICA",
     "source": "litv-epg",
-    "programme_count": 85,
+    "programme_count": 88,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "博斯無限台",
+    "name": "博斯無限台",
+    "source": "litv-epg",
+    "programme_count": 33,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4271,10 +2038,32 @@
     "id": "博斯魅力網",
     "name": "博斯魅力網",
     "source": "litv-epg",
+    "programme_count": 33,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-06"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "博斯運動一台",
+    "name": "博斯運動一台",
+    "source": "litv-epg",
+    "programme_count": 56,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-06"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "博斯網球台",
+    "name": "博斯網球台",
+    "source": "litv-epg",
     "programme_count": 28,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4282,10 +2071,10 @@
     "id": "GOOD TV 2台",
     "name": "GOOD TV 2台",
     "source": "litv-epg",
-    "programme_count": 163,
+    "programme_count": 164,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4293,10 +2082,10 @@
     "id": "博斯高球1台",
     "name": "博斯高球1台",
     "source": "litv-epg",
-    "programme_count": 23,
+    "programme_count": 24,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4304,10 +2093,10 @@
     "id": "博斯運動二台",
     "name": "博斯運動二台",
     "source": "litv-epg",
-    "programme_count": 50,
+    "programme_count": 52,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4317,8 +2106,8 @@
     "source": "litv-epg",
     "programme_count": 85,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4326,10 +2115,10 @@
     "id": "台視新聞台",
     "name": "台視新聞台",
     "source": "litv-epg",
-    "programme_count": 91,
+    "programme_count": 95,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4337,10 +2126,10 @@
     "id": "DaVinCi",
     "name": "DaVinCi",
     "source": "litv-epg",
-    "programme_count": 381,
+    "programme_count": 369,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4348,10 +2137,10 @@
     "id": "KMTV HD",
     "name": "KMTV HD",
     "source": "litv-epg",
-    "programme_count": 142,
+    "programme_count": 143,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4361,8 +2150,8 @@
     "source": "litv-epg",
     "programme_count": 27,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4370,10 +2159,10 @@
     "id": "EDGE sport",
     "name": "EDGE sport",
     "source": "litv-epg",
-    "programme_count": 319,
+    "programme_count": 313,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4381,10 +2170,10 @@
     "id": "龍華卡通台",
     "name": "龍華卡通台",
     "source": "litv-epg",
-    "programme_count": 166,
+    "programme_count": 156,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4394,8 +2183,19 @@
     "source": "litv-epg",
     "programme_count": 88,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "寰宇新聞台灣台",
+    "name": "寰宇新聞台灣台",
+    "source": "litv-epg",
+    "programme_count": 92,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4405,8 +2205,8 @@
     "source": "litv-epg",
     "programme_count": 92,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4416,8 +2216,8 @@
     "source": "litv-epg",
     "programme_count": 88,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4425,10 +2225,10 @@
     "id": "FTV戲劇",
     "name": "FTV戲劇",
     "source": "litv-epg",
-    "programme_count": 92,
+    "programme_count": 93,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4436,10 +2236,10 @@
     "id": "FTV旅遊",
     "name": "FTV旅遊",
     "source": "litv-epg",
-    "programme_count": 181,
+    "programme_count": 180,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4449,8 +2249,8 @@
     "source": "litv-epg",
     "programme_count": 71,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4458,10 +2258,10 @@
     "id": "龍華偶像台",
     "name": "龍華偶像台",
     "source": "litv-epg",
-    "programme_count": 90,
+    "programme_count": 93,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4471,8 +2271,19 @@
     "source": "litv-epg",
     "programme_count": 88,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "影迷數位電影台",
+    "name": "影迷數位電影台",
+    "source": "litv-epg",
+    "programme_count": 49,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4480,10 +2291,54 @@
     "id": "CNEX Doc",
     "name": "CNEX Doc",
     "source": "litv-epg",
-    "programme_count": 114,
+    "programme_count": 102,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天卡通台",
+    "name": "靖天卡通台",
+    "source": "litv-epg",
+    "programme_count": 176,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-05"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天綜合台",
+    "name": "靖天綜合台",
+    "source": "litv-epg",
+    "programme_count": 88,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-05"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖天日本台",
+    "name": "靖天日本台",
+    "source": "litv-epg",
+    "programme_count": 81,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-05"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "靖洋戲劇台",
+    "name": "靖洋戲劇台",
+    "source": "litv-epg",
+    "programme_count": 88,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4493,8 +2348,8 @@
     "source": "litv-epg",
     "programme_count": 48,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4504,8 +2359,8 @@
     "source": "litv-epg",
     "programme_count": 176,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4515,8 +2370,8 @@
     "source": "litv-epg",
     "programme_count": 88,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4524,10 +2379,10 @@
     "id": "靖天電影",
     "name": "靖天電影",
     "source": "litv-epg",
-    "programme_count": 52,
+    "programme_count": 51,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4537,8 +2392,19 @@
     "source": "litv-epg",
     "programme_count": 88,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "公視戲劇",
+    "name": "公視戲劇",
+    "source": "litv-epg",
+    "programme_count": 58,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4546,10 +2412,10 @@
     "id": "中天亞洲台",
     "name": "中天亞洲台",
     "source": "litv-epg",
-    "programme_count": 75,
+    "programme_count": 77,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4557,10 +2423,10 @@
     "id": "采昌影劇",
     "name": "采昌影劇",
     "source": "litv-epg",
-    "programme_count": 52,
+    "programme_count": 61,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4570,8 +2436,8 @@
     "source": "litv-epg",
     "programme_count": 96,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4581,8 +2447,8 @@
     "source": "litv-epg",
     "programme_count": 88,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4592,8 +2458,8 @@
     "source": "litv-epg",
     "programme_count": 176,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4603,8 +2469,8 @@
     "source": "litv-epg",
     "programme_count": 36,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4612,10 +2478,10 @@
     "id": "Mezzo Live",
     "name": "Mezzo Live",
     "source": "litv-epg",
-    "programme_count": 69,
+    "programme_count": 70,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4625,8 +2491,19 @@
     "source": "litv-epg",
     "programme_count": 176,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "八大綜藝台",
+    "name": "八大綜藝台",
+    "source": "litv-epg",
+    "programme_count": 88,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4634,10 +2511,10 @@
     "id": "LiTV民視",
     "name": "LiTV民視",
     "source": "litv-epg",
-    "programme_count": 119,
+    "programme_count": 114,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4645,10 +2522,10 @@
     "id": "LiTV 民視台灣台",
     "name": "LiTV 民視台灣台",
     "source": "litv-epg",
-    "programme_count": 112,
+    "programme_count": 104,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4656,9 +2533,9 @@
     "id": "LiTV 華視",
     "name": "LiTV 華視",
     "source": "litv-epg",
-    "programme_count": 87,
+    "programme_count": 83,
     "date_range": {
-      "start": "2026-04-01",
+      "start": "2026-04-02",
       "end": "2026-04-05"
     },
     "has_programmes": true
@@ -4667,10 +2544,10 @@
     "id": "LiTV華視新聞",
     "name": "LiTV華視新聞",
     "source": "litv-epg",
-    "programme_count": 85,
+    "programme_count": 86,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4678,10 +2555,10 @@
     "id": "博斯無限2台",
     "name": "博斯無限2台",
     "source": "litv-epg",
-    "programme_count": 48,
+    "programme_count": 52,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4689,10 +2566,10 @@
     "id": "LiTV中視",
     "name": "LiTV中視",
     "source": "litv-epg",
-    "programme_count": 92,
+    "programme_count": 82,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4700,10 +2577,21 @@
     "id": "LiTV民視第一台",
     "name": "LiTV民視第一台",
     "source": "litv-epg",
-    "programme_count": 114,
+    "programme_count": 116,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "亞洲旅遊台",
+    "name": "亞洲旅遊台",
+    "source": "litv-epg",
+    "programme_count": 88,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4711,10 +2599,10 @@
     "id": "LiTV台視",
     "name": "LiTV台視",
     "source": "litv-epg",
-    "programme_count": 97,
+    "programme_count": 91,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4722,10 +2610,10 @@
     "id": "龍華電影台",
     "name": "龍華電影台",
     "source": "litv-epg",
-    "programme_count": 46,
+    "programme_count": 45,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4735,8 +2623,8 @@
     "source": "litv-epg",
     "programme_count": 108,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4744,10 +2632,10 @@
     "id": "國會頻道1台",
     "name": "國會頻道1台",
     "source": "litv-epg",
-    "programme_count": 20,
+    "programme_count": 44,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4755,10 +2643,21 @@
     "id": "國會頻道2台",
     "name": "國會頻道2台",
     "source": "litv-epg",
-    "programme_count": 20,
+    "programme_count": 22,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-05"
+      "start": "2026-04-02",
+      "end": "2026-04-06"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "豬哥亮歌廳秀",
+    "name": "豬哥亮歌廳秀",
+    "source": "litv-epg",
+    "programme_count": 83,
+    "date_range": {
+      "start": "2026-04-02",
+      "end": "2026-04-06"
     },
     "has_programmes": true
   },
@@ -4768,8 +2667,8 @@
     "source": "litv-epg",
     "programme_count": 160,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4777,9 +2676,20 @@
     "id": "龍華經典台",
     "name": "龍華經典台",
     "source": "litv-epg",
-    "programme_count": 43,
+    "programme_count": 44,
     "date_range": {
-      "start": "2026-04-01",
+      "start": "2026-04-02",
+      "end": "2026-04-06"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "八大精彩台",
+    "name": "八大精彩台",
+    "source": "litv-epg",
+    "programme_count": 113,
+    "date_range": {
+      "start": "2026-04-02",
       "end": "2026-04-05"
     },
     "has_programmes": true
@@ -4790,8 +2700,8 @@
     "source": "litv-epg",
     "programme_count": 100,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4799,10 +2709,10 @@
     "id": "ARIRANG TV",
     "name": "ARIRANG TV",
     "source": "litv-epg",
-    "programme_count": 199,
+    "programme_count": 189,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4812,8 +2722,8 @@
     "source": "litv-epg",
     "programme_count": 84,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4821,10 +2731,10 @@
     "id": "台灣戲劇台",
     "name": "台灣戲劇台",
     "source": "litv-epg",
-    "programme_count": 93,
+    "programme_count": 95,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4832,10 +2742,10 @@
     "id": "寵物頻道",
     "name": "寵物頻道",
     "source": "litv-epg",
-    "programme_count": 99,
+    "programme_count": 98,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4843,10 +2753,10 @@
     "id": "Focus歡樂綜合台",
     "name": "Focus歡樂綜合台",
     "source": "litv-epg",
-    "programme_count": 72,
+    "programme_count": 78,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4854,10 +2764,10 @@
     "id": "Focus風采戲劇台",
     "name": "Focus風采戲劇台",
     "source": "litv-epg",
-    "programme_count": 183,
+    "programme_count": 195,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4865,10 +2775,10 @@
     "id": "黃金八點檔",
     "name": "黃金八點檔",
     "source": "litv-epg",
-    "programme_count": 65,
+    "programme_count": 86,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4878,8 +2788,8 @@
     "source": "litv-epg",
     "programme_count": 14,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   },
@@ -4889,7 +2799,18 @@
     "source": "litv-epg",
     "programme_count": 54,
     "date_range": {
-      "start": "2026-04-01",
+      "start": "2026-04-02",
+      "end": "2026-04-06"
+    },
+    "has_programmes": true
+  },
+  {
+    "id": "影迷數位紀實台",
+    "name": "影迷數位紀實台",
+    "source": "litv-epg",
+    "programme_count": 88,
+    "date_range": {
+      "start": "2026-04-02",
       "end": "2026-04-05"
     },
     "has_programmes": true
@@ -4898,9 +2819,9 @@
     "id": "MCE 我的歐洲電影",
     "name": "MCE 我的歐洲電影",
     "source": "litv-epg",
-    "programme_count": 58,
+    "programme_count": 57,
     "date_range": {
-      "start": "2026-04-01",
+      "start": "2026-04-02",
       "end": "2026-04-05"
     },
     "has_programmes": true
@@ -4909,9 +2830,9 @@
     "id": "DayStar",
     "name": "DayStar",
     "source": "litv-epg",
-    "programme_count": 161,
+    "programme_count": 163,
     "date_range": {
-      "start": "2026-04-01",
+      "start": "2026-04-02",
       "end": "2026-04-05"
     },
     "has_programmes": true
@@ -4922,8 +2843,8 @@
     "source": "litv-epg",
     "programme_count": 132,
     "date_range": {
-      "start": "2026-04-01",
-      "end": "2026-04-04"
+      "start": "2026-04-02",
+      "end": "2026-04-05"
     },
     "has_programmes": true
   }
