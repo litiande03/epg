@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-08-06 14:07:28",
-  "channel_count": 475,
-  "programme_count": 92632,
+  "generated_at": "2026-08-07 02:05:26",
+  "channel_count": 476,
+  "programme_count": 94438,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
       "source": "4gtv",
-      "programme_count": 80,
+      "programme_count": 88,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "ARIRANG阿里郎頻道",
       "source": "4gtv",
-      "programme_count": 158,
+      "programme_count": 145,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Bloomberg TV",
       "source": "4gtv",
-      "programme_count": 66,
+      "programme_count": 85,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CI 罪案偵查頻道",
       "source": "4gtv",
-      "programme_count": 93,
+      "programme_count": 97,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CLASSICA 古典樂",
       "source": "4gtv",
-      "programme_count": 83,
+      "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CNBC Asia 財經台",
       "source": "4gtv",
-      "programme_count": 131,
+      "programme_count": 117,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -62,17 +62,17 @@
       "source": "4gtv",
       "programme_count": 43,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "DW德國之聲",
       "source": "4gtv",
-      "programme_count": 222,
+      "programme_count": 227,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -80,8 +80,8 @@
       "source": "4gtv",
       "programme_count": 179,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -89,62 +89,62 @@
       "source": "4gtv",
       "programme_count": 143,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "FRANCE24 英文台",
       "source": "4gtv",
-      "programme_count": 293,
+      "programme_count": 295,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "GINX Esports TV",
       "source": "4gtv",
-      "programme_count": 84,
+      "programme_count": 88,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Global Trekker",
       "source": "4gtv",
-      "programme_count": 108,
+      "programme_count": 101,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "HITS頻道",
       "source": "4gtv",
-      "programme_count": 83,
+      "programme_count": 81,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "History 歷史頻道",
       "source": "4gtv",
-      "programme_count": 76,
+      "programme_count": 75,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "INULTRA",
       "source": "4gtv",
-      "programme_count": 123,
+      "programme_count": 111,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -152,8 +152,8 @@
       "source": "4gtv",
       "programme_count": 144,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -161,35 +161,35 @@
       "source": "4gtv",
       "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Lifetime 娛樂頻道",
       "source": "4gtv",
-      "programme_count": 74,
+      "programme_count": 71,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "LiveABC互動英語頻道",
       "source": "4gtv",
-      "programme_count": 196,
+      "programme_count": 189,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Love Nature",
       "source": "4gtv",
-      "programme_count": 83,
+      "programme_count": 87,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -197,17 +197,17 @@
       "source": "4gtv",
       "programme_count": 216,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Mezzo Live HD",
       "source": "4gtv",
-      "programme_count": 55,
+      "programme_count": 53,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -215,26 +215,26 @@
       "source": "4gtv",
       "programme_count": 47,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "NHK WORLD-JAPAN",
       "source": "4gtv",
-      "programme_count": 187,
+      "programme_count": 216,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Nice TV 靖天歡樂台",
       "source": "4gtv",
-      "programme_count": 75,
+      "programme_count": 78,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -242,8 +242,8 @@
       "source": "4gtv",
       "programme_count": 212,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -251,44 +251,44 @@
       "source": "4gtv",
       "programme_count": 80,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "ROCK Action",
       "source": "4gtv",
-      "programme_count": 40,
+      "programme_count": 39,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "ROCK Entertainment",
       "source": "4gtv",
-      "programme_count": 92,
+      "programme_count": 105,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "ROCK Xstream搖滾極限頻道",
       "source": "4gtv",
-      "programme_count": 76,
+      "programme_count": 66,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "SBN全球財經台",
       "source": "4gtv",
-      "programme_count": 136,
+      "programme_count": 140,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -296,26 +296,26 @@
       "source": "4gtv",
       "programme_count": 144,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "TRACE Urban",
       "source": "4gtv",
-      "programme_count": 38,
+      "programme_count": 39,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "TV5MONDE STYLE HD 生活時尚",
       "source": "4gtv",
-      "programme_count": 151,
+      "programme_count": 135,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -323,8 +323,8 @@
       "source": "4gtv",
       "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -332,26 +332,26 @@
       "source": "4gtv",
       "programme_count": 56,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "TVBS歡樂台",
       "source": "4gtv",
-      "programme_count": 70,
+      "programme_count": 68,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "TVBS精采台",
       "source": "4gtv",
-      "programme_count": 65,
+      "programme_count": 64,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -359,26 +359,26 @@
       "source": "4gtv",
       "programme_count": 51,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "fun探索娛樂台",
       "source": "4gtv",
-      "programme_count": 71,
+      "programme_count": 70,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "getwin sport運動台",
       "source": "4gtv",
-      "programme_count": 11,
+      "programme_count": 17,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -386,26 +386,26 @@
       "source": "4gtv",
       "programme_count": 70,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "三立綜合台",
       "source": "4gtv",
-      "programme_count": 63,
+      "programme_count": 56,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "中視",
       "source": "4gtv",
-      "programme_count": 77,
+      "programme_count": 68,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -413,8 +413,8 @@
       "source": "4gtv",
       "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -422,17 +422,17 @@
       "source": "4gtv",
       "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "人間衛視",
       "source": "4gtv",
-      "programme_count": 88,
+      "programme_count": 82,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -440,17 +440,17 @@
       "source": "4gtv",
       "programme_count": 94,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "八大綜藝台",
       "source": "4gtv",
-      "programme_count": 88,
+      "programme_count": 104,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -458,26 +458,26 @@
       "source": "4gtv",
       "programme_count": 60,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "半島國際新聞台",
       "source": "4gtv",
-      "programme_count": 117,
+      "programme_count": 112,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯無限二台",
       "source": "4gtv",
-      "programme_count": 31,
+      "programme_count": 34,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -485,26 +485,26 @@
       "source": "4gtv",
       "programme_count": 28,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯網球台",
       "source": "4gtv",
-      "programme_count": 24,
+      "programme_count": 28,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯運動一台",
       "source": "4gtv",
-      "programme_count": 27,
+      "programme_count": 29,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -512,44 +512,44 @@
       "source": "4gtv",
       "programme_count": 36,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯高球二台",
       "source": "4gtv",
-      "programme_count": 22,
+      "programme_count": 23,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯高球台",
       "source": "4gtv",
-      "programme_count": 25,
+      "programme_count": 22,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯魅力台",
       "source": "4gtv",
-      "programme_count": 31,
+      "programme_count": 29,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "原住民族電視台",
       "source": "4gtv",
-      "programme_count": 85,
+      "programme_count": 90,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -557,8 +557,8 @@
       "source": "4gtv",
       "programme_count": 11,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -566,53 +566,53 @@
       "source": "4gtv",
       "programme_count": 12,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "大愛二台",
       "source": "4gtv",
-      "programme_count": 142,
+      "programme_count": 137,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "大愛電視",
       "source": "4gtv",
-      "programme_count": 188,
+      "programme_count": 164,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "好消息",
       "source": "4gtv",
-      "programme_count": 139,
+      "programme_count": 128,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "好消息2台",
       "source": "4gtv",
-      "programme_count": 141,
+      "programme_count": 142,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "客家電視台",
       "source": "4gtv",
-      "programme_count": 103,
+      "programme_count": 108,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -620,8 +620,8 @@
       "source": "4gtv",
       "programme_count": 75,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -629,35 +629,35 @@
       "source": "4gtv",
       "programme_count": 74,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "尼克兒童頻道",
       "source": "4gtv",
-      "programme_count": 204,
+      "programme_count": 197,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "幸福空間居家台",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 74,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "影迷數位紀實台",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 77,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -665,62 +665,62 @@
       "source": "4gtv",
       "programme_count": 36,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "愛爾達生活旅遊台",
       "source": "4gtv",
-      "programme_count": 120,
+      "programme_count": 116,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "新唐人亞太台",
       "source": "4gtv",
-      "programme_count": 137,
+      "programme_count": 138,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "時尚運動X",
       "source": "4gtv",
-      "programme_count": 284,
+      "programme_count": 316,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "智林體育台",
       "source": "4gtv",
-      "programme_count": 22,
+      "programme_count": 24,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "東森新聞台",
       "source": "4gtv",
-      "programme_count": 36,
+      "programme_count": 42,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "東森財經新聞台",
       "source": "4gtv",
-      "programme_count": 68,
+      "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -728,8 +728,8 @@
       "source": "4gtv",
       "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -737,8 +737,8 @@
       "source": "4gtv",
       "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -746,8 +746,8 @@
       "source": "4gtv",
       "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -755,71 +755,71 @@
       "source": "4gtv",
       "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "民視",
       "source": "4gtv",
-      "programme_count": 103,
+      "programme_count": 93,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "民視台灣台",
       "source": "4gtv",
-      "programme_count": 90,
+      "programme_count": 82,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "民視影劇台",
       "source": "4gtv",
-      "programme_count": 69,
+      "programme_count": 70,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "民視新聞台",
       "source": "4gtv",
-      "programme_count": 72,
+      "programme_count": 70,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "民視旅遊台",
       "source": "4gtv",
-      "programme_count": 122,
+      "programme_count": 129,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "民視第一台",
       "source": "4gtv",
-      "programme_count": 101,
+      "programme_count": 100,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "民視綜藝台",
       "source": "4gtv",
-      "programme_count": 55,
+      "programme_count": 53,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -827,53 +827,53 @@
       "source": "4gtv",
       "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "精選動漫台",
       "source": "4gtv",
-      "programme_count": 158,
+      "programme_count": 160,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "經典卡通台",
       "source": "4gtv",
-      "programme_count": 186,
+      "programme_count": 191,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "經典電影台",
       "source": "4gtv",
-      "programme_count": 41,
+      "programme_count": 40,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "華視",
       "source": "4gtv",
-      "programme_count": 72,
+      "programme_count": 68,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "華視新聞",
       "source": "4gtv",
-      "programme_count": 69,
+      "programme_count": 70,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -881,53 +881,53 @@
       "source": "4gtv",
       "programme_count": 88,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "豬哥亮歌廳秀",
       "source": "4gtv",
-      "programme_count": 68,
+      "programme_count": 69,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "車迷TV",
       "source": "4gtv",
-      "programme_count": 125,
+      "programme_count": 129,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "達文西頻道",
       "source": "4gtv",
-      "programme_count": 273,
+      "programme_count": 263,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "采昌影劇台",
       "source": "4gtv",
-      "programme_count": 47,
+      "programme_count": 52,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "金光布袋戲",
       "source": "4gtv",
-      "programme_count": 54,
+      "programme_count": 56,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -935,44 +935,44 @@
       "source": "4gtv",
       "programme_count": 69,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "電影原聲台CMusic",
       "source": "4gtv",
-      "programme_count": 1444,
+      "programme_count": 1433,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖天卡通台",
       "source": "4gtv",
-      "programme_count": 124,
+      "programme_count": 116,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖天戲劇台",
       "source": "4gtv",
-      "programme_count": 84,
+      "programme_count": 85,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖天日本台",
       "source": "4gtv",
-      "programme_count": 107,
+      "programme_count": 104,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -980,8 +980,8 @@
       "source": "4gtv",
       "programme_count": 38,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -989,26 +989,26 @@
       "source": "4gtv",
       "programme_count": 72,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖天育樂台",
       "source": "4gtv",
-      "programme_count": 80,
+      "programme_count": 76,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖天資訊台",
       "source": "4gtv",
-      "programme_count": 79,
+      "programme_count": 76,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
@@ -1016,1529 +1016,1538 @@
       "source": "4gtv",
       "programme_count": 43,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖洋卡通Nice Bingo",
       "source": "4gtv",
-      "programme_count": 135,
+      "programme_count": 123,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖洋戲劇台",
       "source": "4gtv",
-      "programme_count": 76,
+      "programme_count": 74,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "韓國娛樂台 KMTV",
       "source": "4gtv",
-      "programme_count": 106,
+      "programme_count": 99,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-1 综合",
-      "source": "dx",
-      "programme_count": 369,
+      "source": "gdct_noauth",
+      "programme_count": 329,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-10 科教",
-      "source": "dx",
-      "programme_count": 346,
+      "source": "gdct_noauth",
+      "programme_count": 343,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-11 戏曲",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 208,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-12 社会与法",
-      "source": "dx",
-      "programme_count": 303,
+      "source": "gdct_noauth",
+      "programme_count": 302,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-13 新闻",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 262,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-06"
+        "start": "2026-08-01",
+        "end": "2026-08-07"
       }
     },
     {
       "name": "CCTV-14 少儿",
-      "source": "dx",
-      "programme_count": 206,
+      "source": "gdct_noauth",
+      "programme_count": 200,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-15 音乐",
-      "source": "dx",
-      "programme_count": 185,
+      "source": "gdct_noauth",
+      "programme_count": 181,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-16 奥林匹克",
-      "source": "dx",
-      "programme_count": 61,
+      "source": "gdct_noauth",
+      "programme_count": 194,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-17 农业 农村",
-      "source": "dx",
-      "programme_count": 264,
+      "source": "gdct_noauth",
+      "programme_count": 237,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-2 财经",
-      "source": "dx",
-      "programme_count": 373,
+      "source": "gdct_noauth",
+      "programme_count": 372,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-3 综艺",
-      "source": "dx",
-      "programme_count": 273,
+      "source": "gdct_noauth",
+      "programme_count": 271,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-4 中文国际",
-      "source": "dx",
-      "programme_count": 398,
+      "source": "gdct_noauth",
+      "programme_count": 396,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-4 中文国际欧洲",
-      "source": "dx",
-      "programme_count": 67,
+      "source": "gdct_noauth",
+      "programme_count": 341,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "CCTV-4 中文国际美洲",
-      "source": "dx",
-      "programme_count": 61,
+      "source": "gdct_noauth",
+      "programme_count": 332,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "CCTV-4K",
-      "source": "dx",
-      "programme_count": 111,
+      "source": "gdct_noauth",
+      "programme_count": 336,
       "date_range": {
-        "start": "2026-08-06",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-5 体育",
-      "source": "dx",
-      "programme_count": 179,
+      "source": "gdct_noauth",
+      "programme_count": 178,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-06"
+        "start": "2026-08-01",
+        "end": "2026-08-07"
       }
     },
     {
       "name": "CCTV-5+ 体育赛事",
-      "source": "dx",
-      "programme_count": 188,
+      "source": "gdct_noauth",
+      "programme_count": 187,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-6 电影",
-      "source": "dx",
-      "programme_count": 309,
+      "source": "gdct_noauth",
+      "programme_count": 304,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-7 国防 军事",
-      "source": "dx",
-      "programme_count": 333,
+      "source": "gdct_noauth",
+      "programme_count": 322,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-8 电视剧",
-      "source": "dx",
-      "programme_count": 368,
+      "source": "gdct_noauth",
+      "programme_count": 367,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-9 记录",
-      "source": "dx",
-      "programme_count": 326,
+      "source": "gdct_noauth",
+      "programme_count": 321,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-世界地理",
-      "source": "dx",
-      "programme_count": 374,
+      "source": "gdct_noauth",
+      "programme_count": 333,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-兵器科技",
-      "source": "dx",
-      "programme_count": 229,
+      "source": "gdct_noauth",
+      "programme_count": 203,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "CCTV-卫生健康",
-      "source": "dx",
-      "programme_count": 403,
+      "source": "gdct_noauth",
+      "programme_count": 357,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-央视台球",
-      "source": "dx",
-      "programme_count": 206,
+      "source": "gdct_noauth",
+      "programme_count": 186,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-央视文化精品",
-      "source": "dx",
-      "programme_count": 251,
+      "source": "gdct_noauth",
+      "programme_count": 227,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-央视足球",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 142,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "CCTV-女性时尚",
-      "source": "dx",
-      "programme_count": 234,
+      "source": "gdct_noauth",
+      "programme_count": 209,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-怀旧剧场",
-      "source": "dx",
-      "programme_count": 190,
+      "source": "gdct_noauth",
+      "programme_count": 170,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-电视指南",
-      "source": "dx",
-      "programme_count": 640,
+      "source": "gdct_noauth",
+      "programme_count": 565,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-第一剧场",
-      "source": "dx",
-      "programme_count": 234,
+      "source": "gdct_noauth",
+      "programme_count": 211,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-风云剧场",
-      "source": "dx",
-      "programme_count": 200,
+      "source": "gdct_noauth",
+      "programme_count": 178,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-风云音乐",
-      "source": "dx",
-      "programme_count": 209,
+      "source": "gdct_noauth",
+      "programme_count": 187,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CCTV-高尔夫网球",
-      "source": "dx",
-      "programme_count": 153,
+      "source": "gdct_noauth",
+      "programme_count": 137,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CETV-1",
-      "source": "dx",
-      "programme_count": 512,
+      "source": "gdct_noauth",
+      "programme_count": 455,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CETV2",
-      "source": "dx",
-      "programme_count": 510,
+      "source": "gdct_noauth",
+      "programme_count": 453,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "CETV4",
-      "source": "dx",
-      "programme_count": 425,
+      "source": "gdct_noauth",
+      "programme_count": 381,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CGTN俄语",
-      "source": "dx",
-      "programme_count": 119,
+      "source": "gdct_noauth",
+      "programme_count": 376,
       "date_range": {
-        "start": "2026-08-05",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "CGTN法语",
-      "source": "dx",
-      "programme_count": 106,
+      "source": "gdct_noauth",
+      "programme_count": 329,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CGTN英文记录",
-      "source": "dx",
-      "programme_count": 54,
+      "source": "gdct_noauth",
+      "programme_count": 288,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "CGTN英语",
-      "source": "dx",
-      "programme_count": 111,
+      "source": "gdct_noauth",
+      "programme_count": 364,
       "date_range": {
-        "start": "2026-08-05",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "CGTN西班牙语",
-      "source": "dx",
-      "programme_count": 122,
+      "source": "gdct_noauth",
+      "programme_count": 392,
       "date_range": {
-        "start": "2026-08-05",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "CGTN阿拉伯语",
-      "source": "dx",
-      "programme_count": 113,
+      "source": "gdct_noauth",
+      "programme_count": 361,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "三沙卫视",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 315,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-06"
+        "start": "2026-08-01",
+        "end": "2026-08-07"
       }
     },
     {
       "name": "东南卫视",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 315,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "东方卫视",
-      "source": "dx",
-      "programme_count": 312,
+      "source": "gdct_noauth",
+      "programme_count": 309,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "东方卫视4K",
-      "source": "dx",
-      "programme_count": 310,
+      "source": "gdct_noauth",
+      "programme_count": 309,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "东莞新闻综合",
-      "source": "dx",
-      "programme_count": 252,
+      "source": "gdct_noauth",
+      "programme_count": 223,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "东莞生活资讯",
-      "source": "dx",
-      "programme_count": 196,
+      "source": "gdct_noauth",
+      "programme_count": 174,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "中国天气",
-      "source": "dx",
-      "programme_count": 657,
+      "source": "gdct_noauth",
+      "programme_count": 656,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "中山综合",
-      "source": "dx",
-      "programme_count": 205,
+      "source": "gdct_noauth",
+      "programme_count": 182,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "云南卫视",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 355,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "云浮综合",
-      "source": "dx",
-      "programme_count": 225,
+      "source": "gdct_noauth",
+      "programme_count": 200,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "优漫卡通",
-      "source": "dx",
-      "programme_count": 486,
+      "source": "gdct_noauth",
+      "programme_count": 432,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "佛山南海",
-      "source": "dx",
-      "programme_count": 117,
+      "source": "gdct_noauth",
+      "programme_count": 104,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "佛山城市生活",
-      "source": "dx",
-      "programme_count": 249,
+      "source": "gdct_noauth",
+      "programme_count": 222,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "佛山综合",
-      "source": "dx",
-      "programme_count": 140,
+      "source": "gdct_noauth",
+      "programme_count": 125,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "佛山顺德",
-      "source": "dx",
-      "programme_count": 169,
+      "source": "gdct_noauth",
+      "programme_count": 149,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "兵团卫视",
-      "source": "dx",
-      "programme_count": 436,
+      "source": "gdct_noauth",
+      "programme_count": 386,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "内蒙古卫视",
-      "source": "dx",
-      "programme_count": 444,
+      "source": "gdct_noauth",
+      "programme_count": 393,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "北京卫视",
-      "source": "dx",
-      "programme_count": 333,
+      "source": "gdct_noauth",
+      "programme_count": 299,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "北京卫视4K",
-      "source": "dx",
-      "programme_count": 331,
+      "source": "gdct_noauth",
+      "programme_count": 297,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "南方购物",
-      "source": "dx",
-      "programme_count": 366,
+      "source": "gdct_noauth",
+      "programme_count": 321,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-07"
       }
     },
     {
       "name": "南方购物-精选",
-      "source": "dx",
-      "programme_count": 366,
+      "source": "gdct_noauth",
+      "programme_count": 321,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-07"
       }
     },
     {
       "name": "卡酷动画",
-      "source": "dx",
-      "programme_count": 162,
+      "source": "gdct_noauth",
+      "programme_count": 530,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "厦门卫视",
-      "source": "dx",
-      "programme_count": 255,
+      "source": "gdct_noauth",
+      "programme_count": 229,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "吉林卫视",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 340,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "吉林延边卫视",
-      "source": "dx",
-      "programme_count": 234,
+      "source": "gdct_noauth",
+      "programme_count": 209,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "嘉佳卡通",
-      "source": "dx",
-      "programme_count": 1493,
+      "source": "gdct_noauth",
+      "programme_count": 1338,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "四川卫视",
-      "source": "dx",
-      "programme_count": 351,
+      "source": "gdct_noauth",
+      "programme_count": 357,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
-      }
-    },
-    {
-      "name": "四川卫视4K",
-      "source": "dx",
-      "programme_count": 349,
-      "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
-      }
-    },
-    {
-      "name": "国学",
-      "source": "dx",
-      "programme_count": 413,
-      "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
-      "name": "大湾区卫视",
-      "source": "dx",
-      "programme_count": 166,
+      "name": "四川卫视4K",
+      "source": "gdct_noauth",
+      "programme_count": 357,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
+        "end": "2026-08-08"
+      }
+    },
+    {
+      "name": "国学",
+      "source": "gdct_noauth",
+      "programme_count": 366,
+      "date_range": {
+        "start": "2026-08-01",
+        "end": "2026-08-09"
+      }
+    },
+    {
+      "name": "大湾区卫视",
+      "source": "gdct_noauth",
+      "programme_count": 149,
+      "date_range": {
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "天元围棋",
-      "source": "dx",
-      "programme_count": 87,
+      "source": "gdct_noauth",
+      "programme_count": 260,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "天津卫视",
-      "source": "dx",
-      "programme_count": 304,
+      "source": "gdct_noauth",
+      "programme_count": 295,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "宁夏卫视",
-      "source": "dx",
-      "programme_count": 122,
+      "source": "gdct_noauth",
+      "programme_count": 377,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "安徽卫视",
-      "source": "dx",
-      "programme_count": 341,
+      "source": "gdct_noauth",
+      "programme_count": 305,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "宜和购物",
-      "source": "dx",
-      "programme_count": 361,
+      "source": "gdct_noauth",
+      "programme_count": 357,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "少儿动画",
-      "source": "dx",
-      "programme_count": 37,
+      "source": "gdct_noauth",
+      "programme_count": 164,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "山东卫视",
-      "source": "dx",
-      "programme_count": 370,
+      "source": "gdct_noauth",
+      "programme_count": 330,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "山东卫视4K",
-      "source": "dx",
-      "programme_count": 283,
+      "source": "gdct_noauth",
+      "programme_count": 287,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
-      }
-    },
-    {
-      "name": "山东教育",
-      "source": "dx",
-      "programme_count": 261,
-      "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
-      "name": "山西卫视",
-      "source": "dx",
-      "programme_count": 408,
+      "name": "山东教育",
+      "source": "gdct_noauth",
+      "programme_count": 233,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
+        "end": "2026-08-09"
+      }
+    },
+    {
+      "name": "山西卫视",
+      "source": "gdct_noauth",
+      "programme_count": 362,
+      "date_range": {
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "岭南戏曲",
-      "source": "dx",
-      "programme_count": 308,
+      "source": "gdct_noauth",
+      "programme_count": 273,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "广东4K",
-      "source": "dx",
-      "programme_count": 104,
+      "source": "gdct_noauth",
+      "programme_count": 132,
       "date_range": {
-        "start": "2026-08-02",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "广东体育",
-      "source": "dx",
-      "programme_count": 421,
+      "source": "gdct_noauth",
+      "programme_count": 432,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-06"
-      }
-    },
-    {
-      "name": "广东卫视",
-      "source": "dx",
-      "programme_count": 220,
-      "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-06"
-      }
-    },
-    {
-      "name": "广东卫视4K",
-      "source": "dx",
-      "programme_count": 295,
-      "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-07"
       }
     },
     {
-      "name": "广东少儿",
-      "source": "dx",
-      "programme_count": 124,
+      "name": "广东卫视",
+      "source": "gdct_noauth",
+      "programme_count": 219,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
+        "end": "2026-08-07"
+      }
+    },
+    {
+      "name": "广东卫视4K",
+      "source": "gdct_noauth",
+      "programme_count": 295,
+      "date_range": {
+        "start": "2026-08-01",
+        "end": "2026-08-08"
+      }
+    },
+    {
+      "name": "广东少儿",
+      "source": "gdct_noauth",
+      "programme_count": 112,
+      "date_range": {
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "广东影视",
-      "source": "dx",
-      "programme_count": 153,
+      "source": "gdct_noauth",
+      "programme_count": 131,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "广东新闻",
-      "source": "dx",
-      "programme_count": 339,
+      "source": "gdct_noauth",
+      "programme_count": 297,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-07"
       }
     },
     {
       "name": "广东民生",
-      "source": "dx",
-      "programme_count": 144,
+      "source": "gdct_noauth",
+      "programme_count": 128,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "广东珠江",
-      "source": "dx",
-      "programme_count": 143,
+      "source": "gdct_noauth",
+      "programme_count": 127,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "广东移动",
-      "source": "dx",
-      "programme_count": 548,
+      "source": "gdct_noauth",
+      "programme_count": 489,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "广州南国都市4K",
-      "source": "dx",
-      "programme_count": 77,
+      "source": "gdct_noauth",
+      "programme_count": 233,
       "date_range": {
-        "start": "2026-08-05",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "广州新闻",
-      "source": "dx",
-      "programme_count": 421,
+      "source": "gdct_noauth",
+      "programme_count": 373,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "广州综合",
-      "source": "dx",
-      "programme_count": 272,
+      "source": "gdct_noauth",
+      "programme_count": 242,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "广西卫视",
-      "source": "dx",
-      "programme_count": 286,
+      "source": "gdct_noauth",
+      "programme_count": 285,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "快乐垂钓",
-      "source": "dx",
-      "programme_count": 144,
+      "source": "gdct_noauth",
+      "programme_count": 127,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "惠州综合",
-      "source": "dx",
-      "programme_count": 374,
+      "source": "gdct_noauth",
+      "programme_count": 334,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "惠州都市生活",
-      "source": "dx",
-      "programme_count": 287,
+      "source": "gdct_noauth",
+      "programme_count": 256,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "揭阳综合",
-      "source": "dx",
-      "programme_count": 240,
+      "source": "gdct_noauth",
+      "programme_count": 215,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "新疆卫视",
-      "source": "dx",
-      "programme_count": 444,
+      "source": "gdct_noauth",
+      "programme_count": 395,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "早期教育",
-      "source": "dx",
-      "programme_count": 525,
+      "source": "gdct_noauth",
+      "programme_count": 466,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "梅州客家生活",
-      "source": "dx",
-      "programme_count": 272,
+      "source": "gdct_noauth",
+      "programme_count": 242,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "梅州综合",
-      "source": "dx",
-      "programme_count": 257,
+      "source": "gdct_noauth",
+      "programme_count": 229,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "求索纪录",
-      "source": "dx",
-      "programme_count": 102,
+      "source": "gdct_noauth",
+      "programme_count": 336,
       "date_range": {
-        "start": "2026-08-05",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "汕头新闻综合",
-      "source": "dx",
-      "programme_count": 299,
+      "source": "gdct_noauth",
+      "programme_count": 261,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "汕头经济生活",
-      "source": "dx",
-      "programme_count": 237,
+      "source": "gdct_noauth",
+      "programme_count": 202,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "汕尾新闻综合",
-      "source": "dx",
-      "programme_count": 118,
+      "source": "gdct_noauth",
+      "programme_count": 104,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "江苏卫视",
-      "source": "dx",
-      "programme_count": 311,
+      "source": "gdct_noauth",
+      "programme_count": 275,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "江苏卫视4K",
-      "source": "dx",
-      "programme_count": 313,
+      "source": "gdct_noauth",
+      "programme_count": 278,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "江西卫视",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 359,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "江门综合",
-      "source": "dx",
-      "programme_count": 167,
+      "source": "gdct_noauth",
+      "programme_count": 148,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "汽摩",
-      "source": "dx",
-      "programme_count": 639,
+      "source": "gdct_noauth",
+      "programme_count": 569,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "河北卫视",
-      "source": "dx",
-      "programme_count": 296,
+      "source": "gdct_noauth",
+      "programme_count": 297,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
-      }
-    },
-    {
-      "name": "河南卫视",
-      "source": "dx",
-      "programme_count": 402,
-      "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
-      "name": "河源生活",
-      "source": "dx",
-      "programme_count": 126,
+      "name": "河南卫视",
+      "source": "gdct_noauth",
+      "programme_count": 358,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
+        "end": "2026-08-09"
+      }
+    },
+    {
+      "name": "河源生活",
+      "source": "gdct_noauth",
+      "programme_count": 111,
+      "date_range": {
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "河源综合",
-      "source": "dx",
-      "programme_count": 174,
+      "source": "gdct_noauth",
+      "programme_count": 155,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "浙江卫视",
-      "source": "dx",
-      "programme_count": 372,
+      "source": "gdct_noauth",
+      "programme_count": 333,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "浙江卫视4K",
-      "source": "dx",
-      "programme_count": 374,
+      "source": "gdct_noauth",
+      "programme_count": 335,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "海南卫视",
-      "source": "dx",
-      "programme_count": 379,
+      "source": "gdct_noauth",
+      "programme_count": 380,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "深圳卫视",
-      "source": "dx",
-      "programme_count": 452,
+      "source": "gdct_noauth",
+      "programme_count": 404,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "深圳卫视4K",
-      "source": "dx",
-      "programme_count": 456,
+      "source": "gdct_noauth",
+      "programme_count": 407,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "深圳宝安",
-      "source": "dx",
-      "programme_count": 192,
+      "source": "gdct_noauth",
+      "programme_count": 183,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "深圳少儿",
-      "source": "dx",
-      "programme_count": 223,
+      "source": "gdct_noauth",
+      "programme_count": 260,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "深圳电视剧",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 258,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "深圳都市",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 351,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "深圳龙岗",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 225,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "清远新闻综合",
-      "source": "dx",
-      "programme_count": 390,
+      "source": "gdct_noauth",
+      "programme_count": 346,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "湖北卫视",
-      "source": "dx",
-      "programme_count": 338,
+      "source": "gdct_noauth",
+      "programme_count": 294,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "湖南卫视",
-      "source": "dx",
-      "programme_count": 378,
+      "source": "gdct_noauth",
+      "programme_count": 337,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "湖南卫视4K",
-      "source": "dx",
-      "programme_count": 373,
+      "source": "gdct_noauth",
+      "programme_count": 332,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
+        "end": "2026-08-08"
+      }
+    },
+    {
+      "name": "湛江新闻综合",
+      "source": "gdct_noauth",
+      "programme_count": 172,
+      "date_range": {
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "潮州民生",
-      "source": "dx",
-      "programme_count": 217,
+      "source": "gdct_noauth",
+      "programme_count": 193,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "潮州综合",
-      "source": "dx",
-      "programme_count": 200,
+      "source": "gdct_noauth",
+      "programme_count": 179,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "热播剧场",
-      "source": "dx",
-      "programme_count": 57,
+      "source": "gdct_noauth",
+      "programme_count": 296,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "爱大剧",
-      "source": "dx",
-      "programme_count": 57,
+      "source": "gdct_noauth",
+      "programme_count": 296,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "爱电影",
-      "source": "dx",
-      "programme_count": 23,
+      "source": "gdct_noauth",
+      "programme_count": 116,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "爱综艺",
-      "source": "dx",
-      "programme_count": 38,
+      "source": "gdct_noauth",
+      "programme_count": 192,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "珠海",
-      "source": "dx",
-      "programme_count": 237,
+      "source": "gdct_noauth",
+      "programme_count": 210,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "甘肃卫视",
-      "source": "dx",
-      "programme_count": 404,
+      "source": "gdct_noauth",
+      "programme_count": 405,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-06"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "睛彩广场舞",
-      "source": "dx",
-      "programme_count": 90,
+      "source": "gdct_noauth",
+      "programme_count": 106,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "睛彩竞技",
-      "source": "dx",
-      "programme_count": 51,
+      "source": "gdct_noauth",
+      "programme_count": 54,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "睛彩篮球",
-      "source": "dx",
-      "programme_count": 112,
+      "source": "gdct_noauth",
+      "programme_count": 126,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "睛彩青少",
-      "source": "dx",
-      "programme_count": 107,
+      "source": "gdct_noauth",
+      "programme_count": 132,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-07",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "经典电影",
-      "source": "dx",
-      "programme_count": 23,
+      "source": "gdct_noauth",
+      "programme_count": 118,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "经济科教",
-      "source": "dx",
-      "programme_count": 281,
+      "source": "gdct_noauth",
+      "programme_count": 248,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "老故事",
-      "source": "dx",
-      "programme_count": 438,
+      "source": "gdct_noauth",
+      "programme_count": 389,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "肇庆新闻综合",
-      "source": "dx",
-      "programme_count": 233,
+      "source": "gdct_noauth",
+      "programme_count": 207,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "茂名文化生活",
-      "source": "dx",
-      "programme_count": 124,
+      "source": "gdct_noauth",
+      "programme_count": 109,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "茂名综合",
-      "source": "dx",
-      "programme_count": 270,
+      "source": "gdct_noauth",
+      "programme_count": 238,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "西藏卫视",
-      "source": "dx",
-      "programme_count": 365,
+      "source": "gdct_noauth",
+      "programme_count": 325,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "贵州卫视",
-      "source": "dx",
-      "programme_count": 292,
+      "source": "gdct_noauth",
+      "programme_count": 293,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-06"
+        "start": "2026-08-01",
+        "end": "2026-08-07"
       }
     },
     {
       "name": "辽宁卫视",
-      "source": "dx",
-      "programme_count": 361,
+      "source": "gdct_noauth",
+      "programme_count": 366,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "重庆卫视",
-      "source": "dx",
-      "programme_count": 284,
+      "source": "gdct_noauth",
+      "programme_count": 288,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "金鹰卡通",
-      "source": "dx",
-      "programme_count": 209,
+      "source": "gdct_noauth",
+      "programme_count": 135,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-06"
+        "start": "2026-08-01",
+        "end": "2026-08-07"
       }
     },
     {
       "name": "金鹰纪实",
-      "source": "dx",
-      "programme_count": 297,
+      "source": "gdct_noauth",
+      "programme_count": 265,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "阳江-1",
-      "source": "dx",
-      "programme_count": 198,
+      "source": "gdct_noauth",
+      "programme_count": 176,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "陕西卫视",
-      "source": "dx",
-      "programme_count": 292,
+      "source": "gdct_noauth",
+      "programme_count": 290,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "青海卫视",
-      "source": "dx",
+      "source": "gdct_noauth",
       "programme_count": 317,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "韶关新闻综合",
-      "source": "dx",
-      "programme_count": 261,
+      "source": "gdct_noauth",
+      "programme_count": 232,
       "date_range": {
-        "start": "2026-07-31",
+        "start": "2026-08-01",
         "end": "2026-08-08"
       }
     },
     {
       "name": "魅力时尚",
-      "source": "dx",
-      "programme_count": 58,
+      "source": "gdct_noauth",
+      "programme_count": 73,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-07"
+        "start": "2026-08-07",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "黑龙江卫视",
-      "source": "dx",
-      "programme_count": 359,
+      "source": "gdct_noauth",
+      "programme_count": 358,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-07"
+        "start": "2026-08-01",
+        "end": "2026-08-08"
       }
     },
     {
       "name": "香港卫视",
       "source": "hks",
-      "programme_count": 501,
+      "programme_count": 500,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "ARIRANG TV",
       "source": "litv",
-      "programme_count": 195,
+      "programme_count": 183,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CLASSICA",
       "source": "litv",
-      "programme_count": 101,
+      "programme_count": 95,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2546,35 +2555,35 @@
       "source": "litv",
       "programme_count": 107,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "DaVinCi",
       "source": "litv",
-      "programme_count": 342,
+      "programme_count": 328,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "DayStar",
       "source": "litv",
-      "programme_count": 161,
+      "programme_count": 164,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "EDGE sport",
       "source": "litv",
-      "programme_count": 362,
+      "programme_count": 372,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2582,26 +2591,26 @@
       "source": "litv",
       "programme_count": 176,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "FTV戲劇",
       "source": "litv",
-      "programme_count": 85,
+      "programme_count": 86,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "FTV旅遊",
       "source": "litv",
-      "programme_count": 154,
+      "programme_count": 155,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2609,134 +2618,134 @@
       "source": "litv",
       "programme_count": 67,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Focus歡樂綜合台",
       "source": "litv",
-      "programme_count": 72,
+      "programme_count": 78,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Focus焦點電影台",
       "source": "litv",
-      "programme_count": 50,
+      "programme_count": 49,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Focus風采戲劇台",
       "source": "litv",
-      "programme_count": 96,
+      "programme_count": 112,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "GINX",
       "source": "litv",
-      "programme_count": 102,
+      "programme_count": 106,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "GOOD TV",
       "source": "litv",
-      "programme_count": 171,
+      "programme_count": 158,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "GOOD TV 2台",
       "source": "litv",
-      "programme_count": 170,
+      "programme_count": 171,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "HakkaTV",
       "source": "litv",
-      "programme_count": 129,
+      "programme_count": 134,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "INULTRA",
       "source": "litv",
-      "programme_count": 151,
+      "programme_count": 143,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "KMTV HD",
       "source": "litv",
-      "programme_count": 128,
+      "programme_count": 121,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "LiTV 民視台灣台",
       "source": "litv",
-      "programme_count": 111,
+      "programme_count": 103,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "LiTV 華視",
       "source": "litv",
-      "programme_count": 88,
+      "programme_count": 85,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "LiTV中視",
       "source": "litv",
-      "programme_count": 96,
+      "programme_count": 87,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "LiTV台視",
       "source": "litv",
-      "programme_count": 98,
+      "programme_count": 93,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "LiTV民視",
       "source": "litv",
-      "programme_count": 123,
+      "programme_count": 115,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2744,17 +2753,17 @@
       "source": "litv",
       "programme_count": 122,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "LiTV華視新聞",
       "source": "litv",
-      "programme_count": 85,
+      "programme_count": 86,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2762,35 +2771,35 @@
       "source": "litv",
       "programme_count": 58,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Mezzo Live",
       "source": "litv",
-      "programme_count": 67,
+      "programme_count": 66,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Nice Bingo",
       "source": "litv",
-      "programme_count": 167,
+      "programme_count": 155,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Nice TV",
       "source": "litv",
-      "programme_count": 91,
+      "programme_count": 94,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2798,26 +2807,26 @@
       "source": "litv",
       "programme_count": 85,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Smart知識台",
       "source": "litv",
-      "programme_count": 83,
+      "programme_count": 78,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "TRACEUrban",
       "source": "litv",
-      "programme_count": 42,
+      "programme_count": 43,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2825,8 +2834,8 @@
       "source": "litv",
       "programme_count": 176,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2834,8 +2843,8 @@
       "source": "litv",
       "programme_count": 82,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2843,17 +2852,17 @@
       "source": "litv",
       "programme_count": 88,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "中天亞洲台",
       "source": "litv",
-      "programme_count": 76,
+      "programme_count": 80,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2861,8 +2870,8 @@
       "source": "litv",
       "programme_count": 77,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2870,8 +2879,8 @@
       "source": "litv",
       "programme_count": 88,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2879,8 +2888,8 @@
       "source": "litv",
       "programme_count": 73,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2888,62 +2897,62 @@
       "source": "litv",
       "programme_count": 114,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "八大綜藝台",
       "source": "litv",
-      "programme_count": 104,
+      "programme_count": 120,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "公視戲劇",
       "source": "litv",
-      "programme_count": 70,
+      "programme_count": 74,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯無限2台",
       "source": "litv",
-      "programme_count": 39,
+      "programme_count": 43,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯無限台",
       "source": "litv",
-      "programme_count": 35,
+      "programme_count": 34,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯網球台",
       "source": "litv",
-      "programme_count": 29,
+      "programme_count": 32,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯運動一台",
       "source": "litv",
-      "programme_count": 30,
+      "programme_count": 34,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2951,17 +2960,17 @@
       "source": "litv",
       "programme_count": 44,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯高球1台",
       "source": "litv",
-      "programme_count": 28,
+      "programme_count": 26,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -2969,71 +2978,71 @@
       "source": "litv",
       "programme_count": 26,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "博斯魅力網",
       "source": "litv",
-      "programme_count": 36,
+      "programme_count": 34,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "原住民族電視台",
       "source": "litv",
-      "programme_count": 103,
+      "programme_count": 108,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "台灣戲劇台",
       "source": "litv",
-      "programme_count": 93,
+      "programme_count": 95,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "台視新聞台",
       "source": "litv",
-      "programme_count": 91,
+      "programme_count": 95,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "台視財經台",
       "source": "litv",
-      "programme_count": 74,
+      "programme_count": 83,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "國會頻道1台",
       "source": "litv",
-      "programme_count": 18,
+      "programme_count": 21,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "國會頻道2台",
       "source": "litv",
-      "programme_count": 18,
+      "programme_count": 21,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3041,8 +3050,8 @@
       "source": "litv",
       "programme_count": 92,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3050,8 +3059,8 @@
       "source": "litv",
       "programme_count": 91,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3059,35 +3068,35 @@
       "source": "litv",
       "programme_count": 88,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "寵物頻道",
       "source": "litv",
-      "programme_count": 99,
+      "programme_count": 98,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "幸福空間居家台",
       "source": "litv",
-      "programme_count": 88,
+      "programme_count": 89,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "影迷數位紀實台",
       "source": "litv",
-      "programme_count": 89,
+      "programme_count": 93,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3095,35 +3104,35 @@
       "source": "litv",
       "programme_count": 44,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "智林體育台",
       "source": "litv",
-      "programme_count": 29,
+      "programme_count": 28,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "東森新聞台",
       "source": "litv",
-      "programme_count": 42,
+      "programme_count": 48,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "東森財經新聞",
       "source": "litv",
-      "programme_count": 83,
+      "programme_count": 87,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3131,8 +3140,8 @@
       "source": "litv",
       "programme_count": 132,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3140,8 +3149,8 @@
       "source": "litv",
       "programme_count": 132,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3149,8 +3158,8 @@
       "source": "litv",
       "programme_count": 132,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3158,8 +3167,8 @@
       "source": "litv",
       "programme_count": 78,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3167,35 +3176,35 @@
       "source": "litv",
       "programme_count": 160,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "豬哥亮歌廳秀",
       "source": "litv",
-      "programme_count": 83,
+      "programme_count": 85,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "采昌影劇",
       "source": "litv",
-      "programme_count": 56,
+      "programme_count": 61,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖天卡通台",
       "source": "litv",
-      "programme_count": 153,
+      "programme_count": 145,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3203,26 +3212,26 @@
       "source": "litv",
       "programme_count": 176,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖天戲劇",
       "source": "litv",
-      "programme_count": 100,
+      "programme_count": 101,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖天日本台",
       "source": "litv",
-      "programme_count": 133,
+      "programme_count": 130,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3230,8 +3239,8 @@
       "source": "litv",
       "programme_count": 47,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3239,26 +3248,26 @@
       "source": "litv",
       "programme_count": 88,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖天育樂",
       "source": "litv",
-      "programme_count": 99,
+      "programme_count": 95,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖天資訊",
       "source": "litv",
-      "programme_count": 97,
+      "programme_count": 94,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3266,107 +3275,107 @@
       "source": "litv",
       "programme_count": 52,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "靖洋戲劇台",
       "source": "litv",
-      "programme_count": 93,
+      "programme_count": 91,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "非凡商業台",
       "source": "litv",
-      "programme_count": 108,
+      "programme_count": 112,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "非凡新聞台",
       "source": "litv",
-      "programme_count": 92,
+      "programme_count": 94,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "黃金八點檔",
       "source": "litv",
-      "programme_count": 56,
+      "programme_count": 68,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "龍華偶像台",
       "source": "litv",
-      "programme_count": 90,
+      "programme_count": 92,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "龍華卡通台",
       "source": "litv",
-      "programme_count": 155,
+      "programme_count": 163,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "龍華戲劇台",
       "source": "litv",
-      "programme_count": 88,
+      "programme_count": 90,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "龍華日韓台",
       "source": "litv",
-      "programme_count": 91,
+      "programme_count": 94,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "龍華洋片台",
       "source": "litv",
-      "programme_count": 51,
+      "programme_count": 50,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "龍華經典台",
       "source": "litv",
-      "programme_count": 43,
+      "programme_count": 42,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "龍華電影台",
       "source": "litv",
-      "programme_count": 46,
+      "programme_count": 47,
       "date_range": {
-        "start": "2026-08-05",
-        "end": "2026-08-08"
+        "start": "2026-08-06",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3374,35 +3383,35 @@
       "source": "mytv",
       "programme_count": 102,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Arirang TV",
       "source": "mytv",
-      "programme_count": 445,
+      "programme_count": 442,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CGTN (中國環球電視網)英語頻道",
       "source": "mytv",
-      "programme_count": 382,
+      "programme_count": 380,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "CGTN (中國環球電視網)記錄頻道",
       "source": "mytv",
-      "programme_count": 573,
+      "programme_count": 568,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3410,26 +3419,26 @@
       "source": "mytv",
       "programme_count": 204,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "DW",
       "source": "mytv",
-      "programme_count": 641,
+      "programme_count": 643,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Docsville",
       "source": "mytv",
-      "programme_count": 220,
+      "programme_count": 222,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3437,8 +3446,8 @@
       "source": "mytv",
       "programme_count": 244,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3446,17 +3455,17 @@
       "source": "mytv",
       "programme_count": 204,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Global Trekker",
       "source": "mytv",
-      "programme_count": 285,
+      "programme_count": 274,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3464,80 +3473,80 @@
       "source": "mytv",
       "programme_count": 261,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "KIX",
       "source": "mytv",
-      "programme_count": 144,
+      "programme_count": 143,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Love Nature 4K",
       "source": "mytv",
-      "programme_count": 231,
+      "programme_count": 235,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Love Nature HD",
       "source": "mytv",
-      "programme_count": 231,
+      "programme_count": 235,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "NHK World-Japan",
       "source": "mytv",
-      "programme_count": 570,
+      "programme_count": 600,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "New TV科教",
       "source": "mytv",
-      "programme_count": 361,
+      "programme_count": 363,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "NewTV功夫",
       "source": "mytv",
-      "programme_count": 371,
+      "programme_count": 370,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "NewTV古裝劇場",
       "source": "mytv",
-      "programme_count": 297,
+      "programme_count": 289,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "NewTV養生",
       "source": "mytv",
-      "programme_count": 287,
+      "programme_count": 284,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3545,8 +3554,8 @@
       "source": "mytv",
       "programme_count": 408,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3554,26 +3563,26 @@
       "source": "mytv",
       "programme_count": 607,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Nickelodeon",
       "source": "mytv",
-      "programme_count": 583,
+      "programme_count": 581,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Pet Club TV",
       "source": "mytv",
-      "programme_count": 217,
+      "programme_count": 238,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3581,8 +3590,8 @@
       "source": "mytv",
       "programme_count": 147,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3590,26 +3599,26 @@
       "source": "mytv",
       "programme_count": 115,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "ROCK X Stream",
       "source": "mytv",
-      "programme_count": 208,
+      "programme_count": 202,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "ROCK綜藝娛樂",
       "source": "mytv",
-      "programme_count": 256,
+      "programme_count": 265,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3617,80 +3626,80 @@
       "source": "mytv",
       "programme_count": 100,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "SUPER FREE",
       "source": "mytv",
-      "programme_count": 270,
+      "programme_count": 268,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "SUPER FUN",
       "source": "mytv",
-      "programme_count": 385,
+      "programme_count": 364,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "SUPER Kids Channel",
       "source": "mytv",
-      "programme_count": 603,
+      "programme_count": 623,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "SUPER Music",
       "source": "mytv",
-      "programme_count": 186,
+      "programme_count": 177,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "SUPER Sports",
       "source": "mytv",
-      "programme_count": 106,
+      "programme_count": 107,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "SUPER亞視劇",
       "source": "mytv",
-      "programme_count": 263,
+      "programme_count": 261,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "SUPER煲劇",
       "source": "mytv",
-      "programme_count": 512,
+      "programme_count": 513,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "SUPER獎門人",
       "source": "mytv",
-      "programme_count": 246,
+      "programme_count": 255,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3698,17 +3707,17 @@
       "source": "mytv",
       "programme_count": 567,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "SUPER驚",
       "source": "mytv",
-      "programme_count": 426,
+      "programme_count": 433,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3716,62 +3725,62 @@
       "source": "mytv",
       "programme_count": 408,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "TRACE Urban",
       "source": "mytv",
-      "programme_count": 113,
+      "programme_count": 114,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "TVB Plus",
       "source": "mytv",
-      "programme_count": 328,
+      "programme_count": 320,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "The Indonesia Channel",
       "source": "mytv",
-      "programme_count": 212,
+      "programme_count": 217,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Thrill",
       "source": "mytv",
-      "programme_count": 154,
+      "programme_count": 157,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "Wild Stuff",
       "source": "mytv",
-      "programme_count": 233,
+      "programme_count": 257,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "ZooMoo",
       "source": "mytv",
-      "programme_count": 956,
+      "programme_count": 957,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3779,26 +3788,26 @@
       "source": "mytv",
       "programme_count": 142,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "myTV SUPER直播足球2台",
       "source": "mytv",
-      "programme_count": 71,
+      "programme_count": 77,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "myTV SUPER直播足球3台",
       "source": "mytv",
-      "programme_count": 69,
+      "programme_count": 70,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3806,8 +3815,8 @@
       "source": "mytv",
       "programme_count": 69,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3815,8 +3824,8 @@
       "source": "mytv",
       "programme_count": 69,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3824,8 +3833,8 @@
       "source": "mytv",
       "programme_count": 68,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3833,35 +3842,35 @@
       "source": "mytv",
       "programme_count": 68,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "that's 70s",
       "source": "mytv",
-      "programme_count": 117,
+      "programme_count": 116,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "that's 80s",
       "source": "mytv",
-      "programme_count": 115,
+      "programme_count": 114,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "that's 90s00s",
       "source": "mytv",
-      "programme_count": 114,
+      "programme_count": 115,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3869,17 +3878,17 @@
       "source": "mytv",
       "programme_count": 111,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "tvN",
       "source": "mytv",
-      "programme_count": 149,
+      "programme_count": 147,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3887,8 +3896,8 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3896,8 +3905,8 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3905,53 +3914,53 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "中國電影頻道",
       "source": "mytv",
-      "programme_count": 228,
+      "programme_count": 231,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "中央電視台綜合頻道 (港澳版)",
       "source": "mytv",
-      "programme_count": 270,
+      "programme_count": 269,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "亞洲劇台",
       "source": "mytv",
-      "programme_count": 228,
+      "programme_count": 226,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "亞洲新聞台",
       "source": "mytv",
-      "programme_count": 262,
+      "programme_count": 283,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "創世電視",
       "source": "mytv",
-      "programme_count": 227,
+      "programme_count": 225,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3959,17 +3968,17 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "千禧經典台",
       "source": "mytv",
-      "programme_count": 274,
+      "programme_count": 268,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3977,8 +3986,8 @@
       "source": "mytv",
       "programme_count": 322,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3986,8 +3995,8 @@
       "source": "mytv",
       "programme_count": 126,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -3995,8 +4004,8 @@
       "source": "mytv",
       "programme_count": 408,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4004,8 +4013,8 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4013,8 +4022,8 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4022,35 +4031,35 @@
       "source": "mytv",
       "programme_count": 537,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "戲曲台",
       "source": "mytv",
-      "programme_count": 864,
+      "programme_count": 926,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "明珠台",
       "source": "mytv",
-      "programme_count": 305,
+      "programme_count": 304,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "東方衛視國際頻道",
       "source": "mytv",
-      "programme_count": 299,
+      "programme_count": 262,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4058,8 +4067,8 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4067,8 +4076,8 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4076,17 +4085,17 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "測試頻道",
       "source": "mytv",
-      "programme_count": 377,
+      "programme_count": 379,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4094,26 +4103,26 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "無綫新聞台",
       "source": "mytv",
-      "programme_count": 462,
+      "programme_count": 453,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "無線衛星亞洲台",
       "source": "mytv",
-      "programme_count": 182,
+      "programme_count": 180,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4121,17 +4130,17 @@
       "source": "mytv",
       "programme_count": 204,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "真情SUPER煲",
       "source": "mytv",
-      "programme_count": 578,
+      "programme_count": 579,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4139,35 +4148,35 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "粵語片台",
       "source": "mytv",
-      "programme_count": 121,
+      "programme_count": 123,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "美亞電影台",
       "source": "mytv",
-      "programme_count": 128,
+      "programme_count": 127,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "翡翠台",
       "source": "mytv",
-      "programme_count": 381,
+      "programme_count": 383,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4175,8 +4184,8 @@
       "source": "mytv",
       "programme_count": 237,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4184,71 +4193,71 @@
       "source": "mytv",
       "programme_count": 59,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "黃金翡翠台",
       "source": "mytv",
-      "programme_count": 239,
+      "programme_count": 238,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "黃金華劇台",
       "source": "mytv",
-      "programme_count": 235,
+      "programme_count": 236,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "澳視澳門",
       "source": "tdm",
-      "programme_count": 423,
+      "programme_count": 419,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "澳視葡文",
       "source": "tdm",
-      "programme_count": 161,
+      "programme_count": 164,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "澳門-Macau",
       "source": "tdm",
-      "programme_count": 433,
+      "programme_count": 435,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "澳門綜藝",
       "source": "tdm",
-      "programme_count": 128,
+      "programme_count": 148,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "澳門資訊",
       "source": "tdm",
-      "programme_count": 390,
+      "programme_count": 457,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4256,8 +4265,8 @@
       "source": "tdm",
       "programme_count": 130,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
@@ -4265,17 +4274,17 @@
       "source": "tvbanywhere",
       "programme_count": 216,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     },
     {
       "name": "TVB生活台",
       "source": "tvbanywhere",
-      "programme_count": 364,
+      "programme_count": 359,
       "date_range": {
-        "start": "2026-07-31",
-        "end": "2026-08-08"
+        "start": "2026-08-01",
+        "end": "2026-08-09"
       }
     }
   ]
