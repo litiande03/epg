@@ -1,8 +1,10 @@
-name: 每日更新EPG数据
+name: 定时更新EPG数据
 
 on:
   schedule:
-    - cron: 30 5 * * *  # 每天UTC时间13点30运行 (对应北京时间13点30)
+    # 北京时间每3小时整点运行（UTC+8）
+    # 北京: 0/3/6/9/12/15/18/21 → UTC: 16/19/22/1/4/7/10/13
+    - cron: '0 1,4,7,10,13,16,19,22 * * *'
   workflow_dispatch:  # 允许手动触发
   push:
     branches:
@@ -17,7 +19,7 @@ jobs:
     
     steps:
       - name: 检出代码
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0  # 获取完整历史记录
         
@@ -30,7 +32,7 @@ jobs:
           ls -la
         
       - name: 设置Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10'
           
