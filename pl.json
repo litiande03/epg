@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10 00:07:13",
+  "generated_at": "2026-08-10 04:05:33",
   "channel_count": 664,
-  "programme_count": 156510,
+  "programme_count": 160442,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
       "source": "4gtv",
-      "programme_count": 100,
+      "programme_count": 129,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -15,7 +15,7 @@
     {
       "name": "ARIRANG阿里郎頻道",
       "source": "4gtv",
-      "programme_count": 153,
+      "programme_count": 210,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -24,7 +24,7 @@
     {
       "name": "Bloomberg TV",
       "source": "4gtv",
-      "programme_count": 79,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -33,7 +33,7 @@
     {
       "name": "CI 罪案偵查頻道",
       "source": "4gtv",
-      "programme_count": 94,
+      "programme_count": 121,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -42,7 +42,7 @@
     {
       "name": "CLASSICA 古典樂",
       "source": "4gtv",
-      "programme_count": 79,
+      "programme_count": 104,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -51,7 +51,7 @@
     {
       "name": "CNBC Asia 財經台",
       "source": "4gtv",
-      "programme_count": 124,
+      "programme_count": 170,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -60,7 +60,7 @@
     {
       "name": "CinemaWorld",
       "source": "4gtv",
-      "programme_count": 46,
+      "programme_count": 60,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -69,7 +69,7 @@
     {
       "name": "DW德國之聲",
       "source": "4gtv",
-      "programme_count": 226,
+      "programme_count": 299,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -78,7 +78,7 @@
     {
       "name": "DreamWorks 夢工廠動畫",
       "source": "4gtv",
-      "programme_count": 180,
+      "programme_count": 238,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -87,7 +87,7 @@
     {
       "name": "ELTV生活英語台",
       "source": "4gtv",
-      "programme_count": 144,
+      "programme_count": 190,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -96,7 +96,7 @@
     {
       "name": "FRANCE24 英文台",
       "source": "4gtv",
-      "programme_count": 299,
+      "programme_count": 396,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -105,7 +105,7 @@
     {
       "name": "GINX Esports TV",
       "source": "4gtv",
-      "programme_count": 87,
+      "programme_count": 116,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -114,7 +114,7 @@
     {
       "name": "Global Trekker",
       "source": "4gtv",
-      "programme_count": 89,
+      "programme_count": 119,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -123,7 +123,7 @@
     {
       "name": "HITS頻道",
       "source": "4gtv",
-      "programme_count": 81,
+      "programme_count": 107,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -132,7 +132,7 @@
     {
       "name": "History 歷史頻道",
       "source": "4gtv",
-      "programme_count": 80,
+      "programme_count": 105,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -141,7 +141,7 @@
     {
       "name": "INULTRA",
       "source": "4gtv",
-      "programme_count": 118,
+      "programme_count": 154,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -150,7 +150,7 @@
     {
       "name": "KLT-靖天國際台",
       "source": "4gtv",
-      "programme_count": 145,
+      "programme_count": 192,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -159,7 +159,7 @@
     {
       "name": "LUXE TV Channel",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -168,7 +168,7 @@
     {
       "name": "Lifetime 娛樂頻道",
       "source": "4gtv",
-      "programme_count": 79,
+      "programme_count": 105,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -177,7 +177,7 @@
     {
       "name": "LiveABC互動英語頻道",
       "source": "4gtv",
-      "programme_count": 203,
+      "programme_count": 270,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -186,7 +186,7 @@
     {
       "name": "Love Nature",
       "source": "4gtv",
-      "programme_count": 95,
+      "programme_count": 122,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -195,7 +195,7 @@
     {
       "name": "MOMO親子台",
       "source": "4gtv",
-      "programme_count": 217,
+      "programme_count": 288,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -204,7 +204,7 @@
     {
       "name": "Mezzo Live HD",
       "source": "4gtv",
-      "programme_count": 56,
+      "programme_count": 73,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -213,7 +213,7 @@
     {
       "name": "My Cinema Europe HD 我的歐洲電影",
       "source": "4gtv",
-      "programme_count": 47,
+      "programme_count": 60,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -222,7 +222,7 @@
     {
       "name": "NHK WORLD-JAPAN",
       "source": "4gtv",
-      "programme_count": 277,
+      "programme_count": 372,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -231,7 +231,7 @@
     {
       "name": "Nice TV 靖天歡樂台",
       "source": "4gtv",
-      "programme_count": 76,
+      "programme_count": 99,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -240,7 +240,7 @@
     {
       "name": "Nick Jr. 兒童頻道",
       "source": "4gtv",
-      "programme_count": 213,
+      "programme_count": 282,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -249,7 +249,7 @@
     {
       "name": "Pet Club TV",
       "source": "4gtv",
-      "programme_count": 81,
+      "programme_count": 110,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -258,7 +258,7 @@
     {
       "name": "ROCK Action",
       "source": "4gtv",
-      "programme_count": 38,
+      "programme_count": 49,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -267,7 +267,7 @@
     {
       "name": "ROCK Entertainment",
       "source": "4gtv",
-      "programme_count": 97,
+      "programme_count": 120,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -276,7 +276,7 @@
     {
       "name": "ROCK Xstream搖滾極限頻道",
       "source": "4gtv",
-      "programme_count": 64,
+      "programme_count": 85,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -285,7 +285,7 @@
     {
       "name": "SBN全球財經台",
       "source": "4gtv",
-      "programme_count": 137,
+      "programme_count": 180,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -294,7 +294,7 @@
     {
       "name": "TRACE Sport Stars",
       "source": "4gtv",
-      "programme_count": 145,
+      "programme_count": 192,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -303,7 +303,7 @@
     {
       "name": "TRACE Urban",
       "source": "4gtv",
-      "programme_count": 33,
+      "programme_count": 43,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -312,7 +312,7 @@
     {
       "name": "TV5MONDE STYLE HD 生活時尚",
       "source": "4gtv",
-      "programme_count": 136,
+      "programme_count": 187,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -321,7 +321,7 @@
     {
       "name": "TVBS",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -330,7 +330,7 @@
     {
       "name": "TVBS新聞",
       "source": "4gtv",
-      "programme_count": 57,
+      "programme_count": 74,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -339,7 +339,7 @@
     {
       "name": "TVBS歡樂台",
       "source": "4gtv",
-      "programme_count": 70,
+      "programme_count": 93,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -348,7 +348,7 @@
     {
       "name": "TVBS精采台",
       "source": "4gtv",
-      "programme_count": 64,
+      "programme_count": 84,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -357,7 +357,7 @@
     {
       "name": "amc電影台",
       "source": "4gtv",
-      "programme_count": 52,
+      "programme_count": 68,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -366,7 +366,7 @@
     {
       "name": "fun探索娛樂台",
       "source": "4gtv",
-      "programme_count": 71,
+      "programme_count": 93,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -375,7 +375,7 @@
     {
       "name": "getwin sport運動台",
       "source": "4gtv",
-      "programme_count": 25,
+      "programme_count": 27,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -384,7 +384,7 @@
     {
       "name": "三立新聞iNEWS",
       "source": "4gtv",
-      "programme_count": 70,
+      "programme_count": 92,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -393,7 +393,7 @@
     {
       "name": "三立綜合台",
       "source": "4gtv",
-      "programme_count": 65,
+      "programme_count": 88,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -402,7 +402,7 @@
     {
       "name": "中視",
       "source": "4gtv",
-      "programme_count": 74,
+      "programme_count": 100,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -411,7 +411,7 @@
     {
       "name": "中視新聞",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -420,7 +420,7 @@
     {
       "name": "亞洲旅遊台",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -429,7 +429,7 @@
     {
       "name": "人間衛視",
       "source": "4gtv",
-      "programme_count": 90,
+      "programme_count": 120,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -438,7 +438,7 @@
     {
       "name": "八大精彩台",
       "source": "4gtv",
-      "programme_count": 94,
+      "programme_count": 124,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -447,7 +447,7 @@
     {
       "name": "八大綜藝台",
       "source": "4gtv",
-      "programme_count": 89,
+      "programme_count": 112,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -456,7 +456,7 @@
     {
       "name": "公視戲劇",
       "source": "4gtv",
-      "programme_count": 61,
+      "programme_count": 76,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -465,7 +465,7 @@
     {
       "name": "半島國際新聞台",
       "source": "4gtv",
-      "programme_count": 112,
+      "programme_count": 148,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -474,7 +474,7 @@
     {
       "name": "博斯無限二台",
       "source": "4gtv",
-      "programme_count": 39,
+      "programme_count": 51,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -483,7 +483,7 @@
     {
       "name": "博斯無限台",
       "source": "4gtv",
-      "programme_count": 33,
+      "programme_count": 42,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -492,7 +492,7 @@
     {
       "name": "博斯網球台",
       "source": "4gtv",
-      "programme_count": 32,
+      "programme_count": 41,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -501,7 +501,7 @@
     {
       "name": "博斯運動一台",
       "source": "4gtv",
-      "programme_count": 35,
+      "programme_count": 46,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -510,7 +510,7 @@
     {
       "name": "博斯運動二台",
       "source": "4gtv",
-      "programme_count": 37,
+      "programme_count": 48,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -519,7 +519,7 @@
     {
       "name": "博斯高球二台",
       "source": "4gtv",
-      "programme_count": 22,
+      "programme_count": 29,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -528,7 +528,7 @@
     {
       "name": "博斯高球台",
       "source": "4gtv",
-      "programme_count": 20,
+      "programme_count": 27,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -537,7 +537,7 @@
     {
       "name": "博斯魅力台",
       "source": "4gtv",
-      "programme_count": 31,
+      "programme_count": 46,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -546,7 +546,7 @@
     {
       "name": "原住民族電視台",
       "source": "4gtv",
-      "programme_count": 88,
+      "programme_count": 114,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -555,7 +555,7 @@
     {
       "name": "國會頻道1",
       "source": "4gtv",
-      "programme_count": 13,
+      "programme_count": 16,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -564,7 +564,7 @@
     {
       "name": "國會頻道2",
       "source": "4gtv",
-      "programme_count": 13,
+      "programme_count": 16,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -573,7 +573,7 @@
     {
       "name": "大愛二台",
       "source": "4gtv",
-      "programme_count": 146,
+      "programme_count": 195,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -582,7 +582,7 @@
     {
       "name": "大愛電視",
       "source": "4gtv",
-      "programme_count": 187,
+      "programme_count": 256,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -591,7 +591,7 @@
     {
       "name": "好消息",
       "source": "4gtv",
-      "programme_count": 137,
+      "programme_count": 186,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -600,7 +600,7 @@
     {
       "name": "好消息2台",
       "source": "4gtv",
-      "programme_count": 140,
+      "programme_count": 186,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -609,7 +609,7 @@
     {
       "name": "客家電視台",
       "source": "4gtv",
-      "programme_count": 112,
+      "programme_count": 147,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -618,7 +618,7 @@
     {
       "name": "寰宇新聞台",
       "source": "4gtv",
-      "programme_count": 75,
+      "programme_count": 98,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -627,7 +627,7 @@
     {
       "name": "寰宇新聞台灣台",
       "source": "4gtv",
-      "programme_count": 75,
+      "programme_count": 98,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -636,7 +636,7 @@
     {
       "name": "尼克兒童頻道",
       "source": "4gtv",
-      "programme_count": 199,
+      "programme_count": 264,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -645,7 +645,7 @@
     {
       "name": "幸福空間居家台",
       "source": "4gtv",
-      "programme_count": 74,
+      "programme_count": 97,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -654,7 +654,7 @@
     {
       "name": "影迷數位紀實台",
       "source": "4gtv",
-      "programme_count": 85,
+      "programme_count": 111,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -663,7 +663,7 @@
     {
       "name": "影迷數位電影台",
       "source": "4gtv",
-      "programme_count": 40,
+      "programme_count": 51,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -672,7 +672,7 @@
     {
       "name": "愛爾達生活旅遊台",
       "source": "4gtv",
-      "programme_count": 109,
+      "programme_count": 144,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -681,7 +681,7 @@
     {
       "name": "新唐人亞太台",
       "source": "4gtv",
-      "programme_count": 148,
+      "programme_count": 194,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -690,7 +690,7 @@
     {
       "name": "時尚運動X",
       "source": "4gtv",
-      "programme_count": 317,
+      "programme_count": 400,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -699,7 +699,7 @@
     {
       "name": "智林體育台",
       "source": "4gtv",
-      "programme_count": 30,
+      "programme_count": 39,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -708,7 +708,7 @@
     {
       "name": "東森新聞台",
       "source": "4gtv",
-      "programme_count": 41,
+      "programme_count": 51,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -717,7 +717,7 @@
     {
       "name": "東森財經新聞台",
       "source": "4gtv",
-      "programme_count": 71,
+      "programme_count": 92,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -726,7 +726,7 @@
     {
       "name": "東森購物一台",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -735,7 +735,7 @@
     {
       "name": "東森購物三台",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -744,7 +744,7 @@
     {
       "name": "東森購物二台",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -753,7 +753,7 @@
     {
       "name": "東森購物四台",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -762,7 +762,7 @@
     {
       "name": "民視",
       "source": "4gtv",
-      "programme_count": 102,
+      "programme_count": 137,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -771,7 +771,7 @@
     {
       "name": "民視台灣台",
       "source": "4gtv",
-      "programme_count": 83,
+      "programme_count": 112,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -780,7 +780,7 @@
     {
       "name": "民視影劇台",
       "source": "4gtv",
-      "programme_count": 71,
+      "programme_count": 92,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -789,7 +789,7 @@
     {
       "name": "民視新聞台",
       "source": "4gtv",
-      "programme_count": 69,
+      "programme_count": 91,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -798,7 +798,7 @@
     {
       "name": "民視旅遊台",
       "source": "4gtv",
-      "programme_count": 135,
+      "programme_count": 181,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -807,7 +807,7 @@
     {
       "name": "民視第一台",
       "source": "4gtv",
-      "programme_count": 97,
+      "programme_count": 129,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -816,7 +816,7 @@
     {
       "name": "民視綜藝台",
       "source": "4gtv",
-      "programme_count": 58,
+      "programme_count": 72,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -825,7 +825,7 @@
     {
       "name": "滾動力rollor",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -834,7 +834,7 @@
     {
       "name": "精選動漫台",
       "source": "4gtv",
-      "programme_count": 147,
+      "programme_count": 198,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -843,7 +843,7 @@
     {
       "name": "經典卡通台",
       "source": "4gtv",
-      "programme_count": 177,
+      "programme_count": 235,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -852,7 +852,7 @@
     {
       "name": "經典電影台",
       "source": "4gtv",
-      "programme_count": 40,
+      "programme_count": 52,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -861,7 +861,7 @@
     {
       "name": "華視",
       "source": "4gtv",
-      "programme_count": 68,
+      "programme_count": 90,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -870,7 +870,7 @@
     {
       "name": "華視新聞",
       "source": "4gtv",
-      "programme_count": 71,
+      "programme_count": 93,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -879,7 +879,7 @@
     {
       "name": "視納華仁紀實頻道",
       "source": "4gtv",
-      "programme_count": 85,
+      "programme_count": 113,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -888,7 +888,7 @@
     {
       "name": "豬哥亮歌廳秀",
       "source": "4gtv",
-      "programme_count": 70,
+      "programme_count": 91,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -897,7 +897,7 @@
     {
       "name": "車迷TV",
       "source": "4gtv",
-      "programme_count": 117,
+      "programme_count": 160,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -906,7 +906,7 @@
     {
       "name": "達文西頻道",
       "source": "4gtv",
-      "programme_count": 270,
+      "programme_count": 361,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -915,7 +915,7 @@
     {
       "name": "采昌影劇台",
       "source": "4gtv",
-      "programme_count": 54,
+      "programme_count": 69,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -924,7 +924,7 @@
     {
       "name": "金光布袋戲",
       "source": "4gtv",
-      "programme_count": 61,
+      "programme_count": 78,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -933,7 +933,7 @@
     {
       "name": "鏡電視新聞台",
       "source": "4gtv",
-      "programme_count": 70,
+      "programme_count": 92,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -942,7 +942,7 @@
     {
       "name": "電影原聲台CMusic",
       "source": "4gtv",
-      "programme_count": 1414,
+      "programme_count": 1883,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -951,7 +951,7 @@
     {
       "name": "靖天卡通台",
       "source": "4gtv",
-      "programme_count": 125,
+      "programme_count": 168,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -960,7 +960,7 @@
     {
       "name": "靖天戲劇台",
       "source": "4gtv",
-      "programme_count": 74,
+      "programme_count": 97,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -969,7 +969,7 @@
     {
       "name": "靖天日本台",
       "source": "4gtv",
-      "programme_count": 106,
+      "programme_count": 141,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -978,7 +978,7 @@
     {
       "name": "靖天映畫",
       "source": "4gtv",
-      "programme_count": 39,
+      "programme_count": 50,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -987,7 +987,7 @@
     {
       "name": "靖天綜合台",
       "source": "4gtv",
-      "programme_count": 73,
+      "programme_count": 96,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -996,7 +996,7 @@
     {
       "name": "靖天育樂台",
       "source": "4gtv",
-      "programme_count": 81,
+      "programme_count": 108,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -1005,7 +1005,7 @@
     {
       "name": "靖天資訊台",
       "source": "4gtv",
-      "programme_count": 78,
+      "programme_count": 103,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -1014,7 +1014,7 @@
     {
       "name": "靖天電影台",
       "source": "4gtv",
-      "programme_count": 42,
+      "programme_count": 54,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -1023,7 +1023,7 @@
     {
       "name": "靖洋卡通Nice Bingo",
       "source": "4gtv",
-      "programme_count": 133,
+      "programme_count": 180,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -1032,7 +1032,7 @@
     {
       "name": "靖洋戲劇台",
       "source": "4gtv",
-      "programme_count": 77,
+      "programme_count": 102,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -1041,7 +1041,7 @@
     {
       "name": "韓國娛樂台 KMTV",
       "source": "4gtv",
-      "programme_count": 99,
+      "programme_count": 134,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -2175,7 +2175,7 @@
     {
       "name": "深圳少儿",
       "source": "gdct",
-      "programme_count": 232,
+      "programme_count": 241,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -2328,7 +2328,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct",
-      "programme_count": 118,
+      "programme_count": 112,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -2337,7 +2337,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct",
-      "programme_count": 78,
+      "programme_count": 76,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -2346,7 +2346,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct",
-      "programme_count": 132,
+      "programme_count": 127,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct",
-      "programme_count": 139,
+      "programme_count": 133,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-12"
@@ -2508,7 +2508,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct",
-      "programme_count": 76,
+      "programme_count": 69,
       "date_range": {
         "start": "2026-08-09",
         "end": "2026-08-11"
