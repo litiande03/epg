@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13 21:55:01",
+  "generated_at": "2026-08-13 22:09:07",
   "channel_count": 502,
-  "programme_count": 110736,
+  "programme_count": 109986,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1113,7 +1113,7 @@
     {
       "name": "CCTV-14 少儿",
       "source": "gdct_noauth",
-      "programme_count": 187,
+      "programme_count": 188,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -1212,7 +1212,7 @@
     {
       "name": "CCTV-5+ 体育赛事",
       "source": "gdct_noauth",
-      "programme_count": 190,
+      "programme_count": 191,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -2193,7 +2193,7 @@
     {
       "name": "深圳少儿",
       "source": "gdct_noauth",
-      "programme_count": 159,
+      "programme_count": 157,
       "date_range": {
         "start": "2026-08-13",
         "end": "2026-08-15"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 47,
+      "programme_count": 46,
       "date_range": {
         "start": "2026-08-13",
         "end": "2026-08-15"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 90,
+      "programme_count": 88,
       "date_range": {
         "start": "2026-08-13",
         "end": "2026-08-15"
@@ -3525,7 +3525,7 @@
     {
       "name": "Action Hollywood Movies",
       "source": "mytv",
-      "programme_count": 105,
+      "programme_count": 102,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3534,7 +3534,7 @@
     {
       "name": "Arirang TV",
       "source": "mytv",
-      "programme_count": 454,
+      "programme_count": 440,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3543,7 +3543,7 @@
     {
       "name": "CGTN (中國環球電視網)英語頻道",
       "source": "mytv",
-      "programme_count": 391,
+      "programme_count": 382,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3552,7 +3552,7 @@
     {
       "name": "CGTN (中國環球電視網)記錄頻道",
       "source": "mytv",
-      "programme_count": 606,
+      "programme_count": 588,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3561,7 +3561,7 @@
     {
       "name": "Concerto",
       "source": "mytv",
-      "programme_count": 210,
+      "programme_count": 204,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3570,7 +3570,7 @@
     {
       "name": "Docsville",
       "source": "mytv",
-      "programme_count": 235,
+      "programme_count": 228,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3579,7 +3579,7 @@
     {
       "name": "DW",
       "source": "mytv",
-      "programme_count": 654,
+      "programme_count": 639,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3588,7 +3588,7 @@
     {
       "name": "FashionBox",
       "source": "mytv",
-      "programme_count": 256,
+      "programme_count": 244,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3597,7 +3597,7 @@
     {
       "name": "France 24",
       "source": "mytv",
-      "programme_count": 210,
+      "programme_count": 204,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3606,7 +3606,7 @@
     {
       "name": "Global Trekker",
       "source": "mytv",
-      "programme_count": 272,
+      "programme_count": 267,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3615,7 +3615,7 @@
     {
       "name": "Globetrotter",
       "source": "mytv",
-      "programme_count": 280,
+      "programme_count": 272,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3624,7 +3624,7 @@
     {
       "name": "KIX",
       "source": "mytv",
-      "programme_count": 158,
+      "programme_count": 153,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3633,7 +3633,7 @@
     {
       "name": "Love Nature 4K",
       "source": "mytv",
-      "programme_count": 249,
+      "programme_count": 243,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3642,7 +3642,7 @@
     {
       "name": "Love Nature HD",
       "source": "mytv",
-      "programme_count": 249,
+      "programme_count": 243,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3651,7 +3651,7 @@
     {
       "name": "myTV SUPER 18台",
       "source": "mytv",
-      "programme_count": 146,
+      "programme_count": 142,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3660,7 +3660,7 @@
     {
       "name": "myTV SUPER直播足球2台",
       "source": "mytv",
-      "programme_count": 81,
+      "programme_count": 79,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3669,7 +3669,7 @@
     {
       "name": "myTV SUPER直播足球3台",
       "source": "mytv",
-      "programme_count": 73,
+      "programme_count": 71,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3678,7 +3678,7 @@
     {
       "name": "myTV SUPER直播足球4台",
       "source": "mytv",
-      "programme_count": 71,
+      "programme_count": 69,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3687,7 +3687,7 @@
     {
       "name": "myTV SUPER直播足球5台",
       "source": "mytv",
-      "programme_count": 72,
+      "programme_count": 70,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3696,7 +3696,7 @@
     {
       "name": "myTV SUPER直播足球6台",
       "source": "mytv",
-      "programme_count": 70,
+      "programme_count": 68,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3705,7 +3705,7 @@
     {
       "name": "myTV SUPER直播足球7台",
       "source": "mytv",
-      "programme_count": 70,
+      "programme_count": 68,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3714,7 +3714,7 @@
     {
       "name": "New TV科教",
       "source": "mytv",
-      "programme_count": 374,
+      "programme_count": 362,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3723,7 +3723,7 @@
     {
       "name": "NewsWorld",
       "source": "mytv",
-      "programme_count": 420,
+      "programme_count": 408,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3732,7 +3732,7 @@
     {
       "name": "NewTV功夫",
       "source": "mytv",
-      "programme_count": 370,
+      "programme_count": 361,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3741,7 +3741,7 @@
     {
       "name": "NewTV古裝劇場",
       "source": "mytv",
-      "programme_count": 281,
+      "programme_count": 273,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3750,7 +3750,7 @@
     {
       "name": "NewTV養生",
       "source": "mytv",
-      "programme_count": 296,
+      "programme_count": 288,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3759,7 +3759,7 @@
     {
       "name": "NHK World-Japan",
       "source": "mytv",
-      "programme_count": 763,
+      "programme_count": 739,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3768,7 +3768,7 @@
     {
       "name": "Nick Jr",
       "source": "mytv",
-      "programme_count": 621,
+      "programme_count": 603,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3777,7 +3777,7 @@
     {
       "name": "Nickelodeon",
       "source": "mytv",
-      "programme_count": 586,
+      "programme_count": 570,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3786,7 +3786,7 @@
     {
       "name": "Pet Club TV",
       "source": "mytv",
-      "programme_count": 249,
+      "programme_count": 241,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3795,7 +3795,7 @@
     {
       "name": "PopC",
       "source": "mytv",
-      "programme_count": 151,
+      "programme_count": 147,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3804,7 +3804,7 @@
     {
       "name": "Rialto Classic Movies (RCM)",
       "source": "mytv",
-      "programme_count": 105,
+      "programme_count": 102,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3813,7 +3813,7 @@
     {
       "name": "ROCK Action",
       "source": "mytv",
-      "programme_count": 115,
+      "programme_count": 112,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3822,7 +3822,7 @@
     {
       "name": "ROCK X Stream",
       "source": "mytv",
-      "programme_count": 201,
+      "programme_count": 196,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3831,7 +3831,7 @@
     {
       "name": "ROCK綜藝娛樂",
       "source": "mytv",
-      "programme_count": 246,
+      "programme_count": 240,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3840,7 +3840,7 @@
     {
       "name": "SUPER FREE",
       "source": "mytv",
-      "programme_count": 267,
+      "programme_count": 260,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3849,7 +3849,7 @@
     {
       "name": "SUPER FUN",
       "source": "mytv",
-      "programme_count": 348,
+      "programme_count": 339,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3858,7 +3858,7 @@
     {
       "name": "SUPER Kids Channel",
       "source": "mytv",
-      "programme_count": 629,
+      "programme_count": 611,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3867,7 +3867,7 @@
     {
       "name": "SUPER Music",
       "source": "mytv",
-      "programme_count": 174,
+      "programme_count": 167,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3876,7 +3876,7 @@
     {
       "name": "SUPER Sports",
       "source": "mytv",
-      "programme_count": 128,
+      "programme_count": 124,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3885,7 +3885,7 @@
     {
       "name": "SUPER亞視劇",
       "source": "mytv",
-      "programme_count": 269,
+      "programme_count": 262,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3894,7 +3894,7 @@
     {
       "name": "SUPER煲劇",
       "source": "mytv",
-      "programme_count": 539,
+      "programme_count": 524,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3903,7 +3903,7 @@
     {
       "name": "SUPER獎門人",
       "source": "mytv",
-      "programme_count": 275,
+      "programme_count": 267,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3912,7 +3912,7 @@
     {
       "name": "SUPER識食",
       "source": "mytv",
-      "programme_count": 578,
+      "programme_count": 562,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3921,7 +3921,7 @@
     {
       "name": "SUPER驚",
       "source": "mytv",
-      "programme_count": 430,
+      "programme_count": 417,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3930,7 +3930,7 @@
     {
       "name": "that's 70s",
       "source": "mytv",
-      "programme_count": 125,
+      "programme_count": 121,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3939,7 +3939,7 @@
     {
       "name": "that's 80s",
       "source": "mytv",
-      "programme_count": 126,
+      "programme_count": 122,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3948,7 +3948,7 @@
     {
       "name": "that's 90s00s",
       "source": "mytv",
-      "programme_count": 126,
+      "programme_count": 122,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3957,7 +3957,7 @@
     {
       "name": "that's Rock",
       "source": "mytv",
-      "programme_count": 126,
+      "programme_count": 122,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3966,7 +3966,7 @@
     {
       "name": "The Indonesia Channel",
       "source": "mytv",
-      "programme_count": 216,
+      "programme_count": 212,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3975,7 +3975,7 @@
     {
       "name": "Thrill",
       "source": "mytv",
-      "programme_count": 154,
+      "programme_count": 149,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3984,7 +3984,7 @@
     {
       "name": "TRACE Sport Stars",
       "source": "mytv",
-      "programme_count": 420,
+      "programme_count": 408,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -3993,7 +3993,7 @@
     {
       "name": "TRACE Urban",
       "source": "mytv",
-      "programme_count": 120,
+      "programme_count": 113,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4002,7 +4002,7 @@
     {
       "name": "TVB Plus",
       "source": "mytv",
-      "programme_count": 325,
+      "programme_count": 318,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4011,7 +4011,7 @@
     {
       "name": "tvN",
       "source": "mytv",
-      "programme_count": 155,
+      "programme_count": 150,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4020,7 +4020,7 @@
     {
       "name": "Wild Stuff",
       "source": "mytv",
-      "programme_count": 264,
+      "programme_count": 256,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4029,7 +4029,7 @@
     {
       "name": "ZooMoo",
       "source": "mytv",
-      "programme_count": 1084,
+      "programme_count": 1036,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4038,7 +4038,7 @@
     {
       "name": "中國中央電視台中文國際頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4047,7 +4047,7 @@
     {
       "name": "中國中央電視台娛樂頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4056,7 +4056,7 @@
     {
       "name": "中國中央電視台戲曲頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4065,7 +4065,7 @@
     {
       "name": "中國電影頻道",
       "source": "mytv",
-      "programme_count": 237,
+      "programme_count": 231,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4074,7 +4074,7 @@
     {
       "name": "中央電視台綜合頻道 (港澳版)",
       "source": "mytv",
-      "programme_count": 247,
+      "programme_count": 239,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4083,7 +4083,7 @@
     {
       "name": "亞洲劇台",
       "source": "mytv",
-      "programme_count": 229,
+      "programme_count": 223,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4092,7 +4092,7 @@
     {
       "name": "亞洲新聞台",
       "source": "mytv",
-      "programme_count": 268,
+      "programme_count": 260,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4101,7 +4101,7 @@
     {
       "name": "創世電視",
       "source": "mytv",
-      "programme_count": 233,
+      "programme_count": 227,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4110,7 +4110,7 @@
     {
       "name": "北京電視台國際頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4119,7 +4119,7 @@
     {
       "name": "千禧經典台",
       "source": "mytv",
-      "programme_count": 281,
+      "programme_count": 274,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4128,7 +4128,7 @@
     {
       "name": "半島電視台英語頻道",
       "source": "mytv",
-      "programme_count": 328,
+      "programme_count": 319,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4137,7 +4137,7 @@
     {
       "name": "天映經典頻道",
       "source": "mytv",
-      "programme_count": 129,
+      "programme_count": 125,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4146,7 +4146,7 @@
     {
       "name": "娛樂新聞台",
       "source": "mytv",
-      "programme_count": 420,
+      "programme_count": 408,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4155,7 +4155,7 @@
     {
       "name": "安徽廣播電視台國際頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4164,7 +4164,7 @@
     {
       "name": "廣東廣播電視台大灣區衛視頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4173,7 +4173,7 @@
     {
       "name": "愛．回家SUPER煲",
       "source": "mytv",
-      "programme_count": 552,
+      "programme_count": 537,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4182,7 +4182,7 @@
     {
       "name": "戲曲台",
       "source": "mytv",
-      "programme_count": 1186,
+      "programme_count": 1148,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4191,7 +4191,7 @@
     {
       "name": "明珠台",
       "source": "mytv",
-      "programme_count": 305,
+      "programme_count": 300,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4200,7 +4200,7 @@
     {
       "name": "東方衛視國際頻道",
       "source": "mytv",
-      "programme_count": 309,
+      "programme_count": 302,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4209,7 +4209,7 @@
     {
       "name": "江蘇電視台國際頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4218,7 +4218,7 @@
     {
       "name": "浙江電視台國際頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4227,7 +4227,7 @@
     {
       "name": "深圳衛視國際頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4236,7 +4236,7 @@
     {
       "name": "測試頻道",
       "source": "mytv",
-      "programme_count": 385,
+      "programme_count": 378,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4245,7 +4245,7 @@
     {
       "name": "湖南電視台國際頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4254,7 +4254,7 @@
     {
       "name": "無綫新聞台",
       "source": "mytv",
-      "programme_count": 474,
+      "programme_count": 462,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4263,7 +4263,7 @@
     {
       "name": "無線衛星亞洲台",
       "source": "mytv",
-      "programme_count": 187,
+      "programme_count": 182,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4272,7 +4272,7 @@
     {
       "name": "無線衛星新聞台",
       "source": "mytv",
-      "programme_count": 210,
+      "programme_count": 204,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4281,7 +4281,7 @@
     {
       "name": "真情SUPER煲",
       "source": "mytv",
-      "programme_count": 596,
+      "programme_count": 580,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4290,7 +4290,7 @@
     {
       "name": "福建海峽衛視國際頻道",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4299,7 +4299,7 @@
     {
       "name": "粵語片台",
       "source": "mytv",
-      "programme_count": 129,
+      "programme_count": 126,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4308,7 +4308,7 @@
     {
       "name": "美亞電影台",
       "source": "mytv",
-      "programme_count": 130,
+      "programme_count": 126,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4317,7 +4317,7 @@
     {
       "name": "翡翠台",
       "source": "mytv",
-      "programme_count": 391,
+      "programme_count": 384,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4326,7 +4326,7 @@
     {
       "name": "華語劇台",
       "source": "mytv",
-      "programme_count": 241,
+      "programme_count": 235,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4335,7 +4335,7 @@
     {
       "name": "雲南瀾湄國際衛視",
       "source": "mytv",
-      "programme_count": 61,
+      "programme_count": 59,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4344,7 +4344,7 @@
     {
       "name": "黃金翡翠台",
       "source": "mytv",
-      "programme_count": 246,
+      "programme_count": 240,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4353,7 +4353,7 @@
     {
       "name": "黃金華劇台",
       "source": "mytv",
-      "programme_count": 240,
+      "programme_count": 234,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4362,7 +4362,7 @@
     {
       "name": "澳視澳門",
       "source": "tdm",
-      "programme_count": 439,
+      "programme_count": 424,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4371,7 +4371,7 @@
     {
       "name": "澳視葡文",
       "source": "tdm",
-      "programme_count": 161,
+      "programme_count": 160,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4389,7 +4389,7 @@
     {
       "name": "澳門綜藝",
       "source": "tdm",
-      "programme_count": 150,
+      "programme_count": 149,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4398,7 +4398,7 @@
     {
       "name": "澳門資訊",
       "source": "tdm",
-      "programme_count": 441,
+      "programme_count": 435,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
@@ -4407,7 +4407,7 @@
     {
       "name": "澳門體育",
       "source": "tdm",
-      "programme_count": 136,
+      "programme_count": 133,
       "date_range": {
         "start": "2026-08-07",
         "end": "2026-08-15"
