@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16 04:06:47",
+  "generated_at": "2026-08-16 08:08:01",
   "channel_count": 502,
-  "programme_count": 121407,
+  "programme_count": 121179,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -150,10 +150,10 @@
     {
       "name": "History 歷史頻道",
       "source": "4gtv",
-      "programme_count": 165,
+      "programme_count": 78,
       "date_range": {
         "start": "2026-08-13",
-        "end": "2026-08-18"
+        "end": "2026-08-15"
       }
     },
     {
@@ -204,10 +204,10 @@
     {
       "name": "Love Nature",
       "source": "4gtv",
-      "programme_count": 171,
+      "programme_count": 81,
       "date_range": {
         "start": "2026-08-13",
-        "end": "2026-08-18"
+        "end": "2026-08-15"
       }
     },
     {
@@ -1320,7 +1320,7 @@
     {
       "name": "CCTV-怀旧剧场",
       "source": "gdct_noauth",
-      "programme_count": 169,
+      "programme_count": 170,
       "date_range": {
         "start": "2026-08-10",
         "end": "2026-08-18"
@@ -1680,7 +1680,7 @@
     {
       "name": "嘉佳卡通",
       "source": "gdct_noauth",
-      "programme_count": 1288,
+      "programme_count": 1270,
       "date_range": {
         "start": "2026-08-10",
         "end": "2026-08-18"
@@ -2193,7 +2193,7 @@
     {
       "name": "深圳少儿",
       "source": "gdct_noauth",
-      "programme_count": 258,
+      "programme_count": 253,
       "date_range": {
         "start": "2026-08-13",
         "end": "2026-08-18"
@@ -2346,7 +2346,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 122,
+      "programme_count": 116,
       "date_range": {
         "start": "2026-08-13",
         "end": "2026-08-18"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 83,
+      "programme_count": 81,
       "date_range": {
         "start": "2026-08-13",
         "end": "2026-08-18"
@@ -2364,7 +2364,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 124,
+      "programme_count": 117,
       "date_range": {
         "start": "2026-08-13",
         "end": "2026-08-18"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 143,
+      "programme_count": 134,
       "date_range": {
         "start": "2026-08-13",
         "end": "2026-08-18"
@@ -2526,7 +2526,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 79,
+      "programme_count": 74,
       "date_range": {
         "start": "2026-08-13",
         "end": "2026-08-17"
