@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23 04:06:17",
+  "generated_at": "2026-08-23 08:06:03",
   "channel_count": 506,
-  "programme_count": 137329,
+  "programme_count": 137271,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1680,7 +1680,7 @@
     {
       "name": "嘉佳卡通",
       "source": "gdct_noauth",
-      "programme_count": 1371,
+      "programme_count": 1355,
       "date_range": {
         "start": "2026-08-17",
         "end": "2026-08-25"
@@ -1707,7 +1707,7 @@
     {
       "name": "国学",
       "source": "gdct_noauth",
-      "programme_count": 360,
+      "programme_count": 357,
       "date_range": {
         "start": "2026-08-17",
         "end": "2026-08-25"
@@ -2193,7 +2193,7 @@
     {
       "name": "深圳少儿",
       "source": "gdct_noauth",
-      "programme_count": 292,
+      "programme_count": 283,
       "date_range": {
         "start": "2026-08-17",
         "end": "2026-08-25"
@@ -2346,7 +2346,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 126,
+      "programme_count": 120,
       "date_range": {
         "start": "2026-08-17",
         "end": "2026-08-25"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 96,
+      "programme_count": 93,
       "date_range": {
         "start": "2026-08-17",
         "end": "2026-08-25"
@@ -2364,7 +2364,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 142,
+      "programme_count": 135,
       "date_range": {
         "start": "2026-08-17",
         "end": "2026-08-25"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 155,
+      "programme_count": 146,
       "date_range": {
         "start": "2026-08-17",
         "end": "2026-08-25"
@@ -2526,7 +2526,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 90,
+      "programme_count": 85,
       "date_range": {
         "start": "2026-08-17",
         "end": "2026-08-24"
