@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24 04:14:28",
+  "generated_at": "2026-08-24 08:14:26",
   "channel_count": 507,
-  "programme_count": 136045,
+  "programme_count": 136034,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1158,7 +1158,7 @@
     {
       "name": "CCTV-3 综艺",
       "source": "gdct_noauth",
-      "programme_count": 248,
+      "programme_count": 249,
       "date_range": {
         "start": "2026-08-18",
         "end": "2026-08-26"
@@ -1212,7 +1212,7 @@
     {
       "name": "CCTV-5+ 体育赛事",
       "source": "gdct_noauth",
-      "programme_count": 189,
+      "programme_count": 190,
       "date_range": {
         "start": "2026-08-18",
         "end": "2026-08-26"
@@ -1707,7 +1707,7 @@
     {
       "name": "国学",
       "source": "gdct_noauth",
-      "programme_count": 360,
+      "programme_count": 358,
       "date_range": {
         "start": "2026-08-18",
         "end": "2026-08-26"
@@ -1797,10 +1797,10 @@
     {
       "name": "山东教育",
       "source": "gdct_noauth",
-      "programme_count": 244,
+      "programme_count": 233,
       "date_range": {
         "start": "2026-08-18",
-        "end": "2026-08-25"
+        "end": "2026-08-26"
       }
     },
     {

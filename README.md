@@ -16,7 +16,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 在大多数IPTV播放器中，您可以直接设置EPG源为上述URL。
 
 ## 更新信息
-- **最后更新时间**: 2026-08-24 06:11:13 (北京时间)
+- **最后更新时间**: 2026-08-24 10:16:22 (北京时间)
 - **频道总数**: 507
 
 ## 频道列表
@@ -150,13 +150,13 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | CCTV-16 奥林匹克 | gdct_noauth | 203 | 2026-08-18 至 2026-08-26 |
 | CCTV-17 农业 农村 | gdct_noauth | 234 | 2026-08-18 至 2026-08-26 |
 | CCTV-2 财经 | gdct_noauth | 373 | 2026-08-18 至 2026-08-26 |
-| CCTV-3 综艺 | gdct_noauth | 248 | 2026-08-18 至 2026-08-26 |
+| CCTV-3 综艺 | gdct_noauth | 249 | 2026-08-18 至 2026-08-26 |
 | CCTV-4 中文国际 | gdct_noauth | 303 | 2026-08-18 至 2026-08-24 |
 | CCTV-4 中文国际欧洲 | gdct_noauth | 258 | 2026-08-19 至 2026-08-24 |
 | CCTV-4 中文国际美洲 | gdct_noauth | 250 | 2026-08-19 至 2026-08-24 |
 | CCTV-4K | gdct_noauth | 318 | 2026-08-18 至 2026-08-26 |
 | CCTV-5 体育 | gdct_noauth | 175 | 2026-08-18 至 2026-08-24 |
-| CCTV-5+ 体育赛事 | gdct_noauth | 189 | 2026-08-18 至 2026-08-26 |
+| CCTV-5+ 体育赛事 | gdct_noauth | 190 | 2026-08-18 至 2026-08-26 |
 | CCTV-6 电影 | gdct_noauth | 314 | 2026-08-18 至 2026-08-26 |
 | CCTV-7 国防 军事 | gdct_noauth | 337 | 2026-08-18 至 2026-08-26 |
 | CCTV-8 电视剧 | gdct_noauth | 368 | 2026-08-18 至 2026-08-26 |
@@ -211,7 +211,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | 嘉佳卡通 | gdct_noauth | 1350 | 2026-08-18 至 2026-08-25 |
 | 四川卫视 | gdct_noauth | 361 | 2026-08-18 至 2026-08-25 |
 | 四川卫视4K | gdct_noauth | 361 | 2026-08-18 至 2026-08-25 |
-| 国学 | gdct_noauth | 360 | 2026-08-18 至 2026-08-26 |
+| 国学 | gdct_noauth | 358 | 2026-08-18 至 2026-08-26 |
 | 大湾区卫视 | gdct_noauth | 150 | 2026-08-18 至 2026-08-25 |
 | 天元围棋 | gdct_noauth | 259 | 2026-08-18 至 2026-08-26 |
 | 天津卫视 | gdct_noauth | 319 | 2026-08-18 至 2026-08-25 |
@@ -221,7 +221,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | 少儿动画 | gdct_noauth | 174 | 2026-08-18 至 2026-08-25 |
 | 山东卫视 | gdct_noauth | 314 | 2026-08-18 至 2026-08-26 |
 | 山东卫视4K | gdct_noauth | 277 | 2026-08-18 至 2026-08-25 |
-| 山东教育 | gdct_noauth | 244 | 2026-08-18 至 2026-08-25 |
+| 山东教育 | gdct_noauth | 233 | 2026-08-18 至 2026-08-26 |
 | 山西卫视 | gdct_noauth | 370 | 2026-08-18 至 2026-08-26 |
 | 岭南戏曲 | gdct_noauth | 282 | 2026-08-18 至 2026-08-26 |
 | 广东4K | gdct_noauth | 141 | 2026-08-18 至 2026-08-25 |
