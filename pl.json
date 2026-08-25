@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25 10:05:52",
+  "generated_at": "2026-08-25 12:05:45",
   "channel_count": 507,
-  "programme_count": 141068,
+  "programme_count": 141042,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1212,7 +1212,7 @@
     {
       "name": "CCTV-5+ 体育赛事",
       "source": "gdct_noauth",
-      "programme_count": 189,
+      "programme_count": 191,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -1248,7 +1248,7 @@
     {
       "name": "CCTV-9 记录",
       "source": "gdct_noauth",
-      "programme_count": 288,
+      "programme_count": 292,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -1392,7 +1392,7 @@
     {
       "name": "CETV4",
       "source": "gdct_noauth",
-      "programme_count": 420,
+      "programme_count": 418,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -1590,7 +1590,7 @@
     {
       "name": "兵团卫视",
       "source": "gdct_noauth",
-      "programme_count": 442,
+      "programme_count": 437,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -1599,7 +1599,7 @@
     {
       "name": "内蒙古卫视",
       "source": "gdct_noauth",
-      "programme_count": 438,
+      "programme_count": 439,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -2166,7 +2166,7 @@
     {
       "name": "深圳卫视",
       "source": "gdct_noauth",
-      "programme_count": 463,
+      "programme_count": 464,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -2193,7 +2193,7 @@
     {
       "name": "深圳少儿",
       "source": "gdct_noauth",
-      "programme_count": 278,
+      "programme_count": 270,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -2346,7 +2346,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 121,
+      "programme_count": 116,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 99,
+      "programme_count": 97,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -2364,7 +2364,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 140,
+      "programme_count": 135,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 147,
+      "programme_count": 143,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-27"
@@ -2526,7 +2526,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 80,
+      "programme_count": 77,
       "date_range": {
         "start": "2026-08-19",
         "end": "2026-08-26"
