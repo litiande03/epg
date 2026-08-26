@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26 10:06:14",
+  "generated_at": "2026-08-26 12:05:38",
   "channel_count": 508,
-  "programme_count": 140812,
+  "programme_count": 140776,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1113,7 +1113,7 @@
     {
       "name": "CCTV-14 少儿",
       "source": "gdct_noauth",
-      "programme_count": 186,
+      "programme_count": 188,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -1248,7 +1248,7 @@
     {
       "name": "CCTV-9 记录",
       "source": "gdct_noauth",
-      "programme_count": 291,
+      "programme_count": 297,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -1374,7 +1374,7 @@
     {
       "name": "CETV-1",
       "source": "gdct_noauth",
-      "programme_count": 526,
+      "programme_count": 525,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -1392,7 +1392,7 @@
     {
       "name": "CETV4",
       "source": "gdct_noauth",
-      "programme_count": 416,
+      "programme_count": 415,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -1599,7 +1599,7 @@
     {
       "name": "内蒙古卫视",
       "source": "gdct_noauth",
-      "programme_count": 447,
+      "programme_count": 446,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -1644,7 +1644,7 @@
     {
       "name": "卡酷动画",
       "source": "gdct_noauth",
-      "programme_count": 597,
+      "programme_count": 598,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -1779,7 +1779,7 @@
     {
       "name": "山东卫视",
       "source": "gdct_noauth",
-      "programme_count": 360,
+      "programme_count": 362,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -1806,7 +1806,7 @@
     {
       "name": "山西卫视",
       "source": "gdct_noauth",
-      "programme_count": 419,
+      "programme_count": 420,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -2112,7 +2112,7 @@
     {
       "name": "河南卫视",
       "source": "gdct_noauth",
-      "programme_count": 403,
+      "programme_count": 405,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -2139,7 +2139,7 @@
     {
       "name": "浙江卫视",
       "source": "gdct_noauth",
-      "programme_count": 397,
+      "programme_count": 399,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -2148,7 +2148,7 @@
     {
       "name": "浙江卫视4K",
       "source": "gdct_noauth",
-      "programme_count": 400,
+      "programme_count": 402,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -2193,7 +2193,7 @@
     {
       "name": "深圳少儿",
       "source": "gdct_noauth",
-      "programme_count": 281,
+      "programme_count": 272,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -2346,7 +2346,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 117,
+      "programme_count": 111,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 90,
+      "programme_count": 88,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -2364,7 +2364,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 134,
+      "programme_count": 129,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 143,
+      "programme_count": 139,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-28"
@@ -2526,7 +2526,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 80,
+      "programme_count": 77,
       "date_range": {
         "start": "2026-08-20",
         "end": "2026-08-27"
@@ -3750,10 +3750,10 @@
     {
       "name": "myTV SUPER直播足球8台",
       "source": "mytv",
-      "programme_count": 28,
+      "programme_count": 6,
       "date_range": {
         "start": "2026-08-25",
-        "end": "2026-08-28"
+        "end": "2026-08-25"
       }
     },
     {
