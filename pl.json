@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30 02:07:31",
+  "generated_at": "2026-08-30 04:05:24",
   "channel_count": 507,
-  "programme_count": 136566,
+  "programme_count": 136608,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -2346,7 +2346,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 134,
+      "programme_count": 132,
       "date_range": {
         "start": "2026-08-24",
         "end": "2026-09-01"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 84,
+      "programme_count": 82,
       "date_range": {
         "start": "2026-08-24",
         "end": "2026-09-01"
@@ -2364,7 +2364,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 134,
+      "programme_count": 131,
       "date_range": {
         "start": "2026-08-24",
         "end": "2026-09-01"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 162,
+      "programme_count": 158,
       "date_range": {
         "start": "2026-08-24",
         "end": "2026-09-01"
@@ -2526,7 +2526,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 94,
+      "programme_count": 90,
       "date_range": {
         "start": "2026-08-24",
         "end": "2026-08-31"
@@ -2607,10 +2607,10 @@
     {
       "name": "香港卫视",
       "source": "hks",
-      "programme_count": 435,
+      "programme_count": 492,
       "date_range": {
         "start": "2026-08-24",
-        "end": "2026-08-31"
+        "end": "2026-09-01"
       }
     },
     {
