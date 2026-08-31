@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31 02:10:02",
+  "generated_at": "2026-08-31 06:06:17",
   "channel_count": 507,
-  "programme_count": 136696,
+  "programme_count": 136712,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -2346,7 +2346,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 130,
+      "programme_count": 125,
       "date_range": {
         "start": "2026-08-25",
         "end": "2026-09-02"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 80,
+      "programme_count": 77,
       "date_range": {
         "start": "2026-08-25",
         "end": "2026-09-02"
@@ -2364,7 +2364,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 142,
+      "programme_count": 136,
       "date_range": {
         "start": "2026-08-25",
         "end": "2026-09-02"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 164,
+      "programme_count": 156,
       "date_range": {
         "start": "2026-08-25",
         "end": "2026-09-02"
@@ -2526,7 +2526,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 94,
+      "programme_count": 88,
       "date_range": {
         "start": "2026-08-25",
         "end": "2026-09-01"
@@ -2661,10 +2661,10 @@
     {
       "name": "海南社会与法",
       "source": "hntv",
-      "programme_count": 258,
+      "programme_count": 302,
       "date_range": {
         "start": "2026-08-25",
-        "end": "2026-08-30"
+        "end": "2026-08-31"
       }
     },
     {
