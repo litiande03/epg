@@ -16,7 +16,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 在大多数IPTV播放器中，您可以直接设置EPG源为上述URL。
 
 ## 更新信息
-- **最后更新时间**: 2026-09-09 05:30:46 (北京时间)
+- **最后更新时间**: 2026-09-09 07:44:55 (北京时间)
 - **频道总数**: 514
 
 ## 频道列表
@@ -284,10 +284,10 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | 爱综艺 | gdct_noauth | 192 | 2026-09-03 至 2026-09-10 |
 | 珠海 | gdct_noauth | 212 | 2026-09-03 至 2026-09-10 |
 | 甘肃卫视 | gdct_noauth | 393 | 2026-09-03 至 2026-09-10 |
-| 睛彩广场舞 | gdct_noauth | 124 | 2026-09-03 至 2026-09-11 |
-| 睛彩竞技 | gdct_noauth | 77 | 2026-09-03 至 2026-09-11 |
-| 睛彩篮球 | gdct_noauth | 149 | 2026-09-03 至 2026-09-11 |
-| 睛彩青少 | gdct_noauth | 158 | 2026-09-03 至 2026-09-11 |
+| 睛彩广场舞 | gdct_noauth | 121 | 2026-09-03 至 2026-09-11 |
+| 睛彩竞技 | gdct_noauth | 76 | 2026-09-03 至 2026-09-11 |
+| 睛彩篮球 | gdct_noauth | 146 | 2026-09-03 至 2026-09-11 |
+| 睛彩青少 | gdct_noauth | 154 | 2026-09-03 至 2026-09-11 |
 | 经典电影 | gdct_noauth | 118 | 2026-09-03 至 2026-09-10 |
 | 经济科教 | gdct_noauth | 264 | 2026-09-03 至 2026-09-10 |
 | 老故事 | gdct_noauth | 434 | 2026-09-03 至 2026-09-11 |
@@ -304,7 +304,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | 陕西卫视 | gdct_noauth | 296 | 2026-09-03 至 2026-09-10 |
 | 青海卫视 | gdct_noauth | 294 | 2026-09-03 至 2026-09-10 |
 | 韶关新闻综合 | gdct_noauth | 234 | 2026-09-03 至 2026-09-10 |
-| 魅力时尚 | gdct_noauth | 103 | 2026-09-03 至 2026-09-10 |
+| 魅力时尚 | gdct_noauth | 99 | 2026-09-03 至 2026-09-10 |
 | 黑龙江卫视 | gdct_noauth | 358 | 2026-09-03 至 2026-09-10 |
 | 广西乐思购 | gx | 46 | 2026-09-03 至 2026-09-11 |
 | 广西卫视 | gx | 285 | 2026-09-03 至 2026-09-11 |
@@ -434,7 +434,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | Globetrotter | mytv | 232 | 2026-09-03 至 2026-09-11 |
 | KIX | mytv | 137 | 2026-09-03 至 2026-09-11 |
 | Love Nature 4K | mytv | 201 | 2026-09-03 至 2026-09-11 |
-| Love Nature HD | mytv | 58 | 2026-09-03 至 2026-09-11 |
+| Love Nature HD | mytv | 111 | 2026-09-03 至 2026-09-11 |
 | Motorvision | mytv | 36 | 2026-09-03 至 2026-09-03 |
 | My Cinema Europe | mytv | 9 | 2026-09-03 至 2026-09-03 |
 | myTV SUPER 18台 | mytv | 195 | 2026-09-03 至 2026-09-11 |
