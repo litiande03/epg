@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10 02:06:25",
+  "generated_at": "2026-09-10 04:05:24",
   "channel_count": 506,
-  "programme_count": 137331,
+  "programme_count": 138754,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1527,10 +1527,10 @@
     {
       "name": "中国天气",
       "source": "gdct_noauth",
-      "programme_count": 438,
+      "programme_count": 656,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
@@ -1779,10 +1779,10 @@
     {
       "name": "宜和购物",
       "source": "gdct_noauth",
-      "programme_count": 236,
+      "programme_count": 356,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
@@ -2202,46 +2202,46 @@
     {
       "name": "深圳宝安",
       "source": "gdct_noauth",
-      "programme_count": 123,
+      "programme_count": 192,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
       "name": "深圳少儿",
       "source": "gdct_noauth",
-      "programme_count": 43,
+      "programme_count": 298,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
       "name": "深圳电视剧",
       "source": "gdct_noauth",
-      "programme_count": 198,
+      "programme_count": 283,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
       "name": "深圳都市",
       "source": "gdct_noauth",
-      "programme_count": 261,
+      "programme_count": 376,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
       "name": "深圳龙岗",
       "source": "gdct_noauth",
-      "programme_count": 125,
+      "programme_count": 200,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
@@ -2364,37 +2364,37 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 16,
+      "programme_count": 122,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 16,
+      "programme_count": 71,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 21,
+      "programme_count": 147,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 23,
+      "programme_count": 153,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-12"
       }
     },
     {
@@ -2544,10 +2544,10 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 24,
+      "programme_count": 93,
       "date_range": {
         "start": "2026-09-04",
-        "end": "2026-09-09"
+        "end": "2026-09-11"
       }
     },
     {
