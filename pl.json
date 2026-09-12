@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12 16:07:19",
+  "generated_at": "2026-09-12 20:06:55",
   "channel_count": 506,
-  "programme_count": 143488,
+  "programme_count": 144359,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1131,7 +1131,7 @@
     {
       "name": "CCTV-14 少儿",
       "source": "gdct_noauth",
-      "programme_count": 197,
+      "programme_count": 198,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -1662,7 +1662,7 @@
     {
       "name": "卡酷动画",
       "source": "gdct_noauth",
-      "programme_count": 595,
+      "programme_count": 596,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -1959,7 +1959,7 @@
     {
       "name": "广西卫视",
       "source": "gdct_noauth",
-      "programme_count": 381,
+      "programme_count": 383,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -2211,7 +2211,7 @@
     {
       "name": "深圳少儿",
       "source": "gdct_noauth",
-      "programme_count": 241,
+      "programme_count": 220,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -2274,7 +2274,7 @@
     {
       "name": "湖南卫视4K",
       "source": "gdct_noauth",
-      "programme_count": 361,
+      "programme_count": 360,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -2364,7 +2364,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 105,
+      "programme_count": 101,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 77,
+      "programme_count": 74,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -2382,7 +2382,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 115,
+      "programme_count": 107,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -2391,7 +2391,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 111,
+      "programme_count": 107,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -2544,7 +2544,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 74,
+      "programme_count": 68,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-13"
@@ -4470,7 +4470,7 @@
     {
       "name": "浙江之江纪录",
       "source": "zj",
-      "programme_count": 415,
+      "programme_count": 438,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -4479,7 +4479,7 @@
     {
       "name": "浙江卫视",
       "source": "zj",
-      "programme_count": 721,
+      "programme_count": 791,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -4488,7 +4488,7 @@
     {
       "name": "浙江国际",
       "source": "zj",
-      "programme_count": 587,
+      "programme_count": 638,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -4506,7 +4506,7 @@
     {
       "name": "浙江少儿频道",
       "source": "zj",
-      "programme_count": 1272,
+      "programme_count": 1434,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -4515,7 +4515,7 @@
     {
       "name": "浙江教科影视",
       "source": "zj",
-      "programme_count": 1535,
+      "programme_count": 1735,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -4524,7 +4524,7 @@
     {
       "name": "浙江新闻",
       "source": "zj",
-      "programme_count": 860,
+      "programme_count": 949,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -4533,7 +4533,7 @@
     {
       "name": "浙江民生休闲",
       "source": "zj",
-      "programme_count": 851,
+      "programme_count": 947,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -4542,7 +4542,7 @@
     {
       "name": "浙江经济生活",
       "source": "zj",
-      "programme_count": 817,
+      "programme_count": 906,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
@@ -4551,7 +4551,7 @@
     {
       "name": "浙江钱江都市",
       "source": "zj",
-      "programme_count": 1130,
+      "programme_count": 1264,
       "date_range": {
         "start": "2026-09-06",
         "end": "2026-09-14"
