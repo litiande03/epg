@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14 02:06:28",
+  "generated_at": "2026-09-14 04:06:16",
   "channel_count": 507,
-  "programme_count": 138718,
+  "programme_count": 138851,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 123,
+      "programme_count": 122,
       "date_range": {
         "start": "2026-09-08",
         "end": "2026-09-16"
@@ -2391,7 +2391,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 147,
+      "programme_count": 144,
       "date_range": {
         "start": "2026-09-08",
         "end": "2026-09-16"
@@ -2400,7 +2400,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 157,
+      "programme_count": 155,
       "date_range": {
         "start": "2026-09-08",
         "end": "2026-09-16"
@@ -2553,7 +2553,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 95,
+      "programme_count": 91,
       "date_range": {
         "start": "2026-09-08",
         "end": "2026-09-15"
@@ -2724,10 +2724,10 @@
     {
       "name": "HOY 78",
       "source": "hoy",
-      "programme_count": 302,
+      "programme_count": 445,
       "date_range": {
         "start": "2026-09-08",
-        "end": "2026-09-13"
+        "end": "2026-09-16"
       }
     },
     {
