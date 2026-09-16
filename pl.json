@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17 02:06:09",
+  "generated_at": "2026-09-17 04:05:44",
   "channel_count": 507,
-  "programme_count": 138550,
+  "programme_count": 138534,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 130,
+      "programme_count": 127,
       "date_range": {
         "start": "2026-09-11",
         "end": "2026-09-19"
@@ -2382,7 +2382,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 97,
+      "programme_count": 95,
       "date_range": {
         "start": "2026-09-11",
         "end": "2026-09-19"
@@ -2391,7 +2391,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 145,
+      "programme_count": 142,
       "date_range": {
         "start": "2026-09-11",
         "end": "2026-09-19"
@@ -2400,7 +2400,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 168,
+      "programme_count": 164,
       "date_range": {
         "start": "2026-09-11",
         "end": "2026-09-19"
@@ -2553,7 +2553,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 94,
+      "programme_count": 90,
       "date_range": {
         "start": "2026-09-11",
         "end": "2026-09-18"
