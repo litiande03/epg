@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21 10:06:58",
+  "generated_at": "2026-09-21 18:06:54",
   "channel_count": 507,
-  "programme_count": 141245,
+  "programme_count": 142965,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1095,16 +1095,16 @@
     {
       "name": "CCTV-1 综合",
       "source": "gdct_noauth",
-      "programme_count": 272,
+      "programme_count": 313,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "CCTV-10 科教",
       "source": "gdct_noauth",
-      "programme_count": 329,
+      "programme_count": 330,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1122,7 +1122,7 @@
     {
       "name": "CCTV-12 社会与法",
       "source": "gdct_noauth",
-      "programme_count": 306,
+      "programme_count": 307,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1167,7 +1167,7 @@
     {
       "name": "CCTV-17 农业 农村",
       "source": "gdct_noauth",
-      "programme_count": 268,
+      "programme_count": 269,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1203,43 +1203,43 @@
     {
       "name": "CCTV-4 中文国际欧洲",
       "source": "gdct_noauth",
-      "programme_count": 289,
-      "date_range": {
-        "start": "2026-09-15",
-        "end": "2026-09-21"
-      }
-    },
-    {
-      "name": "CCTV-4 中文国际美洲",
-      "source": "gdct_noauth",
-      "programme_count": 291,
-      "date_range": {
-        "start": "2026-09-15",
-        "end": "2026-09-21"
-      }
-    },
-    {
-      "name": "CCTV-4K",
-      "source": "gdct_noauth",
-      "programme_count": 282,
+      "programme_count": 329,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-22"
       }
     },
     {
-      "name": "CCTV-5 体育",
+      "name": "CCTV-4 中文国际美洲",
       "source": "gdct_noauth",
-      "programme_count": 177,
+      "programme_count": 332,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-21"
+        "end": "2026-09-22"
+      }
+    },
+    {
+      "name": "CCTV-4K",
+      "source": "gdct_noauth",
+      "programme_count": 323,
+      "date_range": {
+        "start": "2026-09-15",
+        "end": "2026-09-23"
+      }
+    },
+    {
+      "name": "CCTV-5 体育",
+      "source": "gdct_noauth",
+      "programme_count": 204,
+      "date_range": {
+        "start": "2026-09-15",
+        "end": "2026-09-22"
       }
     },
     {
       "name": "CCTV-5+ 体育赛事",
       "source": "gdct_noauth",
-      "programme_count": 195,
+      "programme_count": 198,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1257,7 +1257,7 @@
     {
       "name": "CCTV-7 国防 军事",
       "source": "gdct_noauth",
-      "programme_count": 297,
+      "programme_count": 301,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-22"
@@ -1275,7 +1275,7 @@
     {
       "name": "CCTV-9 记录",
       "source": "gdct_noauth",
-      "programme_count": 285,
+      "programme_count": 289,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1329,10 +1329,10 @@
     {
       "name": "CCTV-央视足球",
       "source": "gdct_noauth",
-      "programme_count": 141,
+      "programme_count": 161,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -1410,7 +1410,7 @@
     {
       "name": "CETV2",
       "source": "gdct_noauth",
-      "programme_count": 504,
+      "programme_count": 503,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1455,10 +1455,10 @@
     {
       "name": "CGTN英语",
       "source": "gdct_noauth",
-      "programme_count": 314,
+      "programme_count": 360,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-21"
+        "end": "2026-09-22"
       }
     },
     {
@@ -1482,7 +1482,7 @@
     {
       "name": "三沙卫视",
       "source": "gdct_noauth",
-      "programme_count": 329,
+      "programme_count": 376,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-22"
@@ -1491,28 +1491,28 @@
     {
       "name": "东南卫视",
       "source": "gdct_noauth",
-      "programme_count": 309,
+      "programme_count": 354,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "东方卫视",
       "source": "gdct_noauth",
-      "programme_count": 307,
+      "programme_count": 347,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "东方卫视4K",
       "source": "gdct_noauth",
-      "programme_count": 307,
+      "programme_count": 347,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -1536,7 +1536,7 @@
     {
       "name": "中国天气",
       "source": "gdct_noauth",
-      "programme_count": 656,
+      "programme_count": 657,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1554,10 +1554,10 @@
     {
       "name": "云南卫视",
       "source": "gdct_noauth",
-      "programme_count": 351,
+      "programme_count": 403,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -1617,19 +1617,19 @@
     {
       "name": "兵团卫视",
       "source": "gdct_noauth",
-      "programme_count": 342,
+      "programme_count": 386,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "内蒙古卫视",
       "source": "gdct_noauth",
-      "programme_count": 347,
+      "programme_count": 398,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-21"
+        "end": "2026-09-23"
       }
     },
     {
@@ -1653,19 +1653,19 @@
     {
       "name": "南方购物",
       "source": "gdct_noauth",
-      "programme_count": 328,
+      "programme_count": 376,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-21"
+        "end": "2026-09-22"
       }
     },
     {
       "name": "南方购物-精选",
       "source": "gdct_noauth",
-      "programme_count": 328,
+      "programme_count": 376,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-21"
+        "end": "2026-09-22"
       }
     },
     {
@@ -1689,10 +1689,10 @@
     {
       "name": "吉林卫视",
       "source": "gdct_noauth",
-      "programme_count": 346,
+      "programme_count": 390,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -1716,19 +1716,19 @@
     {
       "name": "四川卫视",
       "source": "gdct_noauth",
-      "programme_count": 365,
+      "programme_count": 416,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "四川卫视4K",
       "source": "gdct_noauth",
-      "programme_count": 365,
+      "programme_count": 416,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -1761,25 +1761,25 @@
     {
       "name": "天津卫视",
       "source": "gdct_noauth",
-      "programme_count": 325,
+      "programme_count": 369,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "宁夏卫视",
       "source": "gdct_noauth",
-      "programme_count": 326,
+      "programme_count": 370,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "安徽卫视",
       "source": "gdct_noauth",
-      "programme_count": 338,
+      "programme_count": 337,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1815,10 +1815,10 @@
     {
       "name": "山东卫视4K",
       "source": "gdct_noauth",
-      "programme_count": 279,
+      "programme_count": 317,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -1833,7 +1833,7 @@
     {
       "name": "山西卫视",
       "source": "gdct_noauth",
-      "programme_count": 395,
+      "programme_count": 394,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1860,16 +1860,16 @@
     {
       "name": "广东体育",
       "source": "gdct_noauth",
-      "programme_count": 261,
+      "programme_count": 283,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-21"
+        "end": "2026-09-22"
       }
     },
     {
       "name": "广东卫视",
       "source": "gdct_noauth",
-      "programme_count": 246,
+      "programme_count": 278,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1878,7 +1878,7 @@
     {
       "name": "广东卫视4K",
       "source": "gdct_noauth",
-      "programme_count": 356,
+      "programme_count": 355,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1896,7 +1896,7 @@
     {
       "name": "广东影视",
       "source": "gdct_noauth",
-      "programme_count": 127,
+      "programme_count": 112,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1905,10 +1905,10 @@
     {
       "name": "广东新闻",
       "source": "gdct_noauth",
-      "programme_count": 317,
+      "programme_count": 362,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-21"
+        "end": "2026-09-22"
       }
     },
     {
@@ -1941,7 +1941,7 @@
     {
       "name": "广州南国都市4K",
       "source": "gdct_noauth",
-      "programme_count": 235,
+      "programme_count": 260,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -1968,7 +1968,7 @@
     {
       "name": "广西卫视",
       "source": "gdct_noauth",
-      "programme_count": 377,
+      "programme_count": 376,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -2013,10 +2013,10 @@
     {
       "name": "新疆卫视",
       "source": "gdct_noauth",
-      "programme_count": 344,
+      "programme_count": 393,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -2103,10 +2103,10 @@
     {
       "name": "江西卫视",
       "source": "gdct_noauth",
-      "programme_count": 356,
+      "programme_count": 410,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -2130,16 +2130,16 @@
     {
       "name": "河北卫视",
       "source": "gdct_noauth",
-      "programme_count": 323,
+      "programme_count": 381,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "河南卫视",
       "source": "gdct_noauth",
-      "programme_count": 411,
+      "programme_count": 412,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -2184,10 +2184,10 @@
     {
       "name": "海南卫视",
       "source": "gdct_noauth",
-      "programme_count": 378,
+      "programme_count": 433,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -2202,10 +2202,10 @@
     {
       "name": "深圳卫视4K",
       "source": "gdct_noauth",
-      "programme_count": 352,
+      "programme_count": 403,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -2220,7 +2220,7 @@
     {
       "name": "深圳少儿",
       "source": "gdct_noauth",
-      "programme_count": 287,
+      "programme_count": 242,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -2265,7 +2265,7 @@
     {
       "name": "湖北卫视",
       "source": "gdct_noauth",
-      "programme_count": 320,
+      "programme_count": 322,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -2274,16 +2274,16 @@
     {
       "name": "湖南卫视",
       "source": "gdct_noauth",
-      "programme_count": 282,
+      "programme_count": 323,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "湖南卫视4K",
       "source": "gdct_noauth",
-      "programme_count": 360,
+      "programme_count": 361,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -2364,16 +2364,16 @@
     {
       "name": "甘肃卫视",
       "source": "gdct_noauth",
-      "programme_count": 396,
+      "programme_count": 451,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 120,
+      "programme_count": 106,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -2382,7 +2382,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 97,
+      "programme_count": 86,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -2391,7 +2391,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 131,
+      "programme_count": 117,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -2400,7 +2400,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 140,
+      "programme_count": 125,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -2454,25 +2454,25 @@
     {
       "name": "西藏卫视",
       "source": "gdct_noauth",
-      "programme_count": 279,
+      "programme_count": 318,
+      "date_range": {
+        "start": "2026-09-15",
+        "end": "2026-09-23"
+      }
+    },
+    {
+      "name": "贵州卫视",
+      "source": "gdct_noauth",
+      "programme_count": 353,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-22"
       }
     },
     {
-      "name": "贵州卫视",
-      "source": "gdct_noauth",
-      "programme_count": 309,
-      "date_range": {
-        "start": "2026-09-15",
-        "end": "2026-09-21"
-      }
-    },
-    {
       "name": "辽宁卫视",
       "source": "gdct_noauth",
-      "programme_count": 390,
+      "programme_count": 446,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-22"
@@ -2481,19 +2481,19 @@
     {
       "name": "重庆卫视",
       "source": "gdct_noauth",
-      "programme_count": 287,
+      "programme_count": 329,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "金鹰卡通",
       "source": "gdct_noauth",
-      "programme_count": 118,
+      "programme_count": 134,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-21"
+        "end": "2026-09-22"
       }
     },
     {
@@ -2517,16 +2517,16 @@
     {
       "name": "陕西卫视",
       "source": "gdct_noauth",
-      "programme_count": 289,
+      "programme_count": 332,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
       "name": "青海卫视",
       "source": "gdct_noauth",
-      "programme_count": 298,
+      "programme_count": 345,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-22"
@@ -2544,7 +2544,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 88,
+      "programme_count": 76,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-22"
@@ -2553,10 +2553,10 @@
     {
       "name": "黑龙江卫视",
       "source": "gdct_noauth",
-      "programme_count": 357,
+      "programme_count": 407,
       "date_range": {
         "start": "2026-09-15",
-        "end": "2026-09-22"
+        "end": "2026-09-23"
       }
     },
     {
@@ -4110,7 +4110,7 @@
     {
       "name": "中央電視台綜合頻道 (港澳版)",
       "source": "mytv",
-      "programme_count": 162,
+      "programme_count": 230,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -4362,7 +4362,7 @@
     {
       "name": "翡翠台",
       "source": "mytv",
-      "programme_count": 333,
+      "programme_count": 332,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -4443,7 +4443,7 @@
     {
       "name": "澳門資訊",
       "source": "tdm",
-      "programme_count": 403,
+      "programme_count": 402,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
@@ -4452,7 +4452,7 @@
     {
       "name": "澳門體育",
       "source": "tdm",
-      "programme_count": 138,
+      "programme_count": 137,
       "date_range": {
         "start": "2026-09-15",
         "end": "2026-09-23"
