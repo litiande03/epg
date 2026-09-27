@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27 02:06:37",
+  "generated_at": "2026-09-27 06:05:26",
   "channel_count": 506,
-  "programme_count": 137052,
+  "programme_count": 137219,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1734,7 +1734,7 @@
     {
       "name": "国学",
       "source": "gdct_noauth",
-      "programme_count": 375,
+      "programme_count": 372,
       "date_range": {
         "start": "2026-09-21",
         "end": "2026-09-29"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 159,
+      "programme_count": 152,
       "date_range": {
         "start": "2026-09-21",
         "end": "2026-09-29"
@@ -2382,7 +2382,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 117,
+      "programme_count": 111,
       "date_range": {
         "start": "2026-09-21",
         "end": "2026-09-29"
@@ -2391,7 +2391,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 143,
+      "programme_count": 137,
       "date_range": {
         "start": "2026-09-21",
         "end": "2026-09-29"
@@ -2400,7 +2400,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 154,
+      "programme_count": 146,
       "date_range": {
         "start": "2026-09-21",
         "end": "2026-09-29"
@@ -2544,7 +2544,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 125,
+      "programme_count": 117,
       "date_range": {
         "start": "2026-09-21",
         "end": "2026-09-28"
@@ -2706,19 +2706,19 @@
     {
       "name": "HOY 77",
       "source": "hoy",
-      "programme_count": 110,
+      "programme_count": 162,
       "date_range": {
         "start": "2026-09-21",
-        "end": "2026-09-26"
+        "end": "2026-09-29"
       }
     },
     {
       "name": "HOY 78",
       "source": "hoy",
-      "programme_count": 306,
+      "programme_count": 459,
       "date_range": {
         "start": "2026-09-21",
-        "end": "2026-09-26"
+        "end": "2026-09-29"
       }
     },
     {
