@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01 02:08:45",
+  "generated_at": "2026-10-01 06:05:59",
   "channel_count": 511,
-  "programme_count": 137630,
+  "programme_count": 137596,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1734,7 +1734,7 @@
     {
       "name": "国学",
       "source": "gdct_noauth",
-      "programme_count": 373,
+      "programme_count": 370,
       "date_range": {
         "start": "2026-09-25",
         "end": "2026-10-03"
@@ -1842,7 +1842,7 @@
     {
       "name": "岭南戏曲",
       "source": "gdct_noauth",
-      "programme_count": 277,
+      "programme_count": 276,
       "date_range": {
         "start": "2026-09-25",
         "end": "2026-10-03"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 159,
+      "programme_count": 155,
       "date_range": {
         "start": "2026-09-25",
         "end": "2026-10-03"
@@ -2382,7 +2382,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 107,
+      "programme_count": 103,
       "date_range": {
         "start": "2026-09-25",
         "end": "2026-10-03"
@@ -2391,7 +2391,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 144,
+      "programme_count": 138,
       "date_range": {
         "start": "2026-09-25",
         "end": "2026-10-03"
@@ -2400,7 +2400,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 138,
+      "programme_count": 130,
       "date_range": {
         "start": "2026-09-25",
         "end": "2026-10-03"
@@ -2427,7 +2427,7 @@
     {
       "name": "老故事",
       "source": "gdct_noauth",
-      "programme_count": 338,
+      "programme_count": 339,
       "date_range": {
         "start": "2026-09-25",
         "end": "2026-10-03"
@@ -2544,7 +2544,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 132,
+      "programme_count": 123,
       "date_range": {
         "start": "2026-09-25",
         "end": "2026-10-02"
