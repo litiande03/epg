@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14 02:07:21",
+  "generated_at": "2026-11-14 06:05:20",
   "channel_count": 514,
-  "programme_count": 142384,
+  "programme_count": 142507,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1320,10 +1320,10 @@
     {
       "name": "CCTV-央视文化精品",
       "source": "gdct_noauth",
-      "programme_count": 220,
+      "programme_count": 221,
       "date_range": {
         "start": "2026-11-08",
-        "end": "2026-11-15"
+        "end": "2026-11-16"
       }
     },
     {
@@ -1698,7 +1698,7 @@
     {
       "name": "嘉佳卡通",
       "source": "gdct_noauth",
-      "programme_count": 1056,
+      "programme_count": 1240,
       "date_range": {
         "start": "2026-11-08",
         "end": "2026-11-16"
@@ -1833,7 +1833,7 @@
     {
       "name": "岭南戏曲",
       "source": "gdct_noauth",
-      "programme_count": 310,
+      "programme_count": 277,
       "date_range": {
         "start": "2026-11-08",
         "end": "2026-11-16"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 113,
+      "programme_count": 105,
       "date_range": {
         "start": "2026-11-08",
         "end": "2026-11-16"
@@ -2364,7 +2364,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 97,
+      "programme_count": 93,
       "date_range": {
         "start": "2026-11-08",
         "end": "2026-11-16"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 121,
+      "programme_count": 115,
       "date_range": {
         "start": "2026-11-08",
         "end": "2026-11-16"
@@ -2382,7 +2382,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 134,
+      "programme_count": 128,
       "date_range": {
         "start": "2026-11-08",
         "end": "2026-11-16"
@@ -2526,7 +2526,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 90,
+      "programme_count": 85,
       "date_range": {
         "start": "2026-11-08",
         "end": "2026-11-15"
