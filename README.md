@@ -16,7 +16,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 在大多数IPTV播放器中，您可以直接设置EPG源为上述URL。
 
 ## 更新信息
-- **最后更新时间**: 2026-11-19 04:59:03 (北京时间)
+- **最后更新时间**: 2026-11-19 10:52:53 (北京时间)
 - **频道总数**: 514
 
 ## 频道列表
@@ -153,7 +153,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | CCTV-16 奥林匹克 | gdct_noauth | 182 | 2026-11-13 至 2026-11-20 |
 | CCTV-17 农业 农村 | gdct_noauth | 288 | 2026-11-13 至 2026-11-21 |
 | CCTV-2 财经 | gdct_noauth | 366 | 2026-11-13 至 2026-11-21 |
-| CCTV-3 综艺 | gdct_noauth | 211 | 2026-11-13 至 2026-11-21 |
+| CCTV-3 综艺 | gdct_noauth | 212 | 2026-11-13 至 2026-11-21 |
 | CCTV-4 中文国际 | gdct_noauth | 393 | 2026-11-13 至 2026-11-21 |
 | CCTV-4 中文国际欧洲 | gdct_noauth | 284 | 2026-11-13 至 2026-11-19 |
 | CCTV-4 中文国际美洲 | gdct_noauth | 293 | 2026-11-13 至 2026-11-19 |
@@ -210,10 +210,10 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | 厦门卫视 | gdct_noauth | 229 | 2026-11-13 至 2026-11-21 |
 | 吉林卫视 | gdct_noauth | 340 | 2026-11-13 至 2026-11-20 |
 | 吉林延边卫视 | gdct_noauth | 209 | 2026-11-13 至 2026-11-21 |
-| 嘉佳卡通 | gdct_noauth | 1236 | 2026-11-13 至 2026-11-20 |
+| 嘉佳卡通 | gdct_noauth | 1268 | 2026-11-13 至 2026-11-20 |
 | 四川卫视 | gdct_noauth | 371 | 2026-11-13 至 2026-11-20 |
 | 四川卫视4K | gdct_noauth | 372 | 2026-11-13 至 2026-11-20 |
-| 国学 | gdct_noauth | 372 | 2026-11-13 至 2026-11-21 |
+| 国学 | gdct_noauth | 371 | 2026-11-13 至 2026-11-21 |
 | 大湾区卫视 | gdct_noauth | 182 | 2026-11-13 至 2026-11-20 |
 | 天元围棋 | gdct_noauth | 210 | 2026-11-13 至 2026-11-21 |
 | 天津卫视 | gdct_noauth | 321 | 2026-11-13 至 2026-11-20 |
@@ -266,7 +266,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | 海南卫视 | gdct_noauth | 399 | 2026-11-13 至 2026-11-20 |
 | 深圳卫视 | gdct_noauth | 388 | 2026-11-13 至 2026-11-20 |
 | 深圳卫视4K | gdct_noauth | 388 | 2026-11-13 至 2026-11-20 |
-| 深圳少儿 | gdct_noauth | 294 | 2026-11-13 至 2026-11-21 |
+| 深圳少儿 | gdct_noauth | 288 | 2026-11-13 至 2026-11-21 |
 | 深圳电视剧 | gdct_noauth | 267 | 2026-11-13 至 2026-11-21 |
 | 深圳都市 | gdct_noauth | 324 | 2026-11-13 至 2026-11-21 |
 | 深圳龙岗 | gdct_noauth | 150 | 2026-11-13 至 2026-11-18 |
@@ -283,10 +283,10 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | 爱综艺 | gdct_noauth | 158 | 2026-11-13 至 2026-11-20 |
 | 珠海 | gdct_noauth | 209 | 2026-11-13 至 2026-11-20 |
 | 甘肃卫视 | gdct_noauth | 422 | 2026-11-13 至 2026-11-20 |
-| 睛彩广场舞 | gdct_noauth | 127 | 2026-11-13 至 2026-11-21 |
-| 睛彩竞技 | gdct_noauth | 121 | 2026-11-13 至 2026-11-21 |
-| 睛彩篮球 | gdct_noauth | 125 | 2026-11-13 至 2026-11-21 |
-| 睛彩青少 | gdct_noauth | 133 | 2026-11-13 至 2026-11-21 |
+| 睛彩广场舞 | gdct_noauth | 119 | 2026-11-13 至 2026-11-21 |
+| 睛彩竞技 | gdct_noauth | 113 | 2026-11-13 至 2026-11-21 |
+| 睛彩篮球 | gdct_noauth | 114 | 2026-11-13 至 2026-11-21 |
+| 睛彩青少 | gdct_noauth | 123 | 2026-11-13 至 2026-11-21 |
 | 经典电影 | gdct_noauth | 123 | 2026-11-13 至 2026-11-20 |
 | 经济科教 | gdct_noauth | 253 | 2026-11-13 至 2026-11-20 |
 | 老故事 | gdct_noauth | 437 | 2026-11-13 至 2026-11-21 |
@@ -302,7 +302,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | 陕西卫视 | gdct_noauth | 280 | 2026-11-13 至 2026-11-20 |
 | 青海卫视 | gdct_noauth | 310 | 2026-11-13 至 2026-11-20 |
 | 韶关新闻综合 | gdct_noauth | 232 | 2026-11-13 至 2026-11-20 |
-| 魅力时尚 | gdct_noauth | 95 | 2026-11-13 至 2026-11-20 |
+| 魅力时尚 | gdct_noauth | 86 | 2026-11-13 至 2026-11-20 |
 | 黑龙江卫视 | gdct_noauth | 354 | 2026-11-13 至 2026-11-20 |
 | 广西乐思购 | gx | 46 | 2026-11-13 至 2026-11-21 |
 | 广西卫视 | gx | 323 | 2026-11-13 至 2026-11-21 |
@@ -415,7 +415,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | 龍華洋片台 | litv | 94 | 2026-11-13 至 2026-11-21 |
 | 龍華經典台 | litv | 83 | 2026-11-13 至 2026-11-21 |
 | 龍華電影台 | litv | 89 | 2026-11-13 至 2026-11-21 |
-| Access eClutch | mytv | 612 | 2026-11-13 至 2026-11-21 |
+| Access eClutch | mytv | 620 | 2026-11-13 至 2026-11-21 |
 | Action Hollywood Movies | mytv | 87 | 2026-11-13 至 2026-11-21 |
 | Arirang TV | mytv | 376 | 2026-11-13 至 2026-11-21 |
 | CGTN (中國環球電視網)英語頻道 | mytv | 331 | 2026-11-13 至 2026-11-21 |
@@ -424,7 +424,7 @@ https://github.com/litiande03/epg/raw/refs/heads/master/pl.xml.gz
 | Crema.TV | mytv | 1760 | 2026-11-13 至 2026-11-21 |
 | Docsville | mytv | 187 | 2026-11-13 至 2026-11-21 |
 | DW | mytv | 548 | 2026-11-13 至 2026-11-21 |
-| eClutch Live 2 | mytv | 613 | 2026-11-13 至 2026-11-21 |
+| eClutch Live 2 | mytv | 611 | 2026-11-13 至 2026-11-21 |
 | Fashion TV | mytv | 330 | 2026-11-13 至 2026-11-21 |
 | France 24 | mytv | 174 | 2026-11-13 至 2026-11-21 |
 | Global Trekker | mytv | 248 | 2026-11-13 至 2026-11-21 |

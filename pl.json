@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19 02:07:00",
+  "generated_at": "2026-11-19 08:06:02",
   "channel_count": 514,
-  "programme_count": 142511,
+  "programme_count": 142497,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1185,7 +1185,7 @@
     {
       "name": "CCTV-3 综艺",
       "source": "gdct_noauth",
-      "programme_count": 211,
+      "programme_count": 212,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-21"
@@ -1698,7 +1698,7 @@
     {
       "name": "嘉佳卡通",
       "source": "gdct_noauth",
-      "programme_count": 1236,
+      "programme_count": 1268,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-20"
@@ -1725,7 +1725,7 @@
     {
       "name": "国学",
       "source": "gdct_noauth",
-      "programme_count": 372,
+      "programme_count": 371,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-21"
@@ -2202,7 +2202,7 @@
     {
       "name": "深圳少儿",
       "source": "gdct_noauth",
-      "programme_count": 294,
+      "programme_count": 288,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-21"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 127,
+      "programme_count": 119,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-21"
@@ -2364,7 +2364,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 121,
+      "programme_count": 113,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-21"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 125,
+      "programme_count": 114,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-21"
@@ -2382,7 +2382,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 133,
+      "programme_count": 123,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-21"
@@ -2526,7 +2526,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 95,
+      "programme_count": 86,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-20"
@@ -3543,7 +3543,7 @@
     {
       "name": "Access eClutch",
       "source": "mytv",
-      "programme_count": 612,
+      "programme_count": 620,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-21"
@@ -3624,7 +3624,7 @@
     {
       "name": "eClutch Live 2",
       "source": "mytv",
-      "programme_count": 613,
+      "programme_count": 611,
       "date_range": {
         "start": "2026-11-13",
         "end": "2026-11-21"
