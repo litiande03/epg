@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21 02:06:06",
-  "channel_count": 514,
-  "programme_count": 142333,
+  "generated_at": "2026-11-21 08:06:57",
+  "channel_count": 515,
+  "programme_count": 142340,
   "channels": [
     {
       "name": "ABC Australia 澳洲公廣頻道",
@@ -1698,7 +1698,7 @@
     {
       "name": "嘉佳卡通",
       "source": "gdct_noauth",
-      "programme_count": 1388,
+      "programme_count": 1422,
       "date_range": {
         "start": "2026-11-15",
         "end": "2026-11-23"
@@ -1725,7 +1725,7 @@
     {
       "name": "国学",
       "source": "gdct_noauth",
-      "programme_count": 372,
+      "programme_count": 371,
       "date_range": {
         "start": "2026-11-15",
         "end": "2026-11-23"
@@ -1833,7 +1833,7 @@
     {
       "name": "岭南戏曲",
       "source": "gdct_noauth",
-      "programme_count": 277,
+      "programme_count": 276,
       "date_range": {
         "start": "2026-11-15",
         "end": "2026-11-23"
@@ -2202,7 +2202,7 @@
     {
       "name": "深圳少儿",
       "source": "gdct_noauth",
-      "programme_count": 293,
+      "programme_count": 287,
       "date_range": {
         "start": "2026-11-15",
         "end": "2026-11-23"
@@ -2355,7 +2355,7 @@
     {
       "name": "睛彩广场舞",
       "source": "gdct_noauth",
-      "programme_count": 106,
+      "programme_count": 98,
       "date_range": {
         "start": "2026-11-15",
         "end": "2026-11-23"
@@ -2364,7 +2364,7 @@
     {
       "name": "睛彩竞技",
       "source": "gdct_noauth",
-      "programme_count": 120,
+      "programme_count": 112,
       "date_range": {
         "start": "2026-11-15",
         "end": "2026-11-23"
@@ -2373,7 +2373,7 @@
     {
       "name": "睛彩篮球",
       "source": "gdct_noauth",
-      "programme_count": 110,
+      "programme_count": 100,
       "date_range": {
         "start": "2026-11-15",
         "end": "2026-11-23"
@@ -2382,7 +2382,7 @@
     {
       "name": "睛彩青少",
       "source": "gdct_noauth",
-      "programme_count": 131,
+      "programme_count": 121,
       "date_range": {
         "start": "2026-11-15",
         "end": "2026-11-23"
@@ -2526,7 +2526,7 @@
     {
       "name": "魅力时尚",
       "source": "gdct_noauth",
-      "programme_count": 95,
+      "programme_count": 86,
       "date_range": {
         "start": "2026-11-15",
         "end": "2026-11-22"
@@ -4284,6 +4284,15 @@
       "programme_count": 682,
       "date_range": {
         "start": "2026-11-15",
+        "end": "2026-11-23"
+      }
+    },
+    {
+      "name": "方力申港澳慈善游2026",
+      "source": "mytv",
+      "programme_count": 26,
+      "date_range": {
+        "start": "2026-11-21",
         "end": "2026-11-23"
       }
     },
